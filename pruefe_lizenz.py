@@ -23,10 +23,23 @@ IMMER = {os.path.join(PROJEKT, 'A1_SD1_Wortliste_02.pdf'), QUELLE,
          os.path.join(PROJEKT, 'wortgruppen_de.tsv')}
 
 
+# Alltagsfloskeln. Sie stehen zwar in der Wortliste, aber niemand haelt
+# Rechte an "Mit freundlichen Gruessen" -- taucht so etwas in einem Brief
+# dieses Repositorys auf, ist das keine Uebernahme, sondern deutsche Sprache.
+FLOSKELN = {
+    'Mit freundlichen Grüßen', 'Sehr geehrte Damen und Herren!',
+    'Auf Wiedersehen!', 'Auf Wiedersehen.', 'Guten Morgen!', 'Guten Appetit!',
+    'Vielen Dank!', 'Herzlichen Dank!', 'Danke sehr!', 'Herzlich willkommen!',
+    'Herzlichen Glückwunsch!', 'Alles Gute!', 'Viel Glück!', 'Wie bitte?',
+    'Ein gutes neues Jahr!', 'Zahlen, bitte!', 'Moment mal bitte!',
+    'Einen Moment bitte.', 'Liebe Susanne, lieber Hans,',
+}
+
+
 def goethe_saetze():
     with open(QUELLE, encoding='utf-8', newline='') as fh:
         saetze = {r['satz_de'] for r in csv.DictReader(fh, delimiter='\t')}
-    return {s for s in saetze if len(s) >= MINDESTLAENGE}
+    return {s for s in saetze if len(s) >= MINDESTLAENGE and s not in FLOSKELN}
 
 
 def dateien():
