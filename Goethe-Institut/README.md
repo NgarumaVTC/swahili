@@ -80,8 +80,12 @@ aber wie Kl. 1/2: *rafiki yangu* (Kl. 9), aber *rafiki anakuja* (Kl. 1).
 | `make_druckkarten.py` | → `druck_*.pdf`, 12 Karten pro A4-Blatt |
 | `make_korrekturbogen.py` | → `korrektur_kurz.pdf`, `korrektur_lang.pdf` |
 | `check_karten.py` | Integritätsprüfung |
+| `install_anki.py` | `anki_*.tsv` → laufende Anki-Sammlung per AnkiConnect |
 
 ### Ergebnis
+
+`Swahili-A1-SD1-Deutsch.apkg` — fertiges Deck zum Importieren, deutsche
+Richtungen, 1.521 Notizen / 2.499 Karten. Sonst:
 
 `anki_master.tsv` (ein Notiztyp, vier Richtungen) · `anki_sw_de.tsv` ·
 `anki_sw_en.tsv` · `anki_de_sw.tsv` · `anki_en_sw.tsv` · `anki_drill.tsv`
