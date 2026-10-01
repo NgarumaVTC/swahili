@@ -1,0 +1,44 @@
+id	satz_sw	gloss_morpheme	gloss_labels	satz_en	hinweis
+146	Kilo moja ya mapea, tafadhali!	kilo moja y-a ma-pea tafadhali	KL9.Kilo eins KL9-GEN KL6-Birne bitte	A kilo of pears, please!	pea Kl.5, Plural mapea Kl.6
+147	Nasafiri hadi Stuttgart tu.	na-safiri hadi Stuttgart tu	1SG.PRÄS.ALLG-reisen bis Stuttgart nur	I am only travelling as far as Stuttgart.	hadi für räumliche und zeitliche Grenze
+148	Nitasubiri hadi kesho.	ni-ta-subiri hadi kesho	1SG-FUT-warten bis morgen	I will wait until tomorrow.	kusubiri ist arabisches Lehnverb auf -i
+149	Nasema Kiingereza, Kifaransa na Kijerumani kidogo.	na-sem-a Ki-ingereza Ki-faransa na Ki-jerumani ki-dogo	1SG.PRÄS.ALLG-sprechen-IND KL7-Englisch KL7-Französisch und KL7-Deutsch KL7-klein	I speak English, French and a little German.	kidogo kongruiert mit der Sprache in Kl.7
+150	Kikombe kimoja cha kahawa, tafadhali!	ki-kombe ki-moja ch-a kahawa tafadhali	KL7-Tasse KL7-eins KL7-GEN KL9.Kaffee bitte	A cup of coffee, please!	Zahlwort und Genitiv kongruieren beide mit Kl.7
+151	Tafadhali semeni kwa sauti ya chini!	tafadhali sem-eni kwa sauti y-a chini	bitte sprechen-IMP.PL mit KL9.Stimme KL9-GEN unten	Please speak quietly!	"leise = kwa sauti ya chini, ""mit tiefer Stimme"""
+152	Nina ombi lingine.	ni-na ombi li-ngine	1SG-haben KL5.Bitte KL5-andere	I have one more request.	ombi Kl.5, Plural maombi Kl.6
+153	Naweza kuwaomba kitu?	na-wez-a ku-wa-omb-a ki-tu	1SG.PRÄS.ALLG-können-IND KL15-OBJ2PL-bitten-IND KL7-Ding	May I ask you for something?	Objektpräfix -wa- für höfliches Sie
+154	Kahawa ina ladha chungu.	kahawa i-na ladha chungu	KL9.Kaffee KL9-haben KL9.Geschmack bitter	The coffee tastes bitter.	schmecken = kuwa na ladha
+155	Leo nabaki nyumbani.	na-baki nyumbani	1SG.PRÄS.ALLG-bleiben KL9.Haus.LOK	Today I am staying at home.	nyumbani ist die feste Ortsform für zu Hause
+156	Tunabaki hadi kesho tu.	tu-na-baki hadi kesho tu	1PL-PRÄS-bleiben bis morgen nur	We are only staying until tomorrow.	kubaki endet auf -i, das ist kein Negationszeichen
+157	Una kalamu ya risasi?	u-na kalamu y-a risasi	2SG-haben KL9.Stift KL9-GEN KL9.Blei	Do you have a pencil?	"Bleistift wörtlich ""Stift aus Blei"""
+158	Kutoka hoteli hii kuna mandhari mazuri ya mto Rhein.	ku-tok-a hoteli hii ku-na mandhari ma-zuri y-a mto Rhein	KL15-kommen-IND KL9.Hotel KL9.DEM KL17-mit KL9.Aussicht KL6-gut KL9-GEN KL3.Fluss Rhein	From this hotel you have a good view of the Rhine.	mandhari schwankt zwischen Kl.9 und Kl.6
+159	Maua yanakupendeza?	ma-ua ya-na-ku-pendez-a	KL6-Blume KL6-PRÄS-OBJ2SG-gefallen-IND	Do you like the flowers?	gefallen stellt den Menschen ins Objekt
+160	Tafadhali andikeni majibu yenu kwenye fomu ya majibu.	tafadhali andik-eni ma-jibu y-enu kwenye fomu y-a ma-jibu	bitte schreiben-IMP.PL KL6-Antwort KL6-euer an KL9.Formular KL9-GEN KL6-Antwort	Please write your answers on the answer sheet.	yenu kongruiert mit majibu Kl.6
+161	Amenikasirikia.	a-me-ni-kasirik-i-a	3SG-PERF-OBJ1SG-zornig.sein-APPL-IND	She is angry with me.	Applikativ nennt die Person, auf die der Zorn zielt
+162	Unaihitaji gazeti bado?	u-na-i-hitaji gazeti bado	2SG-PRÄS-OBJ9-brauchen KL5.Zeitung noch	Do you still need the newspaper?	Objektpräfix greift das Genannte nochmals auf
+163	Kabati lina upana gani?	kabati li-na upana gani	KL5.Schrank KL5-haben KL11.Breite welche	How wide is the cupboard?	Maße mit kuwa na plus Abstraktum
+164	Mnayo barua kwa ajili yangu?	m-na-yo barua kwa ajili y-angu	2PL-haben-REL9 KL9.Brief für KL9.Zweck KL9-mein	Do you have a letter for me?	-yo am Verb verweist voraus auf barua
+165	Tafadhali nunua stempu kwenye posta.	tafadhali nunu-a stempu kwenye posta	bitte kaufen-IMP KL10.Briefmarke an KL9.Post	Please buy some stamps at the post office.	stempu ist Kl.9 und Kl.10 gleich
+166	Tafadhali niletee kahawa nyingine!	tafadhali ni-let-e-e kahawa ny-ingine	bitte OBJ1SG-bringen-APPL-KONJ KL9.Kaffee KL9-andere	Please bring me another coffee!	Applikativ plus Konjunktiv ergibt eine höfliche Bitte
+167	Lazima tumpeleke kwa daktari.	lazima tu-m-pelek-e kwa daktari	muss 1PL-OBJ1-bringen-KONJ zu KL5/KL1.Arzt	We have to take him to the doctor.	kupeleka für Personen, kuleta für Sachen
+168	Mnayo pia mkate mweupe?	m-na-yo pia m-kate mw-eupe	2PL-haben-REL9 auch KL3-Brot KL3-weiß	Do you have white bread too?	mweupe kongruiert mit mkate Kl.3
+169	Chukua mikate michache kwa safari.	chuku-a mi-kate mi-chache kwa safari	nehmen-IMP KL4-Brot KL4-wenige für KL9.Reise	Take a few loaves along for the journey.	michache kongruiert mit mikate Kl.4
+170	Unataka mikate midogo kwa kifungua kinywa?	u-na-tak-a mi-kate mi-dogo kwa ki-fungua kinywa	2SG-PRÄS-wollen-IND KL4-Brot KL4-klein für KL7-öffnen KL7.Mund	Would you like rolls for breakfast?	Brötchen als mkate mdogo umschrieben
+171	Kaka yake anafanya kazi hapa pia.	kaka y-ake a-na-fany-a kazi hapa pia	KL9/KL1.Bruder KL9-sein 3SG-PRÄS-tun-IND KL9.Arbeit hier auch	His brother works here too.	yake Kl.9, Verbkongruenz a- aber Kl.1
+172	Vitabu vizuri mara nyingi ni ghali sana.	vi-tabu vi-zuri mara ny-ingi ni ghali sana	KL8-Buch KL8-gut KL9.Mal KL10-viele KOP teuer sehr	Good books are often very expensive.	vizuri kongruiert mit vitabu Kl.8
+173	Katika kamusi hii mnapata maneno zaidi ya elfu ishirini.	katika kamusi hii m-na-pat-a ma-neno zaidi y-a elfu ishirini	in KL9.Wörterbuch KL9.DEM 2PL-PRÄS-finden-IND KL6-Wort mehr KL9-GEN KL9.Tausend zwanzig	In this dictionary you will find more than 20,000 words.	"zaidi ya für den Vergleich ""mehr als"""
+174	Herufi hii haipo katika lugha yangu.	herufi hii hai-po katika lugha y-angu	KL9.Buchstabe KL9.DEM KL9.NEG-sein.da in KL9.Sprache KL9-mein	This letter does not exist in my language.	haipo verneint das Vorhandensein
+175	Tafadhali tajeni herufi za jina lenu.	tafadhali taj-eni herufi z-a jina l-enu	bitte nennen-IMP.PL KL10.Buchstabe KL10-GEN KL5.Name KL5-euer	Please spell your name.	buchstabieren = die Buchstaben nennen
+176	Basi linalofuata linakuja saa ngapi?	basi li-na-lo-fuat-a li-na-kuj-a saa ngapi	KL5.Bus KL5-PRÄS-REL5-folgen-IND KL5-PRÄS-kommen-IND KL9.Stunde wieviel	When does the next bus come?	Relativinfix -lo- für Kl.5
+177	Kwangu tafadhali mkate mdogo na siagi na jibini.	kw-angu tafadhali m-kate m-dogo na siagi na jibini	KL17-mein bitte KL3-Brot KL3-klein mit KL9.Butter und KL9.Käse	For me a roll with butter and cheese, please.	"kwangu heißt ""für mich"" mit Ortsklasse 17"
+178	Tukutane kwenye mkahawa?	tu-kutan-e kwenye m-kahawa	1PL-treffen-KONJ an KL3-Café	Shall we meet at the café?	Konjunktiv ohne lazima als Vorschlag
+179	Tafadhali lete CD unayoipenda zaidi.	tafadhali let-e CD u-na-yo-i-pend-a zaidi	bitte bringen-KONJ KL9.CD 2SG-PRÄS-REL9-OBJ9-mögen-IND mehr	Please bring your favourite CD.	Relativ -yo- und Objekt -i- stehen beide im Verb
+180	Tuna bosi mpya mwanamke.	tu-na bosi m-pya mwanamke	1PL-haben KL5/KL1.Chefin KL1-neu KL1.Frau	We have a new manageress.	bosi ist Kl.5, kongruiert als Person aber Kl.1
+181	Kutoka Mainz hadi Frankfurt ni kama kilomita hamsini.	ku-tok-a Mainz hadi Frankfurt ni kama kilomita hamsini	KL15-kommen-IND Mainz bis Frankfurt KOP etwa KL9.Kilometer fünfzig	It is about fifty kilometres from Mainz to Frankfurt.	"kama dient als ""etwa"" und als ""wie"""
+182	Utapata kompyuta yako mpya lini?	u-ta-pat-a kompyuta y-ako m-pya lini	2SG-FUT-bekommen-IND KL9.Computer KL9-dein KL9-neu wann	When are you getting your new computer?	mpya steht hier für Kl.9 ohne Nasalpräfix
+183	Yuko huko nyuma.	yu-ko huko nyuma	3SG-sein.da dort hinten	There he is, at the back.	yuko ist die Sonderform von a- plus -ko
+184	Tunazungumza kuhusu Paul. Tazama, anakuja hivi sasa.	tu-na-zungumz-a kuhusu Paul tazam-a a-na-kuj-a hivi sasa	1PL-PRÄS-sprechen-IND über Paul schauen-IMP 3SG-PRÄS-kommen-IND gleich jetzt	We are just talking about Paul. Here he comes.	"kuhusu ""über"" verlangt keinen Genitiv"
+185	Nachukua hiki hapa.	na-chuku-a hiki hapa	1SG.PRÄS.ALLG-nehmen-IND KL7.DEM hier	I will take that one there.	hiki zeigt auf ein Ding der Kl.7
+186	Bwana Klein yuko tayari?	bwana Klein yu-ko tayari	KL5/KL1.Herr Klein 3SG-sein.da schon	Is Mr Klein here yet?	yuko für Personen, iko für Sachen der Kl.9
+187	Wanawake (kwenye choo)	wanawake kwenye choo	KL2.Dame an KL7.Toilette	Ladies (on the toilet door)	Beschilderung ohne Verb
+188	Wanawake na wanaume waheshimiwa!	wanawake na wanaume wa-heshimi-w-a	KL2.Dame und KL2.Herr KL2-ehren-PASS-IND	Dear ladies and gentlemen!	"Anredeformel mit Passiv: ""die Geehrten"""

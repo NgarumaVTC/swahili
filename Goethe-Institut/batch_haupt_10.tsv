@@ -1,0 +1,50 @@
+id	satz_sw	gloss_morpheme	gloss_labels	satz_en	hinweis
+48	Sikilizeni matangazo.	sikiliz-eni ma-tangazo	zuhören-IMP.PL KL6-Ansage	Listen to the announcements.	Imperativ Plural -eni für höfliche Anrede
+49	Mannheim mnapata muunganisho kwenda Saarbrücken.	Mannheim m-na-pat-a mu-unganisho kw-end-a Saarbrücken	Mannheim 2PL-PRÄS-bekommen-IND KL3-Anschluss KL15-gehen-IND Saarbrücken	In Mannheim you have a connection to Saarbrücken.	kwenda ist unregelmäßig: ku- verschmilzt mit -enda
+50	Hii ni maombi ya laini ya simu?	hii ni ma-ombi y-a laini y-a simu	KL9.DEM KOP KL6-Anmeldung KL6-GEN KL9.Leitung KL9-GEN KL9.Telefon	Is this the application for a telephone line?	maombi Kl.6 nimmt Genitiv ya
+51	Usiku wa leo taa ilikuwa imewashwa.	usiku w-a leo taa i-li-kuw-a i-me-wash-w-a	KL11.Nacht KL11-GEN heute KL9.Lampe KL9-PRÄT-sein-IND KL9-PERF-anmachen-PASS-IND	Last night the light was on.	Zusammengesetzte Zeit: ilikuwa plus Perfektpartizip
+52	Hajibu.	ha-jibu	3SG.NEG-antworten	He does not answer.	Arabisches Lehnverb jibu wird nicht segmentiert
+53	Kwa bahati mbaya hatoi jibu.	kwa bahati m-baya ha-to-i jibu	für KL9.Glück KL9-schlecht 3SG.NEG-geben-NEG KL5.Antwort	Unfortunately he gives no answer.	"kwa bahati mbaya heißt wörtlich ""mit schlechtem Glück"""
+54	Nilisoma tangazo lako katika gazeti.	ni-li-som-a tangazo l-ako katika gazeti	1SG-PRÄT-lesen-IND KL5.Anzeige KL5-dein in KL5.Zeitung	I read your advertisement in the newspaper.	Possessiv lako kongruiert mit tangazo Kl.5
+55	Bado lazima nivae nguo.	bado lazima ni-va-e nguo	noch muss 1SG-anziehen-KONJ KL10.Kleidung	I still have to get dressed.	kuvaa deckt anziehen und tragen ab
+56	Tumepanga fleti.	tu-me-pang-a fleti	1PL-PERF-mieten-IND KL9.Apartment	We have rented an apartment.	Perfekt -me-: das Ergebnis besteht noch
+57	Nusu kilo ya matofaa tafadhali.	nusu kilo y-a ma-tofaa tafadhali	KL9.Hälfte KL9.Kilo KL9-GEN KL6-Apfel bitte	Half a kilo of apples please.	Ein Pfund wird als nusu kilo wiedergegeben
+58	Karibu chakula!	karibu chakula	willkommen KL7.Essen	Enjoy your meal!	karibu ist die übliche Tischformel, kein Wunsch
+59	Mnafanya kazi wapi?	m-na-fany-a kazi wapi	2PL-PRÄS-tun-IND KL9.Arbeit wo	Where do you work?	"arbeiten = kufanya kazi, wörtlich ""Arbeit tun"""
+60	Kaka yangu anatafuta kazi.	kaka y-angu a-na-tafut-a kazi	KL9/KL1.Bruder KL9-mein 3SG-PRÄS-suchen-IND KL9.Arbeit	My brother is looking for work.	Possessiv Kl.9, Subjektpräfix a- aber Kl.1
+61	Kwetu kuna watu wengi ambao hawana kazi kwa muda mrefu.	kwetu ku-na watu w-engi ambao ha-wa-na kazi kwa muda m-refu	bei.uns KL17-mit KL2.Leute KL2-viele KL2.REL 3PL.NEG-haben KL9.Arbeit für KL3.Zeit KL3-lang	Where we live there are many people who have been unemployed for a long time.	arbeitslos wird als hawana kazi umschrieben
+62	Mahali pangu pa kazi hakuna printa.	mahali p-angu p-a kazi ha-ku-na printa	KL16.Ort KL16-mein KL16-GEN KL9.Arbeit KL17.NEG-mit KL9.Drucker	At my workplace there is no printer.	Ortsklasse 16 hat eigene Konkordanz pangu, pa
+63	Mkono wangu unauma.	m-kono w-angu u-na-um-a	KL3-Arm KL3-mein KL3-PRÄS-schmerzen-IND	My arm hurts.	mkono heißt Arm und Hand
+64	Kesho nina miadi na daktari wangu.	kesho ni-na miadi na daktari w-angu	morgen 1SG-haben KL9.Termin mit KL5/KL1.Arzt KL1-mein	Tomorrow I have an appointment with my doctor.	daktari ist Kl.5, nimmt als Person aber wangu Kl.1
+65	Mimi pia ni Mhispania.	mimi pia ni M-hispania	ich auch KOP KL1-Spanier	I am Spanish too.	Nationalitäten sind Kl.1/2: Mhispania, Wahispania
+66	Watoto wanachezea barabarani.	watoto wa-na-chez-e-a barabara-ni	KL2.Kind KL2-PRÄS-spielen-APPL-IND KL9.Straße-LOK	The children are playing in the street.	Ortssuffix -ni ersetzt die Präposition
+67	Kwaheri.	kwaheri	auf.Wiedersehen	Goodbye.	Unveränderliche Formel, nicht analysierbar
+68	Hii inaitwaje kwa Kijerumani?	hii i-na-it-w-a-je kwa Ki-jerumani	KL9.DEM KL9-PRÄS-nennen-PASS-IND-wie für KL7-Deutsch	What is this called in German?	Sprachen sind Kl.7: Kijerumani, Kiswahili
+69	Hili ni zoezi gumu.	hili ni zoezi gumu	KL5.DEM KOP KL5.Aufgabe schwer	That is a difficult task.	zoezi ist die Übungsaufgabe, kazi die Arbeit
+70	Kozi inaisha baada ya wiki moja.	kozi i-na-ish-a baada y-a wiki moja	KL9.Kurs KL9-PRÄS-enden-IND nach KL9-GEN KL9.Woche eins	The course ends in a week.	baada ya verlangt den Genitiv
+71	Barabara ya stesheni inaishia hapa.	barabara y-a stesheni i-na-ish-i-a hapa	KL9.Straße KL9-GEN KL9.Bahnhof KL9-PRÄS-enden-APPL-IND hier	The station road ends here.	Applikativ -i- gibt dem Enden einen Ort
+72	Hauhitaji ufunguo. Nyumba imefunguliwa.	hau-hitaji ufunguo nyumba i-me-fungu-liw-a	2SG.NEG-brauchen KL11.Schlüssel KL9.Haus KL9-PERF-öffnen-PASS-IND	You do not need the key. The flat is open.	Passiv Perfekt beschreibt einen Zustand
+73	Lazima niamke saa kumi kila siku.	lazima ni-amk-e saa kumi kila siku	muss 1SG-aufstehen-KONJ KL9.Stunde zehn jede KL9.Tag	I always have to get up at four o'clock.	saa kumi ist 4 Uhr: zehnte Stunde nach Sonnenaufgang
+74	Niamke?	ni-amk-e	1SG-aufstehen-KONJ	Shall I stand up?	Konjunktiv allein stellt eine Frage nach dem Sollen
+75	Katika nyumba hii hakuna lifti.	katika nyumba hii ha-ku-na lifti	in KL9.Haus KL9.DEM KL17.NEG-mit KL9.Aufzug	In this building there is no lift.	hakuna ist die Negation von kuna
+76	Ana macho ya bluu.	a-na macho y-a bluu	3SG-haben KL6.Auge KL6-GEN blau	He has blue eyes.	macho Kl.6, Singular jicho Kl.5
+77	Anatoka Brazili.	a-na-tok-a Brazili	3SG-PRÄS-kommen-IND Brasilien	He comes from Brazil.	kutoka deckt herkommen und verlassen ab
+78	Kesho tutafanya safari ya kwenda Heidelberg.	kesho tu-ta-fany-a safari y-a kw-end-a Heidelberg	morgen 1PL-FUT-tun-IND KL9.Ausflug KL9-GEN KL15-gehen-IND Heidelberg	Tomorrow we are going on an outing to Heidelberg.	safari deckt Reise und Ausflug ab
+79	Tafadhali jazeni fomu hii.	tafadhali jaz-eni fomu hii	bitte füllen-IMP.PL KL9.Formular KL9.DEM	Please fill in this form.	Imperativ Plural für höfliches Sie
+80	Njia ya kutoka iko wapi?	njia y-a ku-tok-a i-ko wapi	KL9.Weg KL9-GEN KL15-hinausgehen-IND KL9-sein.da wo	Where is the exit?	Ausgang wird als njia ya kutoka umschrieben
+81	Mnaweza kunipa taarifa?	m-na-wez-a ku-ni-p-a taarifa	2PL-PRÄS-können-IND KL15-OBJ1SG-geben-IND KL9.Auskunft	Can you give me some information?	Objektpräfix -ni- vor der Wurzel
+82	Mnasafiri ugenini?	m-na-safiri ugeni-ni	2PL-PRÄS-reisen KL11.Fremde-LOK	Are you travelling abroad?	Ausland als Ortsform ugenini
+83	Wewe ni mgeni?	wewe ni m-geni	du KOP KL1-Ausländerin	Are you a foreigner?	mgeni heißt Gast und Ausländer
+84	Kwa bahati mbaya nina pesa za kigeni tu.	kwa bahati m-baya ni-na pesa z-a ki-geni tu	für KL9.Glück KL9-schlecht 1SG-haben KL10.Geld KL10-GEN KL7-fremd nur	Unfortunately I only have foreign money.	kigeni ist Kl.7 und bleibt unverändert
+85	Tafadhali zima taa!	tafadhali zim-a taa	bitte ausmachen-IMP KL9.Lampe	Please turn off the light!	zima ist das Gegenwort zu washa
+86	Kauli hii ni sahihi au si sahihi?	kauli hii ni sahihi au si sahihi	KL9.Aussage KL9.DEM KOP richtig oder NEG.KOP richtig	Is the statement right or wrong?	si ist die negative Kopula zu ni
+87	Hii inaonekana vizuri.	hii i-na-onekan-a vi-zuri	KL9.DEM KL9-PRÄS-aussehen-IND KL8-gut	That looks nice.	vizuri ist ein Adverb mit Kl.8-Präfix
+88	Taa imezimwa.	taa i-me-zim-w-a	KL9.Lampe KL9-PERF-ausmachen-PASS-IND	The light is off.	Passiv Perfekt für einen erreichten Zustand
+89	Masomo yamekwisha.	ma-somo ya-me-kwish-a	KL6-Unterricht KL6-PERF-enden-IND	School is over.	kwisha im Perfekt heißt fertig sein
+90	Lazima nishuke wapi?	lazima ni-shuk-e wapi	muss 1SG-aussteigen-KONJ wo	Where do I have to get off?	kushuka heißt hinabsteigen und aussteigen
+91	Hiki ni kitambulisho changu.	hiki ni ki-tambulisho ch-angu	KL7.DEM KOP KL7-Ausweis KL7-mein	Here is my identity card.	Demonstrativ hiki und Possessiv changu beide Kl.7
+92	Tafadhali vua viatu!	tafadhali vu-a vi-atu	bitte ausziehen-IMP KL8-Schuh	Take off your shoes, please!	kuvua ist das Gegenwort zu kuvaa
+93	Anakuja na gari.	a-na-kuj-a na gari	3SG-PRÄS-kommen-IND mit KL5.Auto	He is coming by car.	na dient als Begleitung und als Mittel
+94	Njia ya kwenda barabara kuu ni ipi?	njia y-a kw-end-a barabara kuu ni ipi	KL9.Weg KL9-GEN KL15-gehen-IND KL9.Straße groß KOP welche	Which way is it to the motorway, please?	Autobahn = barabara kuu, kuu bleibt unverändert
+95	Tiketi zinapatikana kwenye mashine tu.	tiketi zi-na-patikan-a kwenye mashine tu	KL10.Fahrkarte KL10-PRÄS-erhältlich.sein-IND an KL9.Maschine nur	Tickets are only available from the machine.	Stativ -ik- macht aus bekommen erhältlich sein
+96	Huhitaji kufanya kitu. Inajiendesha.	hu-hitaji ku-fany-a ki-tu i-na-ji-endesh-a	2SG.NEG-brauchen KL15-tun-IND KL7-Ding KL9-PRÄS-REFL-fahren-IND	You do not have to do anything. It works automatically.	Reflexiv -ji- drückt hier das Automatische aus

@@ -1,0 +1,146 @@
+seite	gruppe	eintrag
+6	Zahlen	1 = eins
+6	Zahlen	18
+6	Zahlen	= achtzehn
+6	Zahlen	2 = zwei
+6	Zahlen	19
+6	Zahlen	= neunzehn
+6	Zahlen	3 = drei
+6	Zahlen	20
+6	Zahlen	= zwanzig
+6	Zahlen	4 = vier
+6	Zahlen	21
+6	Zahlen	= einundzwanzig
+6	Zahlen	5 = fünf
+6	Zahlen	30
+6	Zahlen	= dreißig
+6	Zahlen	6 = sechs
+6	Zahlen	40
+6	Zahlen	= vierzig
+6	Zahlen	7
+6	Zahlen	= sieben
+6	Zahlen	50
+6	Zahlen	= fünfzig
+6	Zahlen	8 = acht
+6	Zahlen	60
+6	Zahlen	= sechzig
+6	Zahlen	9 = neun
+6	Zahlen	70
+6	Zahlen	= siebzig
+6	Zahlen	10 = zehn
+6	Zahlen	80
+6	Zahlen	= achtzig
+6	Zahlen	11 = elf
+6	Zahlen	90
+6	Zahlen	= neunzig
+6	Zahlen	12 = zwölf
+6	Zahlen	100 = (ein)hundert
+6	Zahlen	13 = dreizehn
+6	Zahlen	101 = hunderteins
+6	Zahlen	14 = vierzehn
+6	Zahlen	200
+6	Zahlen	= zweihundert
+6	Zahlen	15 = fünfzehn
+6	Zahlen	1.000 = (ein)tausend
+6	Zahlen	16 = sechzehn
+6	Zahlen	1.000.000
+6	Zahlen	= eine Million, =en
+6	Zahlen	17 = siebzehn
+6	Zahlen	1.000.000.000 = eine Milliarde, =en
+6	Zahlen	das/der/die erste
+6	Zahlen	zweite
+6	Zahlen	dritte
+6	Zahlen	vierte
+6	Zahlen	usw.
+6	Datum	1/2 = ein halb; halb ... (siehe Seite 79/Uhrzeit b)
+6	Datum	1/4 = ein Viertel; Viertel ... (siehe Seite 79/Uhrzeit b)
+6	Datum	1999 = neunzehnhundertneunundneunzig
+6	Datum	2014 = zweitausendvierzehn
+6	Datum	heute ist der 1. März = heute ist der erste März/der erste Dritte
+6	Datum	Berlin, 12. April 2002 = Berlin, zwölfter Vierter zweitausendzwei
+7	Uhrzeit	a)
+7	Uhrzeit	0.03 Uhr = null Uhr drei
+7	Uhrzeit	7.15 Uhr = sieben Uhr fünfzehn
+7	Uhrzeit	13.17 Uhr = dreizehn Uhr siebzehn
+7	Uhrzeit	24.00 Uhr = vierundzwanzig Uhr
+7	Uhrzeit	b)
+7	Uhrzeit	ein Uhr
+7	Uhrzeit	fünf Minuten vor/nach eins (ein Uhr)
+7	Uhrzeit	Viertel vor/nach zwei (zwei Uhr)
+7	Uhrzeit	halb drei
+7	Zeitmaße, Zeitangaben	die Sekunde, -n
+7	Zeitmaße, Zeitangaben	der Tag, -e
+7	Zeitmaße, Zeitangaben	die Minute, -n
+7	Zeitmaße, Zeitangaben	die Woche, -e
+7	Zeitmaße, Zeitangaben	die Stunde, -n
+7	Zeitmaße, Zeitangaben	das Jahr, -e
+7	Woche/Wochentage	der Wochentag, -e
+7	Woche/Wochentage	das Wochenende
+7	Woche/Wochentage	der Sonntag
+7	Woche/Wochentage	am Wochenende
+7	Woche/Wochentage	der Montag
+7	Woche/Wochentage	der Dienstag
+7	Woche/Wochentage	der Mittwoch
+7	Woche/Wochentage	der Donnerstag
+7	Woche/Wochentage	der Freitag
+7	Woche/Wochentage	der Samstag/Sonnabend
+7	Tag/Tageszeiten	der Tag
+7	Tag/Tageszeiten	der Nachmittag,-e
+7	Tag/Tageszeiten	der Morgen
+7	Tag/Tageszeiten	der Abend,-e
+7	Tag/Tageszeiten	der Vormittag,-e
+7	Tag/Tageszeiten	die Nacht,¨-e
+7	Tag/Tageszeiten	der Mittag
+7	Monat/Monatsnamen	der Januar
+7	Monat/Monatsnamen	der Juli
+7	Monat/Monatsnamen	der Februar
+7	Monat/Monatsnamen	der August
+7	Monat/Monatsnamen	der März
+7	Monat/Monatsnamen	der September
+7	Monat/Monatsnamen	der April
+7	Monat/Monatsnamen	der Oktober
+7	Monat/Monatsnamen	der Mai
+7	Monat/Monatsnamen	der November
+7	Monat/Monatsnamen	der Juni
+7	Monat/Monatsnamen	der Dezember
+8	Jahr/Jahreszeiten	der Frühling/das Frühjahr
+8	Jahr/Jahreszeiten	der Herbst
+8	Jahr/Jahreszeiten	der Sommer
+8	Jahr/Jahreszeiten	der Winter
+8	Währungen	1 Euro
+8	Währungen	100 Cent
+8	Maße und Gewichte	ein Meter = 1 m
+8	Maße und Gewichte	ein Zentimeter = 1 cm
+8	Maße und Gewichte	ein Meter fünfzehn = 1,15 m
+8	Maße und Gewichte	zweihundert Kilometer = 200 km
+8	Maße und Gewichte	ein Quadratmeter = 1 m2
+8	Maße und Gewichte	ein Grad unter Null/minus ein Grad = – 1°
+8	Maße und Gewichte	vier Grad über Null/plus vier Grad = + 4°
+8	Maße und Gewichte	ein Prozent = 1 %
+8	Maße und Gewichte	ein Liter = 1 I
+8	Maße und Gewichte	ein Gramm = 1 g
+8	Maße und Gewichte	ein Pfund = 500 g
+8	Maße und Gewichte	ein Kilo(gramm) = 1 kg
+8	Länder/Ländernamen/Nationalitäten	Deutschland
+8	Länder/Ländernamen/Nationalitäten	Europa
+8	Länder/Ländernamen/Nationalitäten	der/die Deutsche, -n
+8	Länder/Ländernamen/Nationalitäten	Europäer
+8	Länder/Ländernamen/Nationalitäten	ein Deutscher, eine Deutsche, Deutsche,
+8	Länder/Ländernamen/Nationalitäten	europäisch
+8	Länder/Ländernamen/Nationalitäten	deutsch
+8	Angabe der eigenen Herkunft oder Nationalität	Land, Bewohner, Nationalität
+8	Angabe der eigenen Herkunft oder Nationalität	z. B. Türkei, Türke/Türkin, -nen, türkisch
+8	Angabe der eigenen Herkunft oder Nationalität	Finnland, Finne/Finnin, -nen, finnisch
+8	Angabe der eigenen Herkunft oder Nationalität	Mexiko, Mexikaner/Mexikanerin, -nen, mexikanisch
+8	Farben	schwarz
+8	Farben	grau
+8	Farben	blau
+8	Farben	grün
+8	Farben	weiß
+8	Farben	rot
+8	Farben	gelb
+8	Farben	braun
+8	Himmelsrichtungen	der Norden
+8	Himmelsrichtungen	der Süden
+8	Himmelsrichtungen	der Westen
+8	Himmelsrichtungen	der Osten

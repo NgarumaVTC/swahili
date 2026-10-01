@@ -1,0 +1,46 @@
+id	satz_sw	gloss_morpheme	gloss_labels	satz_en	hinweis
+383	Treni hii haisimami Rüdesheim.	treni hii hai-simam-i Rüdesheim	KL9.Zug KL9.DEM KL9.NEG-halten-NEG Rüdesheim	This train does not stop in Rüdesheim.	haisimami: Kl.9-Negation plus Endvokal -i
+384	Kituo kinachofuata lazima mshuke.	ki-tuo ki-na-cho-fuat-a lazima m-shuk-e	KL7-Haltestelle KL7-PRÄS-REL7-folgen-IND muss 2PL-aussteigen-KONJ	You have to get off at the next stop.	Relativinfix -cho- für Kl.7
+385	Ananipa mkono.	a-na-ni-p-a m-kono	3SG-PRÄS-OBJ1SG-geben-IND KL3-Hand	He shakes my hand.	mkono heißt Hand und Arm
+386	Shuleni tafadhali zimeni simu za mkononi!	shule-ni tafadhali zim-eni simu z-a m-kono-ni	KL9.Schule-LOK bitte ausmachen-IMP.PL KL10.Telefon KL10-GEN KL3-Hand-LOK	Please switch off your mobiles at school!	"Handy wörtlich ""Telefon der Hand"""
+387	Unakaa nyumba ipi?	u-na-ka-a nyumba ipi	2SG-PRÄS-wohnen-IND KL9.Haus KL9.welche	Which house do you live in?	Fragewort ipi kongruiert mit nyumba Kl.9
+388	Sasa naenda nyumbani.	sasa na-end-a nyumbani	jetzt 1SG.PRÄS.ALLG-gehen-IND KL9.Haus.LOK	I am going home now.	"nyumbani deckt ""nach Hause"" und ""zu Hause"" ab"
+389	Paul hayupo nyumbani.	Paul ha-yu-po nyumbani	Paul 3SG.NEG-KL1-sein.da KL9.Haus.LOK	Paul is not at home.	hayupo ist die Personenform von hakuna
+390	Unaweza kunisaidia kwa kazi za nyumbani?	u-na-wez-a ku-ni-saidi-a kwa kazi z-a nyumbani	2SG-PRÄS-können-IND KL15-OBJ1SG-helfen-IND bei KL10.Aufgabe KL10-GEN KL9.Haus.LOK	Can you help me with my homework?	Hausaufgaben als kazi za nyumbani
+391	Mama wa nyumbani anafua, anapika na ananunua vitu.	mama w-a nyumbani a-na-fu-a a-na-pik-a na a-na-nunu-a vi-tu	KL9/KL1.Hausfrau KL1-GEN KL9.Haus.LOK 3SG-PRÄS-waschen-IND 3SG-PRÄS-kochen-IND und 3SG-PRÄS-kaufen-IND KL8-Ding	The homemaker washes, cooks and shops.	kufua wäscht Wäsche, kuosha wäscht Geschirr
+392	Natoka Uswisi. Hiyo ni nchi yangu ya asili.	na-tok-a Uswisi hiyo ni nchi y-angu y-a asili	1SG.PRÄS.ALLG-kommen-IND Schweiz KL9.DEM KOP KL9.Land KL9-mein KL9-GEN KL9.Ursprung	I come from Switzerland. That is my home country.	Ländernamen tragen oft das u- der Kl.11
+393	Dada yangu anaolewa na Mjapani.	dada y-angu a-na-ol-ew-a na M-japani	KL9/KL1.Schwester KL9-mein 3SG-PRÄS-heiraten-PASS-IND mit KL1-Japaner	My sister is marrying a Japanese man.	Die Frau heiratet im Passiv: kuolewa
+394	Naitwa Charlotte Meier.	na-it-w-a Charlotte Meier	1SG.PRÄS.ALLG-nennen-PASS-IND Charlotte Meier	My name is Charlotte Meier.	heißen steht stets im Passiv
+395	Hii inaitwaje kwa Kijerumani?	hii i-na-it-w-a-je kwa Ki-jerumani	KL9.DEM KL9-PRÄS-nennen-PASS-IND-wie für KL7-Deutsch	What is this called in German?	Fragesuffix -je tritt an das Verbende
+396	Mnaweza kunisaidia, tafadhali?	m-na-wez-a ku-ni-saidi-a tafadhali	2PL-PRÄS-können-IND KL15-OBJ1SG-helfen-IND bitte	Can you help me, please?	Objektpräfix -ni- für mir
+397	Kiangazi kuna mwanga hadi saa tatu usiku.	ki-angazi ku-na mw-anga hadi saa tatu usiku	KL7-Sommer KL17-mit KL3-Licht bis KL9.Stunde drei KL11.Nacht	In summer it is light until 21.00.	saa tatu usiku = 21 Uhr, dritte Stunde der Nacht
+398	Jikoni jipya hakuna jiko bado.	jiko-ni ji-pya ha-ku-na jiko bado	KL5.Küche-LOK KL5-neu KL17.NEG-mit KL5.Herd noch	The cooker is still missing in the new kitchen.	jiko heißt Küche und Herd zugleich; jipya kongruiert mit Kl.5
+399	Habari za siku, Bwana Sommer!	habari z-a siku bwana Sommer	KL10.Nachricht KL10-GEN KL9.Tag KL5/KL1.Herr Sommer	Good afternoon, Mr Sommer!	bwana ist Kl.5, kongruiert als Person Kl.1
+400	Hongera za moyo!	hongera z-a moyo	KL10.Glückwunsch KL10-GEN KL3.Herz	Heartfelt congratulations!	"za moyo heißt wörtlich ""des Herzens"""
+401	Leo ni siku nzuri.	leo ni siku n-zuri	heute KOP KL9.Tag KL9-gut	Today is a lovely day.	nzuri mit Nasalpräfix der Kl.9
+402	Hapa ni 06131-553221, Pamela Linke.	hapa ni Pamela Linke	hier KOP Pamela Linke	This is 06131-553221, Pamela Linke.	Am Telefon nennt man sich mit hapa ni
+403	Nakaa hapa.	na-ka-a hapa	1SG.PRÄS.ALLG-wohnen-IND hier	This is where I live.	hapa ist ein Ortswort der Kl.16
+404	Msaada! Tafadhali nisaidieni!	m-saada tafadhali ni-saidi-eni	KL3-Hilfe bitte OBJ1SG-helfen-IMP.PL	Help! Please help me!	Objektpräfix ni- vor dem Imperativ Plural
+405	Mnahitaji msaada wangu?	m-na-hitaji m-saada w-angu	2PL-PRÄS-brauchen KL3-Hilfe KL3-mein	Do you need my help?	msaada Kl.3 nimmt wangu
+406	Mlango wa kushuka uko nyuma.	m-lango w-a ku-shuk-a u-ko nyuma	KL3-Tür KL3-GEN KL15-aussteigen-IND KL3-sein.da hinten	The door for getting off is at the back.	Dreifache Kl.3-Kongruenz: wa, u-, und mlango
+407	Burudani zangu ni kutembea na kuogelea.	burudani z-angu ni ku-tembe-a na ku-ogele-a	KL10.Hobby KL10-mein KOP KL15-wandern-IND und KL15-schwimmen-IND	My hobbies are hiking and swimming.	Verbalnomen der Kl.15 dienen als Nomen
+408	Mount Everest una urefu wa mita elfu nane mia nane themanini.	Mount Everest u-na urefu w-a mita elfu nane mia nane themanini	Mount Everest KL3-haben KL14.Höhe KL14-GEN KL9.Meter KL9.Tausend acht KL9.Hundert acht achtzig	Mount Everest is 8,880 metres high.	Höhe haben statt hoch sein
+409	Kwenye harusi hii wanakuja wageni zaidi ya hamsini.	kwenye harusi hii wa-na-kuj-a wa-geni zaidi y-a hamsini	an KL9.Hochzeit KL9.DEM KL2-PRÄS-kommen-IND KL2-Gast mehr KL9-GEN fünfzig	More than fifty guests are coming to this wedding.	"zaidi ya für ""mehr als"""
+410	Nachukua chupa mbili za maji kutoka jikoni.	na-chuku-a chupa mbili z-a maji ku-tok-a jiko-ni	1SG.PRÄS.ALLG-holen-IND KL10.Flasche zwei KL10-GEN KL6.Wasser KL15-kommen-IND KL5.Küche-LOK	I will get two bottles of water from the kitchen.	"kutoka dient als Präposition ""aus"""
+411	Sikiliza! Ni nini hii?	sikiliz-a ni nini hii	zuhören-IMP KOP was KL9.DEM	Listen! What is that?	kusikiliza hört zu, kusikia hört wahr
+412	Nimekwisha kusikia wimbo huu.	ni-me-kwish-a ku-siki-a wimbo huu	1SG-PERF-beenden-IND KL15-hören-IND KL11.Lied KL11.DEM	I have heard this song before.	"kwisha plus Infinitiv heißt ""schon einmal"""
+413	Likizoni tunakaa kwenye hoteli baharini.	likizo-ni tu-na-ka-a kwenye hoteli bahari-ni	KL9.Urlaub-LOK 1PL-PRÄS-wohnen-IND an KL9.Hotel KL9.Meer-LOK	On holiday we stay in a hotel by the sea.	Zwei Ortsangaben mit -ni im selben Satz
+414	Mbwa bado ni mdogo.	mbwa bado ni m-dogo	KL9.Hund noch KOP KL1-jung	The dog is still young.	Tiere nehmen oft die Personenkongruenz
+415	Nina njaa! Chakula kitakuwa tayari lini?	ni-na njaa chakula ki-ta-kuw-a tayari lini	1SG-haben KL9.Hunger KL7.Essen KL7-FUT-sein-IND fertig wann	I am hungry! When will the food be ready?	Hunger haben, nicht hungrig sein
+416	Naitwa Veronika.	na-it-w-a Veronika	1SG.PRÄS.ALLG-nennen-PASS-IND Veronika	My name is Veronika.	Passiv auch bei der eigenen Vorstellung
+417	Tafadhali mpe kitabu.	tafadhali m-p-e ki-tabu	bitte OBJ1-geben-KONJ KL7-Buch	Please give her the book.	Ein Objektpräfix -m- für ihr und ihm
+418	Tafadhali mpigie simu.	tafadhali m-pig-i-e simu	bitte OBJ1-schlagen-APPL-KONJ KL9.Telefon	Please give him a call.	"Applikativ plus Objektpräfix für ""ihn anrufen"""
+419	Bibi Bast anafika kwa kuchelewa kila mara.	bibi Bast a-na-fik-a kwa ku-chelew-a kila mara	KL5/KL1.Frau Bast 3SG-PRÄS-ankommen-IND mit KL15-sich.verspäten-IND jede KL9.Mal	Mrs Bast is always late.	zu spät kommen als kwa kuchelewa
+420	Nakaa Wiesbaden.	na-ka-a Wiesbaden	1SG.PRÄS.ALLG-wohnen-IND Wiesbaden	I live in Wiesbaden.	Ortsnamen brauchen keine Präposition
+421	Treni inakuja baada ya dakika tano.	treni i-na-kuj-a baada y-a dakika tano	KL9.Zug KL9-PRÄS-kommen-IND nach KL9-GEN KL9.Minute fünf	The train comes in five minutes.	baada ya verlangt den Genitiv
+422	Bibi Rausch anafanya kazi kwenye duka.	bibi Rausch a-na-fany-a kazi kwenye duka	KL5/KL1.Frau Rausch 3SG-PRÄS-tun-IND KL9.Arbeit an KL5.Geschäft	Mrs Rausch works in a shop.	kwenye für Orte und Institutionen
+423	Njoo, tunaenda sinemani.	njoo tu-na-end-a sinema-ni	komm 1PL-PRÄS-gehen-IND KL9.Kino-LOK	Come on, let us go to the cinema.	njoo ist der unregelmäßige Imperativ von kuja
+424	Kama mnayo maswali, nendeni kwenye taarifa.	kama m-na-yo ma-swali nend-eni kwenye taarifa	wenn 2PL-haben-REL9 KL6-Frage gehen-IMP.PL an KL9.Information	If you have questions, go to the information desk.	kama leitet den Bedingungssatz ein
+425	Tunayo taarifa muhimu kwa ajili yenu hapa.	tu-na-yo taarifa muhimu kwa ajili y-enu hapa	1PL-haben-REL9 KL10.Information wichtig für KL9.Zweck KL9-euer hier	We have important information for you here.	muhimu bleibt unverändert
+426	Kozi yetu ya Kijerumani ni ya kimataifa: Silvana anatoka Italia, Conchi kutoka Hispania, Yin kutoka China ...	kozi y-etu y-a Ki-jerumani ni y-a ki-mataifa Silvana a-na-tok-a Italia Conchi ku-tok-a Hispania Yin ku-tok-a China	KL9.Kurs KL9-unser KL9-GEN KL7-Deutsch KOP KL9-GEN KL7-international Silvana 3SG-PRÄS-kommen-IND Italien Conchi KL15-kommen-IND Spanien Yin KL15-kommen-IND China	Our German course is international: Silvana is from Italy, Conchi from Spain, Yin from China ...	ki- bildet Adjektive der Art: kimataifa
+427	Hii unaipata kwenye mtandao.	hii u-na-i-pat-a kwenye m-tandao	KL9.DEM 2SG-PRÄS-OBJ9-finden-IND an KL3-Internet	You will find that on the internet.	mtandao Kl.3 heißt Netz und Internet

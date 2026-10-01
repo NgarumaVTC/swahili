@@ -1,0 +1,49 @@
+id	satz_sw	gloss_morpheme	gloss_labels	satz_en	hinweis
+237	Mtihani huu sitaufanya tena.	m-tihani huu si-ta-u-fany-a tena	KL3-Prüfung KL3.DEM 1SG.NEG-FUT-OBJ3-tun-IND wieder	I am not going to take this exam again.	Negatives Futur behält -ta-, nur si- tritt hinzu
+238	Haraka, panda, treni inaondoka hivi punde.	haraka pand-a treni i-na-ondok-a hivi punde	schnell einsteigen-IMP KL9.Zug KL9-PRÄS-abfahren-IND gleich sofort	Quick, get in, the train is leaving in a moment.	kupanda heißt einsteigen und aufsteigen
+239	Bei ya kiingilio ni Euro tano.	bei y-a ki-ingilio ni Euro tano	KL9.Preis KL9-GEN KL7-Eintritt KOP Euro fünf	The price of admission is 5 euros.	kiingilio Kl.7, Plural viingilio Kl.8
+240	Mnayo bado chumba cha mtu mmoja?	m-na-yo bado ki-umba ch-a mtu m-moja	2PL-haben-REL9 noch KL7-Zimmer KL7-GEN KL1.Mensch KL1-eins	Do you still have a single room?	mmoja kongruiert mit mtu Kl.1
+241	Wazazi wangu wanakaa Hispania.	wazazi w-angu wa-na-ka-a Hispania	KL2.Eltern KL2-mein KL2-PRÄS-wohnen-IND Spanien	My parents live in Spain.	mzazi Kl.1, Plural wazazi Kl.2
+242	Sijapokea barua pepe yako.	si-ja-poke-a barua pepe y-ako	1SG.NEG-PERF.NEG-empfangen-IND KL9.Brief Wind KL9-dein	I did not receive your email.	"barua pepe heißt wörtlich ""Windbrief"""
+243	Kwenye barua kumeandikwa jina lako, kwa hiyo wewe ni mpokeaji.	kwenye barua ku-me-andik-w-a jina l-ako kwa hiyo wewe ni m-pokeaji	an KL9.Brief KL17-PERF-schreiben-PASS-IND KL5.Name KL5-dein für KL9.DEM du KOP KL1-Empfänger	Your name is on the letter, so you are the recipient.	Unpersönliches Passiv nimmt die Ortsklasse 17
+244	Mvinyo upi mnaweza kunipendekeza?	m-vinyo upi m-na-wez-a ku-ni-pendekez-a	KL3-Wein KL3.welche 2PL-PRÄS-können-IND KL15-OBJ1SG-empfehlen-IND	Which wine can you recommend to me?	Fragewort upi kongruiert mit mvinyo Kl.3
+245	Barabara inaishia hapa.	barabara i-na-ish-i-a hapa	KL9.Straße KL9-PRÄS-enden-APPL-IND hier	The road ends here.	Applikativ -i- verlangt die Ortsangabe
+246	Anakaa mwishoni mwa barabara.	a-na-ka-a mwisho-ni mw-a barabara	3SG-PRÄS-wohnen-IND KL3.Ende-LOK KL18-GEN KL9.Straße	She lives at the end of the street.	Nach -ni folgt der Genitiv mwa der Kl.18
+247	Anapata pesa zake mwishoni mwa mwezi.	a-na-pat-a pesa z-ake mwisho-ni mw-a mw-ezi	3SG-PRÄS-bekommen-IND KL10.Geld KL10-sein KL3.Ende-LOK KL18-GEN KL3-Monat	He gets his money at the end of the month.	pesa nimmt zake Kl.10
+248	Samahani tafadhali!	samahani tafadhali	KL9.Entschuldigung bitte	Excuse me, please!	samahani entschuldigt, radhi erbittet Verzeihung
+249	Samahani! - Haidhuru.	samahani hai-dhuru	KL9.Entschuldigung KL9.NEG-schaden	Sorry! - That is all right.	"haidhuru heißt wörtlich ""es schadet nicht"""
+250	Anaitwa Ali.	a-na-it-w-a Ali	3SG-PRÄS-nennen-PASS-IND Ali	His name is Ali.	heißen steht im Passiv: er wird genannt
+251	Matokeo ya mtihani mtayapata baada ya wiki mbili.	ma-tokeo y-a m-tihani m-ta-ya-pat-a baada y-a wiki mbili	KL6-Ergebnis KL6-GEN KL3-Prüfung 2PL-FUT-OBJ6-bekommen-IND nach KL9-GEN KL9.Woche zwei	You will get the test result in two weeks.	Objektpräfix -ya- greift matokeo Kl.6 auf
+252	Unaweza kunielezea hili?	u-na-wez-a ku-ni-elez-e-a hili	2SG-PRÄS-können-IND KL15-OBJ1SG-erklären-APPL-IND KL5.DEM	Can you explain that to me?	Applikativ nennt den, für den erklärt wird
+253	Kuvuta sigara hakuruhusiwi hapa.	ku-vut-a sigara haku-ruhus-iw-i hapa	KL15-ziehen-IND KL9.Zigarette KL15.NEG-erlauben-PASS-NEG hier	Smoking is not permitted here.	Verbalnomen Kl.15 ist Subjekt, darum haku-
+254	Filamu hii ni kwa watu wazima tu.	filamu hii ni kwa watu wa-zima tu	KL9.Film KL9.DEM KOP für KL2.Mensch KL2-erwachsen nur	This film is only for adults.	Erwachsene = watu wazima
+255	Lazima tuwaeleze kitu!	lazima tu-wa-elez-e ki-tu	muss 1PL-OBJ2PL-erzählen-KONJ KL7-Ding	We have to tell you something!	Objektpräfix -wa- auch für euch
+256	Inanyesha.	i-na-nyesh-a	KL9-PRÄS-regnen-IND	It is raining.	Wetterverben nehmen das Subjektpräfix der Kl.9
+257	Kuna nini cha kula?	ku-na nini ch-a ku-l-a	KL17-mit was KL7-GEN KL15-essen-IND	What is there to eat?	"Genitiv cha verweist auf kitu ""Ding"""
+258	Chakula ni kizuri sana leo.	chakula ni ki-zuri sana leo	KL7.Essen KOP KL7-gut sehr heute	The food is very good today.	kizuri kongruiert mit chakula Kl.7
+259	Kozi yenu inaanza leo.	kozi y-enu i-na-anz-a leo	KL9.Kurs KL9-euer KL9-PRÄS-anfangen-IND heute	Your course starts today.	yenu ist der Possessiv für 2PL
+260	Naenda kazini kwa gari.	na-end-a kazi-ni kwa gari	1SG.PRÄS.ALLG-gehen-IND KL9.Arbeit-LOK mit KL5.Auto	I drive to work by car.	kwa bezeichnet das Verkehrsmittel
+261	Tafadhali msizungumze na dereva!	tafadhali m-si-zungumz-e na dereva	bitte 2PL-NEG-sprechen-KONJ mit KL5/KL1.Fahrer	Please do not talk to the driver!	Verbot: 2PL plus -si- plus Konjunktiv
+262	Unayo tiketi tayari?	u-na-yo tiketi tayari	2SG-haben-REL9 KL9.Fahrkarte schon	Do you already have a ticket?	-yo im Verb nimmt tiketi Kl.9 auf
+263	Unasafiri kwa baiskeli au kwa gari?	u-na-safiri kwa baiskeli au kwa gari	2SG-PRÄS-reisen mit KL9.Fahrrad oder mit KL5.Auto	Are you going by bike or by car?	kwa bleibt bei allen Verkehrsmitteln gleich
+264	Hii si sahihi.	hii si sahihi	KL9.DEM NEG.KOP richtig	That is wrong.	si ist die Negation der Kopula ni
+265	Familia yangu inakaa Hispania.	familia y-angu i-na-ka-a Hispania	KL9.Familie KL9-mein KL9-PRÄS-wohnen-IND Spanien	My family lives in Spain.	familia ist Kl.9, darum i- und yangu
+266	Majina yangu ya familia ni García González.	ma-jina y-angu y-a familia ni García González	KL6-Name KL6-mein KL6-GEN KL9.Familie KOP García González	My surnames are García González.	Doppelte Kl.6-Kongruenz: yangu und ya
+267	"Kwenye ""hali ya ndoa"" lazima utie alama ""sijaoa""."	kwenye hali y-a ndoa lazima u-ti-e alama si-ja-o-a	an KL9.Lage KL9-GEN KL9.Ehe muss 2SG-setzen-KONJ KL9.Zeichen 1SG.NEG-PERF.NEG-heiraten-IND	"Under ""marital status"" you have to tick ""single""."	"ledig wörtlich ""ich habe noch nicht geheiratet"""
+268	Rangi inanipendeza sana.	rangi i-na-ni-pendez-a sana	KL9.Farbe KL9-PRÄS-OBJ1SG-gefallen-IND sehr	I like the colour very much.	Die Farbe gefällt mich, nicht mir
+269	Tutumieni faksi tu!	tu-tumi-eni faksi tu	OBJ1PL-schicken-IMP.PL KL9.Fax nur	Just send us a fax!	Objektpräfix tu- im Imperativ Plural
+270	kwa mfano siku ya mapumziko, sikukuu	kwa m-fano siku y-a ma-pumziko sikukuu	für KL3-Beispiel KL9.Tag KL9-GEN KL6-Pause KL9.Feiertag	for example day off, public holiday	Feierabend als siku ya mapumziko umschrieben
+271	Jumatatu ni sikukuu.	Jumatatu ni sikukuu	KL9.Montag KOP KL9.Feiertag	Monday is a public holiday.	sikukuu ist ein festes Kompositum
+272	Leo tunasherehekea siku yangu ya kuzaliwa.	leo tu-na-sherehek-e-a siku y-angu y-a ku-zali-w-a	heute 1PL-PRÄS-feiern-APPL-IND KL9.Tag KL9-mein KL9-GEN KL15-gebären-PASS-IND	Today we are celebrating my birthday.	"Geburtstag wörtlich ""Tag meines Geborenwerdens"""
+273	Bwana Müller hayupo, hayupo tangu siku tatu.	bwana Müller ha-yu-po ha-yu-po tangu siku tatu	KL5/KL1.Herr Müller 3SG.NEG-KL1-sein.da 3SG.NEG-KL1-sein.da seit KL9.Tag drei	Mr Müller is not here, he has been absent for three days.	hayupo ist die Personenform der Negation
+274	Mnaumwa nini?	m-na-um-w-a nini	2PL-PRÄS-schmerzen-PASS-IND was	What is the matter with you?	Krankheit im Passiv: man wird geschmerzt
+275	Kosa hili nalifanya kila mara.	kosa hili na-li-fany-a kila mara	KL5.Fehler KL5.DEM 1SG.PRÄS.ALLG-OBJ5-tun-IND jede KL9.Mal	I always make this mistake.	Objektpräfix -li- greift kosa Kl.5 auf
+276	Tutazame televisheni leo jioni?	tu-tazam-e televisheni leo jioni	1PL-schauen-KONJ KL9.Fernsehen heute KL9.Abend	Shall we watch television this evening?	Konjunktiv als Vorschlag
+277	Umemaliza?	u-me-maliz-a	2SG-PERF-fertig.werden-IND	Are you ready?	Perfekt beschreibt den erreichten Zustand
+278	Gari langu limekwisha kutengenezwa?	gari l-angu li-me-kwish-a ku-tengenez-w-a	KL5.Auto KL5-mein KL5-PERF-beenden-IND KL15-reparieren-PASS-IND	Is my car ready yet?	"kwisha plus Infinitiv heißt ""schon fertig"""
+279	Mnayo moto?	m-na-yo moto	2PL-haben-REL9 KL3.Feuer	Do you have a light?	moto heißt Feuer und Hitze
+280	Mume wangu bado ana homa.	mume w-angu bado a-na homa	KL1.Ehemann KL1-mein noch 3SG-haben KL9.Fieber	My husband still has a temperature.	Fieber haben, nicht fiebrig sein
+281	Ningependa kuona filamu hii.	ni-nge-pend-a ku-on-a filamu hii	1SG-IRR-mögen-IND KL15-sehen-IND KL9.Film KL9.DEM	I would like to see this film.	-nge- bildet die höfliche Wunschform
+282	Lazima tupate ufunguo.	lazima tu-pat-e ufunguo	muss 1PL-finden-KONJ KL11.Schlüssel	We have to find the key.	ufunguo Kl.11, Plural funguo Kl.10
+283	Sasa anafanya kazi kwenye kampuni nyingine.	sasa a-na-fany-a kazi kwenye kampuni ny-ingine	jetzt 3SG-PRÄS-tun-IND KL9.Arbeit bei KL9.Firma KL9-andere	He now works for another company.	nyingine mit Nasalpräfix der Kl.9
+284	Napenda kula samaki. Nyama sipendi.	na-pend-a ku-l-a samaki nyama si-pend-i	1SG.PRÄS.ALLG-mögen-IND KL15-essen-IND KL9.Fisch KL9.Fleisch 1SG.NEG-mögen-NEG	I like eating fish. I do not like meat.	Vorangestelltes Objekt betont den Gegensatz

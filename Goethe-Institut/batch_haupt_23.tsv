@@ -1,0 +1,51 @@
+id	satz_sw	gloss_morpheme	gloss_labels	satz_en	hinweis
+655	Vua viatu!	vu-a vi-atu	ausziehen-IMP KL8-Schuh	Take your shoes off!	kuvua zieht aus, kuvaa zieht an
+656	Binti yangu anaenda shule tayari.	binti y-angu a-na-end-a shule tayari	KL5/KL1.Tochter KL9-mein 3SG-PRÄS-gehen-IND KL9.Schule schon	My daughter already goes to school.	binti nimmt yangu Kl.9, kongruiert als Person
+657	Shule iko hapa kwenye kona.	shule i-ko hapa kwenye kona	KL9.Schule KL9-sein.da hier an KL9.Ecke	The school is just here round the corner.	iko gibt die Lage an
+658	Katika kozi yangu kuna wanafunzi wanawake nane na wanaume watano.	katika kozi y-angu ku-na wanafunzi wanawake nane na wanaume wa-tano	in KL9.Kurs KL9-mein KL17-mit KL2.Schüler KL2.Frau acht und KL2.Mann KL2-fünf	There are eight female and five male pupils in my class.	Geschlecht nachgestellt, Zahl mit Kl.2-Präfix
+659	Mizigo yenu ni mizito sana?	mi-zigo y-enu ni mi-zito sana	KL4-Gepäck KL4-euer KOP KL4-schwer sehr	Is your luggage very heavy?	Dreifache Kl.4-Kongruenz: yenu, mizito, mizigo
+660	Hii ni kazi ngumu.	hii ni kazi n-gumu	KL9.DEM KOP KL9.Arbeit KL9-schwer	That is hard work.	ngumu für schwierig, mzito für gewichtig
+661	Dada yangu anakuja Jumanne.	dada y-angu a-na-kuj-a Jumanne	KL9/KL1.Schwester KL9-mein 3SG-PRÄS-kommen-IND KL9.Dienstag	My sister is coming on Tuesday.	"Jumanne heißt wörtlich ""vierter Tag"""
+662	Naogelea kilomita moja kila siku.	na-ogele-a kilomita moja kila siku	1SG.PRÄS.ALLG-schwimmen-IND KL9.Kilometer eins jede KL9.Tag	I swim a kilometre every day.	kila verlangt den Singular
+663	Unakuja pamoja bwawani la kuogelea?	u-na-kuj-a pamoja bwawa-ni l-a ku-ogele-a	2SG-PRÄS-kommen-IND zusammen KL5.Becken-LOK KL5-GEN KL15-schwimmen-IND	Are you coming to the swimming pool?	Schwimmbad als bwawa la kuogelea
+664	Njoo, tunasafiri hadi ziwa la Starnberg.	njoo tu-na-safiri hadi ziwa l-a Starnberg	komm 1PL-PRÄS-reisen bis KL5.See KL5-GEN Starnberg	Come on, let us drive to Lake Starnberg.	ziwa Kl.5, Plural maziwa Kl.6
+665	Siwezi kukuona.	si-wez-i ku-ku-on-a	1SG.NEG-können-NEG KL15-OBJ2SG-sehen-IND	I cannot see you.	Objektpräfix -ku- zwischen ku- und Wurzel
+666	Nimekwisha kumwona mvulana huyu mara moja.	ni-me-kwish-a ku-mw-on-a m-vulana huyu mara moja	1SG-PERF-beenden-IND KL15-OBJ1-sehen-IND KL1-Junge KL1.DEM KL9.Mal eins	I have seen this boy before.	Objektpräfix -m- wird vor Vokal zu -mw-
+667	Vivutio vipi vipo Frankfurt?	vi-vutio vipi vi-po Frankfurt	KL8-Sehenswürdigkeit KL8.welche KL8-sein.da Frankfurt	What sights are there in Frankfurt?	Dreifache Kl.8-Kongruenz: vivutio, vipi, vipo
+668	Asante sana!	asante sana	danke sehr	Many thanks!	sana verstärkt stets das Vorangehende
+669	Hiyo ni ngumu sana.	hiyo ni n-gumu sana	KL9.DEM KOP KL9-schwer sehr	That is very difficult.	ngumu mit Nasalpräfix der Kl.9
+670	Bwana Müller yuko kwenye chumba chake.	bwana Müller yu-ko kwenye ki-umba ch-ake	KL5/KL1.Herr Müller 3SG-sein.da an KL7-Zimmer KL7-sein	Mr Müller is in his room.	yuko für Personen, chake für das Zimmer Kl.7
+671	Ninahisi baridi.	ni-na-hisi baridi	1SG-PRÄS-fühlen KL9.Kälte	I am cold.	Kälte fühlen statt kalt sein
+672	Nina miaka ishirini na tatu.	ni-na mi-aka ishirini na tatu	1SG-haben KL4-Jahr zwanzig und drei	I am twenty-three.	dreiundzwanzig = ishirini na tatu
+673	Taa ingali imewashwa.	taa i-ngali i-me-wash-w-a	KL9.Lampe KL9-noch.sein KL9-PERF-anmachen-PASS-IND	The light is still on.	"ingali plus Perfekt heißt ""ist noch"""
+674	Dirisha lingali limefunguliwa.	dirisha li-ngali li-me-fungu-liw-a	KL5.Fenster KL5-noch.sein KL5-PERF-öffnen-PASS-IND	The window is still open.	Zweifache Kl.5-Kongruenz: lingali und limefunguliwa
+675	Bwana Meier amekwisha kwenda.	bwana Meier a-me-kwish-a kw-end-a	KL5/KL1.Herr Meier 3SG-PERF-beenden-IND KL15-gehen-IND	Mr Meier has already left.	"weg sein wird als ""schon gegangen"" ausgedrückt"
+676	Mlango umefungwa.	m-lango u-me-fung-w-a	KL3-Tür KL3-PERF-schließen-PASS-IND	The door is shut.	Passiv Perfekt für den erreichten Zustand
+677	Nakaa Köln tangu miaka mitatu.	na-ka-a Köln tangu mi-aka mi-tatu	1SG.PRÄS.ALLG-wohnen-IND Köln seit KL4-Jahr KL4-drei	I have lived in Cologne for three years.	Zahlwort mitatu trägt das Kl.4-Präfix
+678	Anajitegemea.	a-na-ji-tegeme-a	3SG-PRÄS-REFL-verlassen-IND	He is self-employed.	Reflexiv -ji-: sich auf sich selbst stützen
+679	Kwanza lazima mjiandikishe.	kwanza lazima m-ji-andikish-e	zuerst muss 2PL-REFL-einschreiben-KONJ	You have to register first.	Reflexiv -ji- ersetzt das deutsche sich
+680	Anaitwa nani?	a-na-it-w-a nani	3SG-PRÄS-nennen-PASS-IND wer	What is her name?	Swahili unterscheidet nicht er und sie
+681	Mnaitwa nani, tafadhali?	m-na-it-w-a nani tafadhali	2PL-PRÄS-nennen-PASS-IND wer bitte	What is your name, please?	Höfliches Sie wird 2PL
+682	Mnakaa wapi?	m-na-ka-a wapi	2PL-PRÄS-sitzen-IND wo	Where are you sitting?	kukaa heißt sitzen, wohnen und bleiben
+683	Lazima mfanye hivi!	lazima m-fany-e hivi	muss 2PL-tun-KONJ so	You have to do it like this!	hivi zeigt auf die Art und Weise
+684	Tafadhali msiendeshe kwa kasi hivyo!	tafadhali m-si-endesh-e kwa kasi hivyo	bitte 2PL-NEG-fahren-KONJ mit KL9.Geschwindigkeit so	Please do not drive so fast!	Verbot mit -si- und Konjunktiv
+685	Mke wangu ni mrefu kama mimi.	mke w-angu ni m-refu kama mimi	KL1.Ehefrau KL1-mein KOP KL1-groß wie ich	My wife is as tall as I am.	kama bildet den Gleichheitsvergleich
+686	Basi, hiyo ni yote!	basi hiyo ni y-ote	also KL9.DEM KOP KL9-alle	Well, that is that!	yote kongruiert mit hiyo Kl.9
+687	Sofa ni mpya.	sofa ni m-pya	KL9.Sofa KOP KL9-neu	The sofa is new.	sofa ist Kl.9 und Kl.10 gleich
+688	Tafadhali jibuni mara moja.	tafadhali jibu-ni mara moja	bitte antworten-IMP.PL KL9.Mal eins	Please reply immediately.	"sofort = mara moja, ""auf einmal"""
+689	Huyu ni Hans, mwana wangu.	huyu ni Hans mw-ana w-angu	KL1.DEM KOP Hans KL1-Sohn KL1-mein	This is Hans, my son.	mwana Kl.1, Plural wana Kl.2
+690	Nije?	ni-j-e	1SG-kommen-KONJ	Shall I come?	Konjunktiv allein bildet die Frage nach dem Sollen
+691	Nilete nini?	ni-let-e nini	1SG-bringen-KONJ was	What shall I bring?	Konjunktiv ohne lazima für Angebote
+692	Jua linawaka.	jua li-na-wak-a	KL5.Sonne KL5-PRÄS-leuchten-IND	The sun is shining.	jua Kl.5 nimmt das Subjektpräfix li-
+693	Ni kuchelewa tayari, lazima niende.	ni ku-chelew-a tayari lazima ni-end-e	KOP KL15-sich.verspäten-IND schon muss 1SG-gehen-KONJ	It is late already, I have to go.	spät als Verbalnomen der Kl.15
+694	Hii tunaweza kuifanya baadaye.	hii tu-na-wez-a ku-i-fany-a baadaye	KL9.DEM 1PL-PRÄS-können-IND KL15-OBJ9-tun-IND später	We can do that later.	Objektpräfix -i- greift hii Kl.9 auf
+695	Tafadhali niletee menyu.	tafadhali ni-let-e-e menyu	bitte OBJ1SG-bringen-APPL-KONJ KL9.Speisekarte	Bring me the menu, please.	Applikativ plus Konjunktiv als höfliche Bitte
+696	Watoto wanachezea nje.	watoto wa-na-chez-e-a nje	KL2.Kind KL2-PRÄS-spielen-APPL-IND draußen	The children are playing outside.	Applikativ -e- verlangt die Ortsangabe
+697	Mnacheza karata?	m-na-chez-a karata	2PL-PRÄS-spielen-IND KL10.Spielkarte	Do you play cards?	karata ist die Spielkarte, kadi die Postkarte
+698	Nafanya michezo mingi.	na-fany-a mi-chezo mi-ngi	1SG.PRÄS.ALLG-tun-IND KL4-Sport KL4-viel	I do a lot of sport.	mingi kongruiert mit michezo Kl.4
+699	Unasema lugha zipi?	u-na-sem-a lugha zipi	2SG-PRÄS-sprechen-IND KL10.Sprache KL10.welche	What languages do you speak?	zipi ist das Fragewort der Kl.10
+700	Naweza kuzungumza na Bwana Klein?	na-wez-a ku-zungumz-a na bwana Klein	1SG.PRÄS.ALLG-können-IND KL15-sprechen-IND mit KL5/KL1.Herr Klein	Can I speak to Mr Klein?	kuzungumza na für ein Gespräch mit jemandem
+701	Heidelberg ni mji wa kale.	Heidelberg ni m-ji w-a kale	Heidelberg KOP KL3-Stadt KL3-GEN Altertum	Heidelberg is an old city.	"wa kale heißt ""des Altertums"""
+702	Siamini, lakini imeandikwa kwenye gazeti.	si-amini lakini i-me-andik-w-a kwenye gazeti	1SG.NEG-glauben aber KL9-PERF-schreiben-PASS-IND an KL5.Zeitung	I do not believe it, but it is in the paper.	stehen in der Zeitung = geschrieben sein
+703	Basi limesimama kituoni tayari.	basi li-me-simam-a kituo-ni tayari	KL5.Bus KL5-PERF-halten-IND KL7.Haltestelle-LOK schon	The bus is already at the stop.	Ortssuffix -ni an kituo Kl.7
+704	Nina nafasi mpya.	ni-na nafasi m-pya	1SG-haben KL9.Stelle KL9-neu	I have a new job.	nafasi deckt Platz, Stelle und Gelegenheit ab

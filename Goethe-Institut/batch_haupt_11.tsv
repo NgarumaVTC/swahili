@@ -1,0 +1,50 @@
+id	satz_sw	gloss_morpheme	gloss_labels	satz_en	hinweis
+97	Mtoto wangu ni mchanga bado.	m-toto w-angu ni m-changa bado	KL1-Kind KL1-mein KOP KL1-jung noch	My child is still a baby.	Baby wird als mtoto mchanga umschrieben
+98	Naenda dukani la mikate haraka.	na-end-a duka-ni l-a mi-kate haraka	1SG.PRÄS.ALLG-gehen-IND KL5.Laden-LOK KL5-GEN KL4-Brot schnell	I am just popping to the bakery.	naenda ist die Kurzform von ninaenda
+99	Hatuna bafu kubwa.	hatu-na bafu kubwa	1PL.NEG-haben KL9.Bad groß	We do not have a big bathroom.	kubwa bleibt in Kl.9 ohne Präfix
+100	Sipendi kuoga kwenye bafu, napenda kunyeshewa zaidi.	si-pend-i ku-og-a kwenye bafu na-pend-a ku-nyeshe-w-a zaidi	1SG.NEG-mögen-NEG KL15-baden-IND an KL9.Bad 1SG.PRÄS.ALLG-mögen-IND KL15-duschen-PASS-IND mehr	I do not much like bathing, I prefer showering.	Vergleich mit zaidi statt mit einem eigenen Komparativ
+101	Tunapenda kusafiri kwa treni zaidi.	tu-na-pend-a ku-safiri kwa treni zaidi	1PL-PRÄS-mögen-IND KL15-reisen mit KL9.Bahn mehr	We prefer to travel by train.	kwa bezeichnet das Verkehrsmittel
+102	Nitachukua treni inayofuata.	ni-ta-chuku-a treni i-na-yo-fuat-a	1SG-FUT-nehmen-IND KL9.Bahn KL9-PRÄS-REL9-folgen-IND	I will take the next train.	Relativinfix -yo- verweist auf treni Kl.9
+103	Nitafika stesheni kwa njia hii?	ni-ta-fik-a stesheni kwa njia hii	1SG-FUT-ankommen-IND KL9.Bahnhof über KL9.Weg KL9.DEM	Will I get to the station this way?	Zukunft auch für höfliche Erkundigung
+104	Treni inaondoka jukwaa lipi?	treni i-na-ondok-a jukwaa lipi	KL9.Bahn KL9-PRÄS-abfahren-IND KL5.Bahnsteig KL5.welche	Which platform does the train leave from?	Fragewort lipi kongruiert mit jukwaa Kl.5
+105	Nitakuja karibuni.	ni-ta-kuj-a karibuni	1SG-FUT-kommen-IND bald	I will come soon.	karibuni ist die Ortsform von karibu
+106	Nyumba ina pia roshani ndogo.	nyumba i-na pia roshani n-dogo	KL9.Haus KL9-haben auch KL9.Balkon KL9-klein	The flat also has a small balcony.	Adjektiv ndogo mit Nasalpräfix der Kl.9
+107	Ndizi tatu, tafadhali!	ndizi tatu tafadhali	KL10.Banane drei bitte	Three bananas, please!	ndizi ist Kl.9 und Kl.10 gleich
+108	Benki inafunga saa kumi.	benki i-na-fung-a saa kumi	KL9.Bank KL9-PRÄS-schließen-IND KL9.Stunde zehn	The bank closes at four o'clock.	saa kumi = 4 Uhr nachmittags
+109	Anakaa bustanini kwenye benchi na anasoma.	a-na-ka-a bustani-ni kwenye benchi na a-na-som-a	3SG-PRÄS-sitzen-IND KL9.Park-LOK auf KL9.Bank und 3SG-PRÄS-lesen-IND	He is sitting on a bench in the park reading.	Sitzbank ist benchi, Geldinstitut benki
+110	Lazima nilipe kwa pesa taslimu au kadi inakubaliwa?	lazima ni-lip-e kwa pesa taslimu au kadi i-na-kubali-w-a	muss 1SG-zahlen-KONJ mit KL10.Geld bar oder KL9.Karte KL9-PRÄS-annehmen-PASS-IND	Do I have to pay cash or can I use a card?	bar zahlen = kwa pesa taslimu
+111	Tangu jana tumbo linaniuma.	tangu jana tumbo li-na-ni-um-a	seit gestern KL5.Bauch KL5-PRÄS-OBJ1SG-schmerzen-IND	My stomach has been hurting since yesterday.	Schmerz wird mit Objektpräfix ausgedrückt: es schmerzt mich
+112	Tahadhari, usiendeshe hadi mtini!	tahadhari u-si-endesh-e hadi m-ti-ni	KL9.Vorsicht 2SG-NEG-fahren-KONJ bis KL3-Baum-LOK	Careful, do not drive into the tree!	Negativer Imperativ ist 2SG plus -si- plus Konjunktiv
+113	Muulizeni mtumishi kwenye kaunta namba nane!	mu-uliz-eni m-tumishi kwenye kaunta namba nane	OBJ1-fragen-IMP.PL KL1-Beamtin an KL9.Schalter KL9.Nummer acht	Ask the official at counter eight!	Objektpräfix mu- steht vor der Wurzel im Imperativ
+114	Neno hili lina maana gani?	neno hili li-na maana gani	KL5.Wort KL5.DEM KL5-haben KL9.Bedeutung welche	What does the word mean?	"bedeuten = kuwa na maana, ""Bedeutung haben"""
+115	Mchezo unaanza saa tisa na nusu.	m-chezo u-na-anz-a saa tisa na nusu	KL3-Spiel KL3-PRÄS-anfangen-IND KL9.Stunde neun und KL9.Hälfte	The game begins at 15.30.	saa tisa na nusu = 15.30 Uhr
+116	Offenbach iko karibu na Frankfurt.	Offenbach i-ko karibu na Frankfurt	Offenbach KL9-sein.da nahe bei Frankfurt	Offenbach is near Frankfurt.	karibu na für räumliche Nähe
+117	Nakaa kwa wazazi wangu.	na-ka-a kwa wazazi w-angu	1SG.PRÄS.ALLG-wohnen-IND bei KL2.Eltern KL2-mein	I live with my parents.	kwa bezeichnet auch den Aufenthalt bei Personen
+118	Kwetu leo inanyesha.	kwetu leo i-na-nyesh-a	bei.uns heute KL9-PRÄS-regnen-IND	Where we are it is raining today.	kwetu ist ein Ortswort der Kl.17
+119	Anafanya kazi kwenye polisi.	a-na-fany-a kazi kwenye polisi	3SG-PRÄS-tun-IND KL9.Arbeit bei KL9.Polizei	He works for the police.	kwenye für Institutionen
+120	Wazazi wote wawili wanafanya kazi.	wazazi w-ote w-awili wa-na-fany-a kazi	KL2.Eltern KL2-alle KL2-zwei KL2-PRÄS-tun-IND KL9.Arbeit	Both parents work.	beide = wote wawili, zweifache Kl.2-Kongruenz
+121	Tunakuja sote wawili.	tu-na-kuj-a s-ote w-awili	1PL-PRÄS-kommen-IND 1PL-alle KL2-zwei	We are both coming.	sote ist die 1PL-Form von -ote
+122	Mguu wangu wa kulia unauma.	m-guu w-angu w-a ku-lia u-na-um-a	KL3-Bein KL3-mein KL3-GEN KL17-rechts KL3-PRÄS-schmerzen-IND	My right leg hurts.	Dreifache Kl.3-Kongruenz: wangu, wa, una-
+123	Unaweza kunipa mfano?	u-na-wez-a ku-ni-p-a m-fano	2SG-PRÄS-können-IND KL15-OBJ1SG-geben-IND KL3-Beispiel	Can you give me an example?	mfano Kl.3, Plural mifano Kl.4
+124	Ndugu wangu wengi, kwa mfano kaka zangu wawili, wanafanya kazi hapa pia.	ndugu w-angu w-engi kwa m-fano kaka z-angu w-awili wa-na-fany-a kazi hapa pia	KL9/KL2.Verwandte KL2-mein KL2-viele für KL3-Beispiel KL9/KL2.Bruder KL10-mein KL2-zwei KL2-PRÄS-tun-IND KL9.Arbeit hier auch	Many of my relatives, for example my two brothers, also work here.	kaka zangu nutzt Kl.10-Possessiv, die Verbkongruenz aber Kl.2
+125	Picasso anajulikana sana.	Picasso a-na-julikan-a sana	Picasso 3SG-PRÄS-bekannt.sein-IND sehr	Picasso is very well known.	Stativ -ik- macht aus wissen bekannt sein
+126	Mtu nimemfahamu anaitwa Klaus.	mtu ni-me-m-fahamu a-na-it-w-a Klaus	KL1.Bekannter 1SG-PERF-OBJ1-kennen 3SG-PRÄS-nennen-PASS-IND Klaus	An acquaintance of mine is called Klaus.	Swahili hat kein Einzelwort für Bekannter
+127	Mmepokea barua yangu?	m-me-poke-a barua y-angu	2PL-PERF-empfangen-IND KL9.Brief KL9-mein	Did you receive my letter?	Perfekt -me- ersetzt das deutsche Perfekt
+128	Mnapata nini?	m-na-pat-a nini	2PL-PRÄS-bekommen-IND was	What would you like?	"Im Laden fragt man wörtlich ""was bekommt ihr"""
+129	Dawa hii mnaipata kwenye duka la dawa.	dawa hii m-na-i-pat-a kwenye duka l-a dawa	KL9.Medikament KL9.DEM 2PL-PRÄS-OBJ9-bekommen-IND an KL5.Laden KL5-GEN KL9.Medikament	You can get this medicine at the chemist's.	Objektpräfix -i- greift das vorangestellte dawa auf
+130	Tafadhali msitumie lifti!	tafadhali m-si-tumi-e lifti	bitte 2PL-NEG-benutzen-KONJ KL9.Aufzug	Please do not use the lifts!	Verbot: 2PL plus -si- plus Konjunktiv
+131	Kazi yenu ni ipi?	kazi y-enu ni ipi	KL9.Beruf KL9-euer KOP welche	What is your occupation?	Possessiv yenu für 2PL
+132	Kazi yako ni nini?	kazi y-ako ni nini	KL9.Beruf KL9-dein KOP was	What is your profession?	nini fragt nach Sachen, ipi nach der Auswahl
+133	Namba inakuwa na shughuli kila wakati.	namba i-na-kuw-a na shughuli kila wakati	KL9.Nummer KL9-PRÄS-sein-IND mit KL9.Beschäftigung jede KL11.Zeit	The number is always engaged.	besetzt = kuwa na shughuli
+134	Nafasi hii imechukuliwa.	nafasi hii i-me-chuku-liw-a	KL9.Platz KL9.DEM KL9-PERF-nehmen-PASS-IND	This seat is taken.	Passiv Perfekt für besetzt
+135	Ningependa kutembelea kanisa kuu.	ni-nge-pend-a ku-tembel-e-a kanisa kuu	1SG-IRR-mögen-IND KL15-besuchen-APPL-IND KL5.Kirche groß	I would like to visit the cathedral.	"-nge- bildet die Höflichkeitsform ""ich würde"""
+136	Nahisi vizuri zaidi sasa.	na-hisi vi-zuri zaidi sasa	1SG.PRÄS.ALLG-fühlen KL8-gut mehr jetzt	I am feeling better already.	kuhisi ist arabisches Lehnverb auf -i
+137	Ni bora tukutane kesho.	ni bora tu-kutan-e kesho	KOP besser 1PL-treffen-KONJ morgen	It would be best if we met tomorrow.	ni bora plus Konjunktiv für einen Vorschlag
+138	Tungependa kuagiza, tafadhali.	tu-nge-pend-a ku-agiz-a tafadhali	1PL-IRR-mögen-IND KL15-bestellen-IND bitte	We would like to order, please.	-nge- macht die Bitte höflich
+139	Kitabu hiki hatuna, tukiagize kwa ajili yako?	ki-tabu hiki hatu-na tu-ki-agiz-e kwa ajili y-ako	KL7-Buch KL7.DEM 1PL.NEG-haben 1PL-OBJ7-bestellen-KONJ für KL9.Zweck KL9-dein	We do not have this book. Shall we order it for you?	Objektpräfix -ki- greift kitabu Kl.7 auf
+140	Naweza kukutembelea?	na-wez-a ku-ku-tembel-e-a	1SG.PRÄS.ALLG-können-IND KL15-OBJ2SG-besuchen-APPL-IND	May I visit you?	Applikativ -e- weil das Ziel eine Person ist
+141	Tunahitaji bado kitanda cha mtoto.	tu-na-hitaji bado ki-tanda ch-a m-toto	1PL-PRÄS-brauchen noch KL7-Bett KL7-GEN KL1-Kind	We still need a child's bed.	Genitiv cha nach kitanda Kl.7
+142	Lazima nilipe wapi?	lazima ni-lip-e wapi	muss 1SG-zahlen-KONJ wo	Where do I have to pay?	lazima zieht stets den Konjunktiv nach sich
+143	Bia nyingine tafadhali.	bia ny-ingine tafadhali	KL9.Bier KL9-andere bitte	Another beer, please.	"nyingine heißt ""ein weiteres"""
+144	Una picha ya mwana wako?	u-na picha y-a mwana w-ako	2SG-haben KL9.Bild KL9-GEN KL1.Sohn KL1-dein	Do you have a picture of your son?	picha nimmt ya, mwana nimmt wako
+145	Koti linagharimu Euro kumi tu! Ni rahisi kweli!	koti li-na-gharimu Euro kumi tu ni rahisi kweli	KL5.Jacke KL5-PRÄS-kosten Euro zehn nur KOP billig wirklich	The jacket only costs 10 euros! That really is cheap!	kugharimu ist arabisches Lehnverb auf -u

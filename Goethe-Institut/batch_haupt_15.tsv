@@ -1,0 +1,50 @@
+id	satz_sw	gloss_morpheme	gloss_labels	satz_en	hinweis
+285	Chupa moja ya bia, tafadhali.	chupa moja y-a bia tafadhali	KL9.Flasche eins KL9-GEN KL9.Bier bitte	A bottle of beer, please.	chupa ist Kl.9 und Kl.10 gleich
+286	Nyama sipendi.	nyama si-pend-i	KL9.Fleisch 1SG.NEG-mögen-NEG	I do not like meat.	Objekt vorangestellt zur Betonung
+287	Sipendi kusafiri kwa ndege. Kwa hiyo nasafiri kwa treni.	si-pend-i ku-safiri kwa ndege kwa hiyo na-safiri kwa treni	1SG.NEG-mögen-NEG KL15-reisen mit KL9.Flugzeug für KL9.DEM 1SG.PRÄS.ALLG-reisen mit KL9.Zug	I do not like flying. That is why I travel by train.	kwa hiyo heißt deshalb
+288	Unaondoka lini kwa ndege?	u-na-ondok-a lini kwa ndege	2SG-PRÄS-abfliegen-IND wann mit KL9.Flugzeug	When does your flight leave?	kuondoka deckt abfahren und abfliegen ab
+289	Kuondoka ni saa tano na dakika ishirini.	ku-ondok-a ni saa tano na dakika ishirini	KL15-abfliegen-IND KOP KL9.Stunde fünf und KL9.Minute zwanzig	Departure is at 11.20.	saa tano = 11 Uhr, fünfte Stunde nach Sonnenaufgang
+290	Unaweza kunipeleka uwanja wa ndege?	u-na-wez-a ku-ni-pelek-a uwanja w-a ndege	2SG-PRÄS-können-IND KL15-OBJ1SG-bringen-IND KL11.Platz KL11-GEN KL9.Flugzeug	Can you take me to the airport?	"Flughafen wörtlich ""Platz der Flugzeuge"""
+291	Ndege kutoka Berlin inafika kwa kuchelewa leo.	ndege ku-tok-a Berlin i-na-fik-a kwa ku-chelew-a leo	KL9.Flugzeug KL15-kommen-IND Berlin KL9-PRÄS-ankommen-IND mit KL15-sich.verspäten-IND heute	The plane from Berlin is arriving later today.	kwa plus Verbalnomen bildet eine Umstandsangabe
+292	Lazima mjaze fomu hii.	lazima m-jaz-e fomu hii	muss 2PL-füllen-KONJ KL9.Formular KL9.DEM	You have to fill in this form.	kujaza heißt füllen und ausfüllen
+293	Naweza kupiga picha?	na-wez-a ku-pig-a picha	1SG.PRÄS.ALLG-können-IND KL15-schlagen-IND KL9.Foto	May I take a photo?	"fotografieren = kupiga picha, ""Bild schlagen"""
+294	Anataka kuwauliza kitu. Mnakuja lini?	a-na-tak-a ku-wa-uliz-a ki-tu m-na-kuj-a lini	3SG-PRÄS-wollen-IND KL15-OBJ2PL-fragen-IND KL7-Ding 2PL-PRÄS-kommen-IND wann	He would like to ask you something. When are you coming?	Objektpräfix -wa- für höfliches Sie
+295	Nina swali.	ni-na swali	1SG-haben KL5.Frage	I have a question.	swali Kl.5, Plural maswali Kl.6
+296	Huyu ni Bibi Becker.	huyu ni bibi Becker	KL1.DEM KOP KL5/KL1.Frau Becker	This is Mrs Becker.	bibi als Anrede, mwanamke als Gattungswort
+297	Habari za siku, Bibi Schmitt!	habari z-a siku bibi Schmitt	KL10.Nachricht KL10-GEN KL9.Tag KL5/KL1.Frau Schmitt	Good afternoon, Mrs Schmitt!	Grußformel fragt wörtlich nach den Nachrichten
+298	Hapa wanafanya kazi wanawake wengi kuliko wanaume.	hapa wa-na-fany-a kazi wanawake w-engi kuliko wanaume	hier KL2-PRÄS-tun-IND KL9.Arbeit KL2.Frau KL2-viele als KL2.Mann	More women than men work here.	"kuliko bildet den Vergleich ""mehr als"""
+299	Nafasi hii ingali wazi?	nafasi hii i-ngali wazi	KL9.Platz KL9.DEM KL9-noch.sein frei	Is this seat still free?	"ingali heißt ""ist noch"""
+300	Katika muda wangu wa mapumziko nacheza mpira wa miguu mara nyingi.	katika muda w-angu w-a ma-pumziko na-chez-a m-pira w-a mi-guu mara ny-ingi	in KL3.Zeit KL3-mein KL3-GEN KL6-Pause 1SG.PRÄS.ALLG-spielen-IND KL3-Ball KL3-GEN KL4-Fuß KL9.Mal KL10-viele	In my free time I often play football.	Dreifache Kl.3-Kongruenz: wangu, wa, und wa
+301	Hilo sijui; mimi ni mgeni hapa.	hilo si-ju-i mimi ni m-geni hapa	KL5.DEM 1SG.NEG-wissen-NEG ich KOP KL1-fremd hier	I do not know; I am a stranger here.	mgeni heißt Gast, Fremder und Ausländer
+302	Nafurahia likizo.	na-furahi-a likizo	1SG.PRÄS.ALLG-sich.freuen-IND KL9.Urlaub	I am looking forward to the holiday.	kufurahia braucht kein Reflexivpronomen
+303	Huyu ni rafiki yangu.	huyu ni rafiki y-angu	KL1.DEM KOP KL9/KL1.Freund KL9-mein	This is a friend of mine.	huyu Kl.1, yangu aber Kl.9: der rafiki-Fall
+304	Huyu ni rafiki yangu wa kike.	huyu ni rafiki y-angu w-a ki-ke	KL1.DEM KOP KL9/KL1.Freundin KL9-mein KL1-GEN KL7-weiblich	This is my girlfriend.	Geschlecht durch wa kike nachgestellt
+305	Zamani tulikuwa pamoja sinemani mara nyingi.	zamani tu-li-kuw-a pamoja sinema-ni mara ny-ingi	früher 1PL-PRÄT-sein-IND zusammen KL9.Kino-LOK KL9.Mal KL10-viele	We often used to go to the cinema together.	zamani bezeichnet die ferne Vergangenheit
+306	Jumapili napenda kula kifungua kinywa kitandani.	Jumapili na-pend-a ku-l-a ki-fungua kinywa ki-tanda-ni	KL9.Sonntag 1SG.PRÄS.ALLG-mögen-IND KL15-essen-IND KL7-öffnen KL7.Mund KL7-Bett-LOK	On Sunday I like having breakfast in bed.	Ortssuffix -ni an kitanda Kl.7
+307	Unataka yai kwa kifungua kinywa?	u-na-tak-a yai kwa ki-fungua kinywa	2SG-PRÄS-wollen-IND KL5.Ei für KL7-öffnen KL7.Mund	Would you like an egg for breakfast?	"kifungua kinywa heißt wörtlich ""Mundöffner"""
+308	Uongozi katika nyumba unaanza baada ya dakika tatu.	uongozi katika nyumba u-na-anz-a baada y-a dakika tatu	KL14.Führung in KL9.Haus KL14-PRÄS-anfangen-IND nach KL9-GEN KL9.Minute drei	The guided tour of the house begins in 3 minutes.	uongozi Kl.14 nimmt das Subjektpräfix u-
+309	Hii ni kwa ajili yenu.	hii ni kwa ajili y-enu	KL9.DEM KOP für KL9.Zweck KL9-euer	That is for you.	yenu für höfliches Sie
+310	Huu ni ufunguo wa mlango wa nyumba.	huu ni ufunguo w-a m-lango w-a nyumba	KL11.DEM KOP KL11.Schlüssel KL11-GEN KL3-Tür KL3-GEN KL9.Haus	That is the key to the front door.	Zwei Genitive hintereinander, beide mit wa
+311	Huu ni mkate wa kesho.	huu ni m-kate w-a kesho	KL3.DEM KOP KL3-Brot KL3-GEN morgen	That is the bread for tomorrow.	huu und wa kongruieren beide mit Kl.3
+312	Mguu wangu wa kushoto unaniuma.	m-guu w-angu w-a ku-shoto u-na-ni-um-a	KL3-Fuß KL3-mein KL3-GEN KL17-links KL3-PRÄS-OBJ1SG-schmerzen-IND	My left foot hurts.	Der Fuß schmerzt mich: Objektpräfix -ni-
+313	Mnapenda kucheza mpira wa miguu?	m-na-pend-a ku-chez-a m-pira w-a mi-guu	2PL-PRÄS-mögen-IND KL15-spielen-IND KL3-Ball KL3-GEN KL4-Fuß	Do you like playing football?	"mpira wa miguu wörtlich ""Ball der Füße"""
+314	Kwa bahati mbaya hatuna bustani.	kwa bahati m-baya hatu-na bustani	für KL9.Glück KL9-schlecht 1PL.NEG-haben KL9.Garten	Unfortunately we do not have a garden.	hatuna ist die 1PL-Negation von tuna
+315	Mwishoni wa wiki tunakuwa na wageni kadhaa.	mwisho-ni w-a wiki tu-na-kuw-a na wa-geni kadhaa	KL3.Ende-LOK KL3-GEN KL9.Woche 1PL-PRÄS-sein-IND mit KL2-Gast mehrere	At the weekend we have several guests.	Wochenende als mwishoni wa wiki
+316	Unaweza kunipa kalamu yako tafadhali?	u-na-wez-a ku-ni-p-a kalamu y-ako tafadhali	2SG-PRÄS-können-IND KL15-OBJ1SG-geben-IND KL9.Kugelschreiber KL9-dein bitte	Can you give me your pen, please?	kalamu deckt Stift und Kugelschreiber ab
+317	Hakuna tiketi tena.	ha-ku-na tiketi tena	KL17.NEG-mit KL10.Fahrkarte mehr	There are no tickets left.	hakuna ist die Negation von kuna
+318	Nilizaliwa Zagreb.	ni-li-zali-w-a Zagreb	1SG-PRÄT-gebären-PASS-IND Zagreb	I was born in Zagreb.	geboren sein steht im Passiv Vergangenheit
+319	Mwaka wa kuzaliwa wa mwana wako, tafadhali?	mw-aka w-a ku-zali-w-a w-a mw-ana w-ako tafadhali	KL3-Jahr KL3-GEN KL15-gebären-PASS-IND KL3-GEN KL1-Sohn KL1-dein bitte	Your son's year of birth, please?	Drei Genitive, alle mit wa für Kl.3 und Kl.1
+320	Tafadhali andikeni mahali penu pa kuzaliwa kwenye fomu.	tafadhali andik-eni mahali p-enu p-a ku-zali-w-a kwenye fomu	bitte schreiben-IMP.PL KL16.Ort KL16-euer KL16-GEN KL15-gebären-PASS-IND an KL9.Formular	Please write your place of birth on the form.	Ortsklasse 16 hat eigene Formen penu und pa
+321	Hongera kwa siku yako ya kuzaliwa!	hongera kwa siku y-ako y-a ku-zali-w-a	KL9.Glückwunsch für KL9.Tag KL9-dein KL9-GEN KL15-gebären-PASS-IND	Happy birthday!	hongera ist die übliche Gratulationsformel
+322	Hii inanipendeza.	hii i-na-ni-pendez-a	KL9.DEM KL9-PRÄS-OBJ1SG-gefallen-IND	I like that.	Das Gefallende ist Subjekt, ich bin Objekt
+323	Usiendeshe hadi mtini!	u-si-endesh-e hadi m-ti-ni	2SG-NEG-fahren-KONJ bis KL3-Baum-LOK	Do not drive into the tree!	Negativer Imperativ mit -si- und Konjunktiv
+324	Mimi ni kinyume cha suluhisho hili.	mimi ni ki-nyume ch-a suluhisho hili	ich KOP KL7-Gegenteil KL7-GEN KL5.Lösung KL5.DEM	I am against this solution.	gegen etwas sein = kinyume cha
+325	Nani anacheza na nani?	nani a-na-chez-a na nani	wer KL1-PRÄS-spielen-IND gegen wer	Who is playing against whom?	na deckt mit und gegen ab
+326	Sijui hii inafanya kazi vipi.	si-ju-i hii i-na-fany-a kazi vipi	1SG.NEG-wissen-NEG KL9.DEM KL9-PRÄS-tun-IND KL9.Arbeit wie	I do not know how that works.	funktionieren = kufanya kazi, wie Arbeit tun
+327	Habari?	habari	KL10.Nachricht	How are you?	Begrüßung fragt nach den Nachrichten
+328	Kwa bahati mbaya lazima niende sasa.	kwa bahati m-baya lazima ni-end-e sasa	für KL9.Glück KL9-schlecht muss 1SG-gehen-KONJ jetzt	Unfortunately I have to go now.	lazima plus Konjunktiv für Notwendigkeit
+329	Lazima niende kwa daktari.	lazima ni-end-e kwa daktari	muss 1SG-gehen-KONJ zu KL5/KL1.Arzt	I have to go to the doctor.	kwa für den Weg zu einer Person
+330	Haiwezekani!	hai-wezekan-i	KL9.NEG-möglich.sein-NEG	That is not possible!	Unpersönliches Subjekt ist Kl.9
+331	Hii ni ya nani?	hii ni y-a nani	KL9.DEM KOP KL9-GEN wer	Whose is this?	gehören wird mit dem Genitiv ausgedrückt
+332	Unayo pesa bado?	u-na-yo pesa bado	2SG-haben-REL9 KL10.Geld noch	Do you still have money?	pesa ist Kl.10, grammatisch Plural
+333	Mboga tunahitaji pia bado.	mboga tu-na-hitaji pia bado	KL9.Gemüse 1PL-PRÄS-brauchen auch noch	We still need vegetables too.	Vorangestelltes Objekt als Thema des Satzes

@@ -1,0 +1,49 @@
+id	satz_sw	gloss_morpheme	gloss_labels	satz_en	hinweis
+607	Mtoto anaweza kuendesha baiskeli tayari.	m-toto a-na-wez-a ku-endesh-a baiskeli tayari	KL1-Kind 3SG-PRÄS-können-IND KL15-fahren-IND KL9.Fahrrad schon	The child can already ride a bike.	kuendesha ist der Kausativ zu kwenda
+608	Sivuti sigara.	si-vut-i sigara	1SG.NEG-ziehen-NEG KL9.Zigarette	I do not smoke.	rauchen = kuvuta sigara
+609	Masomo yako kwenye chumba namba mia tatu thelathini na mbili.	ma-somo ya-ko kwenye ki-umba namba mia tatu thelathini na mbili	KL6-Unterricht KL6-sein.da an KL7-Raum KL9.Nummer KL9.Hundert drei dreißig und zwei	The lesson is in room 332.	332 = mia tatu thelathini na mbili
+610	Bili, tafadhali.	bili tafadhali	KL9.Rechnung bitte	The bill, please.	bili ist Kl.9 und Kl.10 gleich
+611	Schillerstraße iko hapa kulia.	Schillerstraße i-ko hapa ku-lia	Schillerstraße KL9-sein.da hier KL17-rechts	Schillerstraße is here on the right.	kulia ist ein Ortswort der Kl.17
+612	Leo inanyesha.	leo i-na-nyesh-a	heute KL9-PRÄS-regnen-IND	It is raining today.	Wetterverben nehmen das Subjektpräfix der Kl.9
+613	Kwa mvua hii sitatoka nje.	kwa mvua hii si-ta-tok-a nje	bei KL9.Regen KL9.DEM 1SG.NEG-FUT-hinausgehen-IND draußen	In this rain I am not going out.	Negatives Futur behält -ta-
+614	Napenda kula mchele.	na-pend-a ku-kul-a m-chele	1SG.PRÄS.ALLG-mögen-IND KL15-essen-IND KL3-Reis	I like eating rice.	mchele ist roher Reis, wali gekochter
+615	Napenda kusafiri.	na-pend-a ku-safiri	1SG.PRÄS.ALLG-mögen-IND KL15-reisen	I like travelling.	kusafiri ist arabisches Lehnverb auf -i
+616	Tunafanya safari kwenda Austria.	tu-na-fany-a safari kw-end-a Austria	1PL-PRÄS-tun-IND KL9.Reise KL15-gehen-IND Österreich	We are taking a trip to Austria.	Richtung durch den Infinitiv kwenda
+617	Mume wangu anafanya kazi kwenye ofisi ya safari.	mume w-angu a-na-fany-a kazi kwenye ofisi y-a safari	KL1.Ehemann KL1-mein 3SG-PRÄS-tun-IND KL9.Arbeit an KL9.Büro KL9-GEN KL9.Reise	My husband works at a travel agency.	Reisebüro als ofisi ya safari
+618	Najinunulia kitabu cha mwongozo cha Berlin.	na-ji-nunu-li-a ki-tabu ch-a mw-ongozo ch-a Berlin	1SG.PRÄS.ALLG-REFL-kaufen-APPL-IND KL7-Buch KL7-GEN KL3-Führung KL7-GEN Berlin	I am buying myself a guidebook to Berlin.	Zwei Genitive cha, beide nach kitabu Kl.7
+619	Kiongozi wetu anaitwa Peter.	ki-ongozi w-etu a-na-it-w-a Peter	KL7-Reiseführer KL1-unser 3SG-PRÄS-nennen-PASS-IND Peter	Our tour guide is called Peter.	kiongozi ist Kl.7, kongruiert als Person Kl.1
+620	Amekwisha kutengeneza baiskeli.	a-me-kwish-a ku-tengenez-a baiskeli	3SG-PERF-beenden-IND KL15-reparieren-IND KL9.Fahrrad	He has repaired the bicycle.	kwisha plus Infinitiv für die abgeschlossene Tat
+621	Ukarabati ni ghali sana.	ukarabati ni ghali sana	KL14.Reparatur KOP teuer sehr	The repair is very expensive.	ukarabati Kl.14 hat keinen Plural
+622	Leo tunakula kwenye mkahawa.	leo tu-na-kul-a kwenye m-kahawa	heute 1PL-PRÄS-essen-IND an KL3-Restaurant	Today we are eating at a restaurant.	mkahawa deckt Café und Restaurant ab
+623	Tafadhali ulizeni hotelini kwenye mapokezi.	tafadhali uliz-eni hoteli-ni kwenye ma-pokezi	bitte fragen-IMP.PL KL9.Hotel-LOK an KL6-Rezeption	Please ask at reception in the hotel.	mapokezi ist Kl.6 und hat keinen Singular
+624	Nimeelewa hii sawasawa?	ni-me-elew-a hii sawasawa	1SG-PERF-verstehen-IND KL9.DEM richtig	Have I understood that correctly?	sawasawa ist die Verdoppelung von sawa
+625	Hiyo ni sahihi.	hiyo ni sahihi	KL9.DEM KOP richtig	That is correct.	sahihi heißt richtig und Unterschrift
+626	Mvinyo huu unanukia vizuri.	m-vinyo huu u-na-nuki-a vi-zuri	KL3-Wein KL3.DEM KL3-PRÄS-riechen-IND KL8-gut	This wine smells good.	kunukia riecht gut, kunuka riecht schlecht
+627	Nataka chumba tulivu.	na-tak-a ki-umba tulivu	1SG.PRÄS.ALLG-wollen-IND KL7-Zimmer ruhig	I would like a quiet room.	tulivu bleibt in Kl.7 ohne Präfix
+628	Unataka juisi ya tofaa?	u-na-tak-a juisi y-a tofaa	2SG-PRÄS-wollen-IND KL9.Saft KL9-GEN KL5.Apfel	Would you like an apple juice?	Genitiv ya nach juisi Kl.9
+629	Niambie, habari zako?	ni-ambi-e habari z-ako	OBJ1SG-sagen-KONJ KL10.Nachricht KL10-dein	Tell me, how are you then?	Befinden wird mit habari erfragt
+630	Saladi inakupendeza vipi?	saladi i-na-ku-pendez-a vipi	KL9.Salat KL9-PRÄS-OBJ2SG-gefallen-IND wie	How do you like the salad?	schmecken wird mit kupendeza ausgedrückt
+631	Bwana mhudumu, naweza kupata chumvi tafadhali?	bwana m-hudumu na-wez-a ku-pat-a chumvi tafadhali	KL5/KL1.Herr KL1-Kellner 1SG.PRÄS.ALLG-können-IND KL15-bekommen-IND KL9.Salz bitte	Waiter, could I have some salt, please?	mhudumu Kl.1, Plural wahudumu Kl.2
+632	Sentensi hii ni rahisi sana.	sentensi hii ni rahisi sana	KL9.Satz KL9.DEM KOP einfach sehr	This sentence is very simple.	sentensi ist Kl.9 und Kl.10 gleich
+633	Napenda kuchukua treni ya mjini zaidi.	na-pend-a ku-chuku-a treni y-a m-ji-ni zaidi	1SG.PRÄS.ALLG-mögen-IND KL15-nehmen-IND KL9.Bahn KL9-GEN KL3-Stadt-LOK mehr	I would rather take the city train.	S-Bahn als treni ya mjini
+634	Tafadhali nendeni kwenye kaunta namba tatu!	tafadhali nend-eni kwenye kaunta namba tatu	bitte gehen-IMP.PL an KL9.Schalter KL9.Nummer drei	Please go to counter three!	kaunta deckt Schalter und Kasse ab
+635	Jua linawaka.	jua li-na-wak-a	KL5.Sonne KL5-PRÄS-leuchten-IND	The sun is shining.	kuwaka gilt für Sonne, Licht und Feuer
+636	Tafadhali nitumieni barua pepe.	tafadhali ni-tumi-eni barua pepe	bitte OBJ1SG-schicken-IMP.PL KL9.Brief Wind	Please send me an email.	Objektpräfix ni- vor dem Imperativ Plural
+637	Hamkuona alama?	ham-ku-on-a alama	2PL.NEG-PRÄT.NEG-sehen-IND KL9.Zeichen	Did you not see the sign?	-ku- bildet die negative Vergangenheit
+638	Ningependa mkate na nyama ya nguruwe.	ni-nge-pend-a m-kate na nyama y-a nguruwe	1SG-IRR-mögen-IND KL3-Brot mit KL9.Fleisch KL9-GEN KL9.Schwein	I would like a ham sandwich.	Schinken als nyama ya nguruwe
+639	Nalala saa nane kwa kawaida.	na-lal-a saa nane kwa kawaida	1SG.PRÄS.ALLG-schlafen-IND KL9.Stunde acht für KL9.Gewohnheit	I usually sleep eight hours.	kwa kawaida heißt gewöhnlich, meistens
+640	Nahisi vibaya!	na-hisi vi-baya	1SG.PRÄS.ALLG-fühlen KL8-schlecht	I feel sick!	vibaya ist das Adverb mit Kl.8-Präfix
+641	Mnaonekana vibaya.	m-na-onekan-a vi-baya	2PL-PRÄS-aussehen-IND KL8-schlecht	You look unwell.	kuonekana ist der Stativ zu kuona
+642	Tuna hali ya hewa mbaya.	tu-na hali y-a hewa m-baya	1PL-haben KL9.Lage KL9-GEN KL9.Luft KL9-schlecht	We are having bad weather.	"Wetter als hali ya hewa, ""Zustand der Luft"""
+643	Tafadhali, fungeni mlango.	tafadhali fung-eni m-lango	bitte schließen-IMP.PL KL3-Tür	Please close the door.	kufunga schließt, kufungua öffnet
+644	Benki imefungwa Jumamosi.	benki i-me-fung-w-a Jumamosi	KL9.Bank KL9-PERF-schließen-PASS-IND KL9.Samstag	The bank is closed on Saturdays.	Passiv Perfekt für den Zustand
+645	Sasa lazima nimalize.	sasa lazima ni-maliz-e	jetzt muss 1SG-beenden-KONJ	I have to finish now.	kumaliza heißt beenden und fertig werden
+646	Mwishoni anatupa mkono sote.	mwisho-ni a-na-tu-p-a m-kono s-ote	KL3.Ende-LOK 3SG-PRÄS-OBJ1PL-geben-IND KL3-Hand 1PL-alle	At the end he shakes hands with us all.	sote ist die 1PL-Form von -ote
+647	Nakupa ufunguo wa chumba bado.	na-ku-p-a ufunguo w-a ki-umba bado	1SG.PRÄS.ALLG-OBJ2SG-geben-IND KL11.Schlüssel KL11-GEN KL7-Zimmer noch	I will also give you the room key.	ufunguo Kl.11 nimmt den Genitiv wa
+648	Hii inapendeza?	hii i-na-pendez-a	KL9.DEM KL9-PRÄS-gefallen-IND	Does that taste good?	kupendeza gilt für Geschmack und Gefallen
+649	Anaendesha kwa kasi.	a-na-endesh-a kwa kasi	3SG-PRÄS-fahren-IND mit KL9.Geschwindigkeit	He drives fast.	"schnell = kwa kasi, ""mit Geschwindigkeit"""
+650	Chakula ni tayari?	chakula ni tayari	KL7.Essen KOP fertig	Is the food ready yet?	tayari heißt schon und fertig
+651	Likizo njema!	likizo n-jema	KL9.Urlaub KL9-gut	Have a nice holiday!	njema mit Nasalpräfix der Kl.9
+652	Hiyo ni nzuri sana.	hiyo ni n-zuri sana	KL9.DEM KOP KL9-schön sehr	That is very nice.	nzuri deckt schön und gut ab
+653	Glasi ziko kwenye kabati.	glasi zi-ko kwenye kabati	KL10.Glas KL10-sein.da an KL5.Schrank	The glasses are in the cupboard.	ziko ist das Subjektpräfix der Kl.10 plus -ko
+654	Anaandika barua pepe hamsini kila siku.	a-na-andik-a barua pepe hamsini kila siku	3SG-PRÄS-schreiben-IND KL9.Brief Wind fünfzig jede KL9.Tag	He writes fifty emails every day.	barua pepe bleibt im Plural gleich

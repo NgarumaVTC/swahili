@@ -1,0 +1,58 @@
+id	satz_sw	gloss_morpheme	gloss_labels	satz_en	hinweis
+794	Basi haliendelei.	basi hali-endele-i	KL5.Bus KL5.NEG-weitergehen-NEG	The bus does not go any further.	Negatives Subjektpräfix der Kl.5 lautet hali-
+795	Unataka kitabu kipi?	u-na-tak-a ki-tabu kipi	2SG-PRÄS-wollen-IND KL7-Buch KL7.welche	Which book would you like?	kipi kongruiert mit kitabu Kl.7
+796	Kuna matatizo mengi duniani.	ku-na ma-tatizo m-engi dunia-ni	KL17-mit KL6-Problem KL6-viele KL9.Welt-LOK	There are many problems in the world.	Ortssuffix -ni an dunia Kl.9
+797	Kwa bahati mbaya nimeelewa kidogo tu.	kwa bahati m-baya ni-me-elew-a ki-dogo tu	für KL9.Glück KL9-schlecht 1SG-PERF-verstehen-IND KL7-klein nur	Unfortunately I only understood a little.	"kidogo dient als Adverb ""wenig"""
+798	Anapata kidogo.	a-na-pat-a ki-dogo	3SG-PRÄS-verdienen-IND KL7-klein	He earns little.	kupata heißt bekommen und verdienen
+799	Huyu ni nani?	huyu ni nani	KL1.DEM KOP wer	Who is that?	huyu für Personen, hii für Sachen der Kl.9
+800	Mwana wangu anataka kuwa daktari.	mw-ana w-angu a-na-tak-a ku-w-a daktari	KL1-Sohn KL1-mein 3SG-PRÄS-wollen-IND KL15-werden-IND KL5/KL1.Arzt	My son wants to become a doctor.	kuwa heißt sein und werden
+801	Tulikuwa na hali ya hewa mbaya.	tu-li-kuw-a na hali y-a hewa m-baya	1PL-PRÄT-sein-IND mit KL9.Lage KL9-GEN KL9.Luft KL9-schlecht	We had bad weather.	Vergangenheit von haben ist kuwa na mit -li-
+802	Fomu hii ni muhimu sana.	fomu hii ni muhimu sana	KL9.Formular KL9.DEM KOP wichtig sehr	This form is very important.	muhimu bleibt unverändert
+803	Unaitwa nani?	u-na-it-w-a nani	2SG-PRÄS-nennen-PASS-IND wer	What is your name?	heißen steht stets im Passiv
+804	Anaandika kama mtoto.	a-na-andik-a kama m-toto	3SG-PRÄS-schreiben-IND wie KL1-Kind	He writes like a child.	kama bildet den Vergleich
+805	Mke wangu ni mrefu kama mimi.	mke w-angu ni m-refu kama mimi	KL1.Ehefrau KL1-mein KOP KL1-groß wie ich	My wife is as tall as I am.	kama dient dem Gleichheitsvergleich
+806	Nifanye hii vipi?	ni-fany-e hii vipi	1SG-tun-KONJ KL9.DEM wie	How am I supposed to do that?	vipi fragt nach der Art und Weise
+807	Nyumba ina ukubwa gani?	nyumba i-na ukubwa gani	KL9.Haus KL9-haben KL14.Größe welche	How big is the flat?	Größe haben statt groß sein
+808	Samahani, vipi?	samahani vipi	KL9.Entschuldigung wie	Sorry, what did you say?	vipi fragt auch nach dem Gesagten
+809	Uko hapa kwa muda gani tayari?	u-ko hapa kwa muda gani tayari	2SG-sein.da hier für KL3.Zeit welche schon	How long have you been here?	muda gani fragt nach der Dauer
+810	Mnaweza kurudia hii tafadhali?	m-na-wez-a ku-rudi-a hii tafadhali	2PL-PRÄS-können-IND KL15-wiederholen-IND KL9.DEM bitte	Could you repeat that, please?	kurudia ist kurudi plus Applikativ
+811	Sasa lazima tumalize.	sasa lazima tu-maliz-e	jetzt muss 1PL-beenden-KONJ	We have to finish now.	"Deutsches ""wir"" verlangt tu-, nicht ni-"
+812	Basi, kwaheri!	basi kwaheri	also auf.Wiederhören	Well, goodbye then!	kwaheri gilt am Telefon und beim Abschied
+813	Kwaheri!	kwaheri	auf.Wiedersehen	Goodbye!	kwaheri ist unveränderlich
+814	Mnachukua maziwa kiasi gani?	m-na-chuku-a maziwa kiasi gani	2PL-PRÄS-nehmen-IND KL6.Milch KL9.Menge welche	How much milk do you take?	kiasi gani fragt nach der Menge
+815	Karibu sana!	karibu sana	willkommen sehr	A warm welcome!	karibu heißt willkommen und nahe
+816	Upepo unatoka mashariki.	upepo u-na-tok-a mashariki	KL11.Wind KL11-PRÄS-kommen-IND KL9.Osten	The wind comes from the east.	upepo Kl.11, Plural pepo Kl.10
+817	Tunasoma Kijerumani.	tu-na-som-a Ki-jerumani	1PL-PRÄS-lernen-IND KL7-Deutsch	We are learning German.	Sprachen tragen das ki- der Kl.7
+818	Unajua anaitwa nani?	u-na-ju-a a-na-it-w-a nani	2SG-PRÄS-wissen-IND 3SG-PRÄS-nennen-PASS-IND wer	Do you know what he is called?	Indirekte Frage ohne Einleitewort
+819	Mlikuwa wapi likizoni?	m-li-kuw-a wapi likizo-ni	2PL-PRÄT-sein-IND wo KL9.Urlaub-LOK	Where were you on holiday?	Ortssuffix -ni an likizo Kl.9
+820	Posta iko wapi?	posta i-ko wapi	KL9.Post KL9-sein.da wo	Where is the post office?	iko fragt nach dem Ort einer Sache
+821	Mlizaliwa wapi?	m-li-zali-w-a wapi	2PL-PRÄT-gebären-PASS-IND wo	Where were you born?	Passiv Vergangenheit für die Geburt
+822	Mnatoka wapi?	m-na-tok-a wapi	2PL-PRÄS-kommen-IND wo	Where do you come from?	wapi fragt nach Ort und Herkunft
+823	Basi hili linakwenda wapi?	basi hili li-na-kwend-a wapi	KL5.Bus KL5.DEM KL5-PRÄS-gehen-IND wo	Where does this bus go?	Bei kwenda bleibt das ku- im Stamm
+824	Mnataka kwenda wapi mwishoni wa wiki?	m-na-tak-a kw-end-a wapi mwisho-ni w-a wiki	2PL-PRÄS-wollen-IND KL15-gehen-IND wo KL3.Ende-LOK KL3-GEN KL9.Woche	Where do you want to go at the weekend?	Wochenende als mwishoni wa wiki
+825	Nakaa München.	na-ka-a München	1SG.PRÄS.ALLG-wohnen-IND München	I live in Munich.	Ortsnamen brauchen keine Präposition
+826	Mnayo nyumba hii tangu lini?	m-na-yo nyumba hii tangu lini	2PL-haben-REL9 KL9.Haus KL9.DEM seit wann	Since when have you had this flat?	tangu lini fragt nach dem Beginn
+827	Mnataka kunywa kahawa?	m-na-tak-a ku-nyw-a kahawa	2PL-PRÄS-wollen-IND KL15-trinken-IND KL9.Kaffee	Would you like to drink a coffee?	kunywa hat den unregelmäßigen Stamm nyw-
+828	Sijui neno hilo.	si-ju-i neno hilo	1SG.NEG-wissen-NEG KL5.Wort KL5.DEM	I do not know the word.	hilo ist das Demonstrativ der Kl.5
+829	Chakula kinapendeza vizuri ajabu.	chakula ki-na-pendez-a vi-zuri ajabu	KL7.Essen KL7-PRÄS-gefallen-IND KL8-gut KL9.Wunder	The food tastes wonderful.	"ajabu verstärkt zu ""wunderbar"""
+830	Kulipa, tafadhali!	ku-lip-a tafadhali	KL15-zahlen-IND bitte	The bill, please!	Infinitiv dient als höfliche Aufforderung
+831	Leo sina wakati.	leo si-na wakati	heute 1SG.NEG-haben KL11.Zeit	I have no time today.	sina ist die 1SG-Negation von nina
+832	Kwa sasa nina mengi ya kufanya.	kwa sasa ni-na m-engi y-a ku-fany-a	für jetzt 1SG-haben KL6-viel KL6-GEN KL15-tun-IND	At the moment I have a great deal to do.	"mengi ist Kl.6 und steht für ""vieles"""
+833	Napenda kusoma gazeti.	na-pend-a ku-som-a gazeti	1SG.PRÄS.ALLG-mögen-IND KL15-lesen-IND KL5.Zeitung	I like reading the newspaper.	gazeti Kl.5, Plural magazeti Kl.6
+834	Sigara ni ghali kiasi gani?	sigara ni ghali kiasi gani	KL10.Zigarette KOP teuer KL9.Menge welche	How expensive are the cigarettes?	sigara ist Kl.9 und Kl.10 gleich
+835	Chumba ni kikubwa.	ki-umba ni ki-kubwa	KL7-Zimmer KOP KL7-groß	The room is big.	kikubwa kongruiert mit chumba Kl.7
+836	Tafadhali fungua dirisha kwenye chumba cha kulala!	tafadhali fungu-a dirisha kwenye ki-umba ch-a ku-lal-a	bitte öffnen-IMP KL5.Fenster an KL7-Zimmer KL7-GEN KL15-schlafen-IND	Please open the window in the bedroom!	Schlafzimmer als chumba cha kulala
+837	Nyumba ina vyumba vitatu.	nyumba i-na vy-umba vi-tatu	KL9.Haus KL9-haben KL8-Zimmer KL8-drei	The flat has three rooms.	vitatu trägt das Kl.8-Präfix
+838	Nimeagiza chumba.	ni-me-agiz-a ki-umba	1SG-PERF-bestellen-IND KL7-Zimmer	I have booked a room.	kuagiza bestellt Waren und Zimmer
+839	Lazima tupite forodha bado.	lazima tu-pit-e forodha bado	muss 1PL-gehen-KONJ KL9.Zoll noch	We still have to go through customs.	kupita geht durch, kuvuka überquert
+840	Basi linakwenda stesheni.	basi li-na-kwend-a stesheni	KL5.Bus KL5-PRÄS-gehen-IND KL9.Bahnhof	The bus goes to the station.	Ziel ohne Präposition nach kwenda
+841	Naenda kwa miguu.	na-end-a kwa mi-guu	1SG.PRÄS.ALLG-gehen-IND mit KL4-Fuß	I am going on foot.	"zu Fuß = kwa miguu, ""mit den Füßen"""
+842	Niko nyumbani.	ni-ko nyumbani	1SG-sein.da KL9.Haus.LOK	I am at home.	"nyumbani deckt ""zu Hause"" und ""nach Hause"" ab"
+843	Nimeridhika na nyumba.	ni-me-ridhik-a na nyumba	1SG-PERF-zufrieden.sein-IND mit KL9.Haus	I am satisfied with the flat.	Stativ -ik- plus Perfekt für einen Zustand
+844	Napenda kusafiri kwa treni.	na-pend-a ku-safiri kwa treni	1SG.PRÄS.ALLG-mögen-IND KL15-reisen mit KL9.Zug	I like travelling by train.	kwa bezeichnet das Verkehrsmittel
+845	Frankfurt kwenda na kurudi, mara moja.	Frankfurt kw-end-a na ku-rudi mara moja	Frankfurt KL15-gehen-IND und KL15-zurückkehren KL9.Mal eins	A return to Frankfurt, once.	Hin und zurück als kwenda na kurudi
+846	Unarudi lini?	u-na-rudi lini	2SG-PRÄS-zurückkehren wann	When are you coming back?	kurudi ist arabisches Lehnverb auf -i
+847	Tuende kula pamoja?	tu-end-e ku-kul-a pamoja	1PL-gehen-KONJ KL15-essen-IND zusammen	Shall we go and eat together?	Konjunktiv plus Infinitiv als Vorschlag
+848	Hiyo ni Euro mbili na senti themanini kwa pamoja.	hiyo ni Euro mbili na senti themanini kwa pamoja	KL9.DEM KOP Euro zwei und KL9.Cent achtzig für zusammen	That comes to 2 euros 80 altogether.	achtzig = themanini
+849	Heidelberg iko kati ya Frankfurt na Stuttgart.	Heidelberg i-ko kati y-a Frankfurt na Stuttgart	Heidelberg KL9-sein.da zwischen KL9-GEN Frankfurt und Stuttgart	Heidelberg is between Frankfurt and Stuttgart.	kati ya verlangt den Genitiv
+850	Kati ya saa mbili na saa nne niko nyumbani.	kati y-a saa mbili na saa nne ni-ko nyumbani	zwischen KL9-GEN KL9.Stunde zwei und KL9.Stunde vier 1SG-sein.da KL9.Haus.LOK	Between 8 and 10 o'clock I am at home.	saa mbili = 8 Uhr, saa nne = 10 Uhr

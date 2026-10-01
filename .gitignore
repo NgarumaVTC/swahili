@@ -1,0 +1,16 @@
+# LaTeX-Zwischendateien
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Die erzeugten TSVs und PDFs bleiben versioniert: sie sind das Produkt.
+# Ohne sie waere das Repository fuer die Korrekturleserin nutzlos.

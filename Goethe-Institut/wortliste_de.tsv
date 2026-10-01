@@ -1,0 +1,851 @@
+id	seite	buchstabe	stichwort	untereintrag	satz_de
+1	9	A	ab	0	Ab morgen muss ich arbeiten.
+2	9	A	aber	0	Ich bin oft im Büro, aber nur für wenige Stunden.
+3	9	A	abfahren	0	Wir fahren um zwölf Uhr ab.
+4	9	A	die Abfahrt	1	Vor der Abfahrt rufe ich an.
+5	9	A	abgeben	0	Ich muss meine Schlüssel abgeben.
+6	9	A	abholen	0	Wann kann ich den Schrank bei dir abholen?
+7	9	A	abholen	0	Wir müssen noch meinen Bruder abholen.
+8	9	A	der Absender	0	Da ist ein Brief für dich ohne Absender.
+9	9	A	Achtung	0	Achtung! Das dürfen Sie nicht tun.
+10	9	A	die Adresse,-en	0	Können Sie mir seine Adresse sagen?
+11	9	A	all-	0	Alles Gute!
+12	9	A	all-	0	Das ist alles.
+13	9	A	all-	0	Sind alle da?
+14	9	A	all-	0	Alle Freunde kommen.
+15	9	A	all-	0	Hast du alles?
+16	9	A	allein	0	Er kommt allein.
+17	9	A	also	0	Also, es ist so: ...
+18	9	A	also	0	Er hat Zeit, also muss er uns helfen.
+19	9	A	alt	0	Wie alt sind Sie?
+20	9	A	alt	0	Sie sehen aber nicht so alt aus.
+21	9	A	alt	0	Mein Auto ist schon sehr alt.
+22	9	A	alt	0	Wir wohnen in einem sehr alten Haus.
+23	9	A	alt	0	Köln ist eine alte Stadt.
+24	9	A	das Alter	0	Alter: 26 Jahre.
+25	9	A	an	0	Fahren Sie an der nächsten Straße nach rechts.
+26	9	A	an	0	Wir treffen uns am Bahnhof.
+27	9	A	an	0	Am nächsten Montag geht es leider nicht.
+28	9	A	anbieten	0	Was darf ich dir anbieten?
+29	9	A	das Angebot, -e	1	Heute sind Sportschuhe im Angebot.
+30	9	A	ander-	0	WiIlst du diese Jacke?
+31	9	A	ander-	0	– Nein, ich möchte die andere.
+32	9	A	anfangen	0	Hier fängt die Bahnhofstraße an.
+33	9	A	anfangen	0	Der Unterricht fängt gleich an.
+34	9	A	der Anfang	1	Sie wohnt am Anfang der Straße.
+35	9	A	der Anfang	1	Wir machen Anfang Juli Urlaub.
+36	9	A	anklicken	0	Da musst du dieses Wort anklicken.
+37	9	A	ankommen	0	Wann kommt dieser Zug in Hamburg an?
+38	9	A	die Ankunft	0	Auf diesem Plan steht nur die Ankunft(-szeit) der Züge.
+39	9	A	ankreuzen	0	Auf dem Formular müssen Sie an mehreren Stellen etwas ankreuzen.
+40	9	A	anmachen	0	Mach bitte das Licht an!
+41	9	A	(sich) anmelden	0	Wo kann ich mich anmelden?
+42	9	A	die Anmeldung	1	Eine Anmeldung für diesen Kurs ist nicht mehr möglich.
+43	9	A	die Anrede	0	Schreiben Sie auch eine Anrede und einen Gruß.
+44	9	A	anrufen	0	Kann man Sie anrufen?
+45	9	A	anrufen	0	Peter ruft kurz seine Freundin an.
+46	9	A	der Anruf, -e	0	Sie bekommt viele Anrufe auf ihrem Handy.
+47	9	A	der Anrufbeantworter	1	Wir sind im Moment nicht da. Sprechen Sie bitte auf den Anrufbeantworter.
+48	10	A	die Ansage, -n	0	Hören Sie die Ansagen.
+49	10	A	der Anschluss	0	In Mannheim haben Sie Anschluss nach Saarbrücken.
+50	10	A	der Anschluss	0	Ist das die Anmeldung für einen Telefonanschluss?
+51	10	A	an sein	0	Heute Nacht war das Licht an.
+52	10	A	antworten	0	Er antwortet nicht.
+53	10	A	die Antwort, -en	1	Er gibt leider keine Antwort.
+54	10	A	die Anzeige, -n	0	Ich habe Ihre Anzeige in der Zeitung gelesen.
+55	10	A	(sich) anziehen	0	Ich muss mich noch anziehen.
+56	10	A	das Apartment, -s	0	Wir haben ein Apartment gemietet.
+57	10	A	der Apfel, -Ä	0	Ein Pfund Äpfel bitte.
+58	10	A	der Appetit	0	Guten Appetit!
+59	10	A	arbeiten	0	Wo arbeiten Sie?
+60	10	A	die Arbeit, -en	1	Mein Bruder sucht Arbeit.
+61	10	A	arbeitslos	0	Es gibt bei uns viele Leute, die schon lange arbeitslos sind.
+62	10	A	der Arbeitsplatz, -ä, e	0	An meinem Arbeitsplatz fehlt ein Drucker.
+63	10	A	der Arm, -e	0	Mein Arm tut weh.
+64	10	A	der Arzt, -Ä, e	0	Morgen habe ich einen Termin bei meiner Ärztin.
+65	10	A	auch	0	Ich bin auch Spanier.
+66	10	A	auf	0	Die Kinder spielen auf der Straße.
+67	10	A	auf	0	Auf Wiedersehen.
+68	10	A	auf	0	Wie heißt das auf Deutsch?
+69	10	A	die Aufgabe, -n	0	Das ist eine schwere Aufgabe.
+70	10	A	aufhören	0	Der Kurs hört in einer Woche auf.
+71	10	A	aufhören	0	Hier hört die Bahnhofstraße auf.
+72	10	A	auf sein	0	Du brauchst den Schlüssel nicht. Die Wohnung ist auf.
+73	10	A	aufstehen	0	Ich muss immer um vier Uhr aufstehen.
+74	10	A	aufstehen	0	Soll ich aufstehen?
+75	10	A	der Aufzug, -ü, e	0	In diesem Haus gibt es keinen Aufzug.
+76	10	A	das Auge, -n	0	Er hat blaue Augen.
+77	10	A	aus	0	Er kommt aus Brasilien.
+78	10	A	der Ausflug	0	Morgen machen wir einen Ausflug nach Heidelberg.
+79	10	A	ausfüllen	0	Füllen Sie bitte dieses Formular aus.
+80	10	A	der Ausgang	0	Wo ist der Ausgang?
+81	10	A	die Auskunft, -ü, e	0	Können Sie mir eine Auskunft geben?
+82	10	A	das Ausland	0	Fahren Sie ins Ausland?
+83	10	A	der Ausländer, -	1	SInd Sie Ausländerin?
+84	10	A	ausländisch	1	Leider habe ich nur ausländisches Geld.
+85	10	A	ausmachen	0	Mach bitte das Licht aus!
+86	10	A	die Aussage, -n	0	Ist die Aussage richtig oder falsch?
+87	10	A	aussehen	0	Das sieht schön aus.
+88	10	A	aus sein	0	Das Licht ist aus.
+89	10	A	aus sein	0	Die Schule ist aus.
+90	10	A	aussteigen	0	Wo muss ich aussteigen?
+91	10	A	der Ausweis	0	Hier ist mein Ausweis.
+92	10	A	(sich) ausziehen	0	Zieh die Schuhe aus, bitte!
+93	10	A	das Auto, -s	0	Er kommt mit dem Auto.
+94	10	A	die Autobahn, -en	0	Wo geht‘s hier bitte zur Autobahn?
+95	10	A	der Automat	0	Die Fahrkarten gibt es nur am Automaten.
+96	10	A	automatisch	0	Du musst nichts machen. Das geht automatisch.
+97	11	B	das Baby, -s	0	Mein Kind ist noch ein Baby.
+98	11	B	die Bäckerei	0	Ich geh mal schnell zur Bäckerei.
+99	11	B	das Bad	0	Wir haben kein großes Bad.
+100	11	B	baden	0	Ich bade nicht so gern, ich dusche lieber.
+101	11	B	die Bahn	0	Wir fahren lieber mit der Bahn.
+102	11	B	die Bahn	0	Ich nehme die nächste Bahn.
+103	11	B	der Bahnhof	0	Komme ich hier zum Bahnhof?
+104	11	B	der Bahnsteig	0	Auf welchem Bahnsteig fährt der Zug?
+105	11	B	bald	0	Ich komme bald.
+106	11	B	der Balkon	0	Die Wohnung hat auch einen kleinen Balkon.
+107	11	B	die Banane, -n	0	Drei Bananen, bitte!
+108	11	B	die Bank	0	Die Bank schließt schon um vier Uhr.
+109	11	B	die Bank	0	Er sitzt im Park auf einer Bank und liest.
+110	11	B	bar	0	Muss ich bar zahlen oder geht‘s auch mit Karte?
+111	11	B	der Bauch	0	Seit gestern tut mir der Bauch weh.
+112	11	B	der Baum, -ä, e	0	Vorsicht, fahr nicht an den Baum!
+113	11	B	der Beamte, -n	0	Fragen Sie die Beamtin an Schalter acht!
+114	11	B	bedeuten	0	Was bedeutet das Wort?
+115	11	B	beginnen	0	Das Spiel beginnt um 15.30 Uhr.
+116	11	B	bei	0	Offenbach liegt bei Frankfurt.
+117	11	B	bei	0	Ich wohne bei meinen Eltern.
+118	11	B	bei	0	Bei uns regnet es heute.
+119	11	B	bei	0	Er arbeitet bei der Polizei.
+120	11	B	beide	0	Beide Eltern arbeiten.
+121	11	B	beide	0	Wir kommen beide.
+122	11	B	das Bein, -e	0	Mein rechtes Bein tut weh.
+123	11	B	das Beispiel, -e	0	Kannst du mir ein Beispiel sagen?
+124	11	B	zum Beispiel/z. B.	1	Viele meiner Verwandten, z. B. meine beiden Brüder, arbeiten auch hier.
+125	11	B	bekannt	0	Picasso ist sehr bekannt.
+126	11	B	der/die Bekannte, -n	0	Ein Bekannter von mir heißt Klaus.
+127	11	B	bekommen	0	Haben Sie meinen Brief bekommen?
+128	11	B	bekommen	0	Was bekommen Sie?
+129	11	B	bekommen	0	Dieses Medikament bekommen Sie in der Apotheke.
+130	11	B	benutzen	0	Die Aufzüge bitte nicht benutzen!
+131	11	B	der Beruf, -e	0	Was sind Sie von Beruf?
+132	11	B	der Beruf, -e	0	Was ist Ihr Beruf?
+133	11	B	besetzt	0	Die Nummer ist immer besetzt.
+134	11	B	besetzt	0	Der Platz ist besetzt.
+135	11	B	besichtigen	0	Ich möchte gern den Dom besichtigen.
+136	11	B	besser	0	Es geht mir schon besser.
+137	11	B	best-	0	Am besten treffen wir uns morgen.
+138	11	B	bestellen	0	Wir möchten bestellen, bitte.
+139	11	B	bestellen	0	Dieses Buch haben wir nicht – sollen wir es für Sie bestellen?
+140	11	B	besuchen	0	Darf ich dich besuchen?
+141	11	B	das Bett, -en	0	Wir brauchen noch ein Kinderbett.
+142	11	B	bezahlen	0	Wo muss ich bezahlen?
+143	11	B	das Bier	0	Noch ein Bier bitte.
+144	11	B	das Bild, -er	0	Hast du ein Bild von deinem Sohn?
+145	11	B	billig	0	Die Jacke kostet nur 10 Euro! Die ist aber billig!
+146	12	B	die Birne, -n	0	Ein Kilo Birnen, bitte!
+147	12	B	bis	0	Ich fahre nur bis Stuttgart.
+148	12	B	bis	0	Ich warte bis morgen.
+149	12	B	bisschen	0	Ich spreche Englisch, Französisch und ein bisschen Deutsch.
+150	12	B	bitte	0	Eine Tasse Kaffee, bitte!
+151	12	B	bitte	0	Sprechen Sie bitte leise!
+152	12	B	die Bitte, -n	1	Ich habe noch eine Bitte.
+153	12	B	bitten	1	Darf ich Sie um etwas bitten?
+154	12	B	bitter	0	Der Kaffee schmeckt bitter.
+155	12	B	bleiben	0	Ich bleibe heute zu Hause.
+156	12	B	bleiben	0	Wir bleiben nur bis morgen.
+157	12	B	der Bleistift, -e	0	Hast du einen Bleistift?
+158	12	B	der Blick	0	Von diesem Hotel hat man einen guten Blick auf den Rhein.
+159	12	B	die Blume, -n	0	Gefallen dir die Blumen?
+160	12	B	der Bogen	0	Schreiben Sie Ihre Lösungen bitte auf den Antwortbogen.
+161	12	B	böse	0	Sie ist böse auf mich.
+162	12	B	brauchen	0	Brauchst du die Zeitung noch?
+163	12	B	breit	0	Wie breit ist der Schrank?
+164	12	B	der Brief, -e	0	Haben Sie einen Brief für mich?
+165	12	B	die Briefmarke, -n	0	Kaufst du bitte Briefmarken bei der Post.
+166	12	B	bringen	0	Bringen Sie mir bitte noch einen Kaffee!
+167	12	B	bringen	0	Wir müssen ihn zum Arzt bringen.
+168	12	B	das Brot, -e	0	Haben Sie auch Weißbrot?
+169	12	B	das Brot, -e	0	Nimm noch ein paar Brote für die Fahrt mit.
+170	12	B	das Brötchen, –	0	Möchtest du Brötchen zum Frühstück?
+171	12	B	der Bruder, -ü	0	Sein Bruder arbeitet auch hier.
+172	12	B	das Buch, -ü, er	0	Gute Bücher sind oft sehr teuer.
+173	12	B	das Buch, -ü, er	0	In diesem Wörterbuch finden Sie mehr als 20.000 Wörter.
+174	12	B	der Buchstabe, -n	0	Diesen Buchstaben gibt es in meiner Sprache nicht.
+175	12	B	buchstabieren	0	Bitte buchstabieren Sie Ihren Namen.
+176	12	B	der Bus, -se	0	Wann kommt der nächste Bus?
+177	12	B	die Butter	0	Für mich bitte ein Brötchen mit Butter und Käse.
+178	12	C	das Café, -s	0	Sollen wir uns im Café treffen?
+179	12	C	die CD, -s	0	Bring bitte deine Lieblings-CD mit.
+180	12	C	der Chef	0	Wir haben eine neue Chefin.
+181	12	C	circa/ca.	0	Von Mainz nach Frankfurt sind es circa fünfzig Kilometer.
+182	12	C	der Computer, –	0	Wann bekommst du deinen neuen Computer?
+183	12	D	da	0	Da hinten ist er ja.
+184	12	D	da	0	Wir sprechen gerade über Paul. Da kommt er ja gerade.
+185	12	D	da	0	Ich nehme das da.
+186	12	D	da	0	Ist Herr Klein schon da?
+187	12	D	die Dame, -n	0	Damen (an der Toilette)
+188	12	D	die Dame, -n	0	Sehr geehrte Damen und Herren!
+189	13	D	daneben	0	Du kennst doch die Post. Daneben ist die Bank.
+190	13	D	danken	0	Ich danke Ihnen für die Einladung.
+191	13	D	der Dank	1	Vielen Dank!
+192	13	D	der Dank	1	Herzlichen Dank!
+193	13	D	danke	1	Soll ich Ihnen helfen? - Nein, danke!
+194	13	D	dann	0	Ich muss noch schnell zur Post, dann komme ich.
+195	13	D	das Datum	0	Bitte schreiben Sie noch das Datum auf das Formular.
+196	13	D	dauern	0	Wie lange dauert der Film?
+197	13	D	dein-	0	Ist das dein Auto?
+198	13	D	dein-	0	Ist das deins?
+199	13	D	denn	0	Ich kann nicht kommen, denn ich bin krank.
+200	13	D	der, die, das	0	Ich nehme das da.
+201	13	D	der, die, das	0	Hier ist der Brief, den du suchst.
+202	13	D	der, die, das	0	Die Fahrkarte bekommst du am Bahnhof.
+203	13	D	dich	0	Die Blumen sind für dich.
+204	13	D	dies-	0	Ich nehme lieber diesen Kuchen.
+205	13	D	dir	0	Gefallen dir die Blumen?
+206	13	D	die Disco	0	Heute abend gehen wir in die Disco tanzen.
+207	13	D	der Doktor	0	Meine Tochter ist krank. Wir gehen zum Doktor.
+208	13	D	das Doppelzimmer	0	Wollen Sie ein Doppelzimmer oder ein Einzelzimmer?
+209	13	D	das Dorf, -ö, er	0	Meine Familie lebt in einem Dorf.
+210	13	D	dort, -her, -hin	0	Deine Tasche kannst du dorthin stellen.
+211	13	D	dort, -her, -hin	0	Dort ist unser Haus.
+212	13	D	draußen	0	Wollen wir draußen sitzen?
+213	13	D	drucken	0	Bitte drucke das Formular für mich.
+214	13	D	der Drucker, –	1	Mein Drucker ist kaputt.
+215	13	D	drücken	0	Drück hier, dann geht der Computer an.
+216	13	D	durch	0	Am besten gehen Sie durch die Breite Straße.
+217	13	D	die Durchsage, -n	0	Ich habe die Durchsage nicht verstanden.
+218	13	D	dürfen	0	Sie dürfen hier nicht rauchen.
+219	13	D	dürfen	0	Darf ich Sie zu einem Kaffee einladen?
+220	13	D	dürfen	0	Es darf nicht mehr als 15 Euro kosten.
+221	13	D	der Durst	0	Hast du etwas zu trinken? Ich habe großen Durst.
+222	13	D	(sich) duschen	0	Ich bade nicht so gern, ich dusche lieber.
+223	13	D	die Dusche	1	Unsere Wohnung hat nur eine Dusche.
+224	13	E	die Ecke, -n	0	An der nächsten Ecke links.
+225	13	E	die Ehefrau, -en/der Ehemann, ä, er	0	Das ist mein (Ehe-) Mann/meine (Ehe-) Frau.
+226	13	E	das Ei, -er	0	Möchtest du ein Ei zum Frühstück?
+227	13	E	eilig	0	Hast du es eilig?
+228	13	E	ein-	0	Ich nehme ein Bier. Willst du auch eins?
+229	13	E	ein-	0	Ist hier einer, der das kann?
+230	13	E	einfach	0	Die Prüfung ist ganz einfach.
+231	13	E	einfach	0	Hin und zurück? – Nein, bitte nur einfach.
+232	13	E	einfach	0	Ich brauche nur ein einfaches Zimmer.
+233	13	E	der Eingang	0	Der Eingang ist um die Ecke.
+234	13	E	einkaufen	0	Ich muss noch für morgen einkaufen.
+235	13	E	einladen	0	Darf ich Sie zu einem Kaffee einladen?
+236	13	E	die Einladung	1	Danke für die Einladung!
+237	14	E	einmal	0	Diese Prüfung mache ich nicht noch einmal.
+238	14	E	einsteigen	0	Schnell, steig ein, der Zug fährt gleich.
+239	14	E	der Eintritt	0	Der Preis für den Eintritt ist 5 Euro.
+240	14	E	das Einzelzimmer	0	Haben Sie noch ein Einzelzimmer?
+241	14	E	die Eltern (pl.)	0	Meine Eltern leben in Spanien.
+242	14	E	die E-Mail, -s	0	Ich habe Ihre E-Mail nicht bekommen.
+243	14	E	der Empfänger, –	0	Auf dem Brief steht dein Name, also bist du der Empfänger.
+244	14	E	empfehlen	0	Welchen Wein können Sie mir empfehlen?
+245	14	E	enden	0	Die Straße endet hier.
+246	14	E	das Ende	1	Sie wohnt am Ende der Straße.
+247	14	E	das Ende	1	Er bekommt sein Geld am Ende des Monats.
+248	14	E	entschuldigen	0	Entschuldigen Sie bitte!
+249	14	E	die Entschuldigung	1	Entschuldigung! – Bitte.
+250	14	E	er	0	Er heißt Ali.
+251	14	E	das Ergebnis, -se	0	Das Ergebnis des Tests bekommen Sie in zwei Wochen.
+252	14	E	erklären	0	Kannst du mir das erklären?
+253	14	E	erlauben	0	Rauchen ist hier nicht erlaubt.
+254	14	E	der Erwachsene, -n	0	Dieser Film ist nur für Erwachsene.
+255	14	E	erzählen	0	Wir müssen euch etwas erzählen!
+256	14	E	es	0	Es regnet.
+257	14	E	essen	0	Was gibt es zu essen?
+258	14	E	das Essen	1	Das Essen ist heute sehr gut.
+259	14	E	euer	0	Euer Kurs beginnt heute.
+260	14	F	fahren	0	Ich fahre mit dem Auto zur Arbeit.
+261	14	F	der Fahrer	1	Bitte nicht mit dem Fahrer sprechen!
+262	14	F	die Fahrkarte, -n	0	Hast du schon eine Fahrkarte?
+263	14	F	das Fahrrad, -ä, er	0	Fährst du mit dem Fahrrad oder mit dem Auto?
+264	14	F	falsch	0	Das ist falsch.
+265	14	F	die Familie, -n	0	Meine Familie lebt in Spanien.
+266	14	F	der Familienname	1	Meine Familiennamen sind García González.
+267	14	F	der Familienstand	1	Bei „Familienstand“ musst du „ledig“ ankreuzen.
+268	14	F	die Farbe, -n	0	Die Farbe gefällt mir gut.
+269	14	F	das Fax, -e	0	Schicken Sie uns einfach ein Fax!
+270	14	F	Feier-	0	z. B. Feierabend, Feiertag
+271	14	F	Feier-	0	Am Montag ist Feiertag.
+272	14	F	feiern	0	Wir feiern heute meinen Geburtstag.
+273	14	F	fehlen	0	Herr Müller ist nicht da, er fehlt schon seit drei Tagen.
+274	14	F	fehlen	0	Was fehlt Ihnen?
+275	14	F	der Fehler, –	0	Diesen Fehler mache ich immer.
+276	14	F	fernsehen	0	Wollen wir heute Abend mal fernsehen?
+277	14	F	fertig	0	Bist du fertig?
+278	14	F	fertig	0	Ist mein Auto schon fertig?
+279	14	F	das Feuer	0	Haben Sie Feuer?
+280	14	F	das Fieber	0	Mein Mann hat noch immer Fieber.
+281	14	F	der Film, -e	0	Ich möchte gern diesen Film sehen.
+282	14	F	finden	0	Wir müssen den Schlüssel finden.
+283	14	F	die Firma	0	Er arbeitet jetzt bei einer anderen Firma.
+284	14	F	der Fisch, -e	0	Ich esse gern Fisch. Fleisch mag ich nicht.
+285	15	F	die Flasche, -n	0	Eine Flasche Bier, bitte.
+286	15	F	das Fleisch	0	Fleisch mag ich nicht.
+287	15	F	fliegen	0	Ich fliege nicht gern. Deshalb fahre ich mit dem Zug.
+288	15	F	abfliegen	1	Wann fliegst du ab?
+289	15	F	der Abflug	1	Der Abflug ist um 11.20 Uhr.
+290	15	F	der Flughafen	0	Kannst du mich zum Flughafen bringen?
+291	15	F	das Flugzeug	0	Das Flugzeug aus Berlin kommt heute später an.
+292	15	F	das Formular, -e	0	Sie müssen dieses Formular ausfüllen.
+293	15	F	das Foto, -s	0	Darf ich ein Foto machen?
+294	15	F	fragen	0	Er möchte Sie etwas fragen. Wann kommen Sie?
+295	15	F	die Frage, -n	1	Ich habe eine Frage.
+296	15	F	die Frau, -en	0	Das ist Frau Becker.
+297	15	F	die Frau, -en	0	Guten Tag, Frau Schmitt!
+298	15	F	die Frau, -en	0	Hier arbeiten mehr Frauen als Männer.
+299	15	F	frei	0	Ist der Platz noch frei?
+300	15	F	die Freizeit	0	In meiner Freizeit spiele ich oft Fußball.
+301	15	F	fremd	0	Das weiß ich nicht; ich bin fremd hier.
+302	15	F	(sich) freuen	0	Ich freue mich auf den Urlaub.
+303	15	F	der Freund, -e	0	Das ist ein Freund von mir.
+304	15	F	der Freund, -e	0	Das ist meine Freundin.
+305	15	F	früher	0	Früher waren wir oft zusammen im Kino.
+306	15	F	frühstücken	0	Am Sonntag frühstücke ich gern im Bett.
+307	15	F	das Frühstück	1	Möchtest du ein Ei zum Frühstück?
+308	15	F	die Führung	0	Die Führung durch das Haus beginnt in 3 Minuten.
+309	15	F	für	0	Das ist für Sie.
+310	15	F	für	0	Das ist der Schlüssel für die Haustür.
+311	15	F	für	0	Das ist das Brot für morgen.
+312	15	F	der Fuß, -ü, e	0	Der linke Fuß tut mir weh.
+313	15	F	der Fußball	0	Spielt ihr gerne Fußball?
+314	15	G	der Garten	0	Wir haben leider keinen Garten.
+315	15	G	der Gast, -ä, e	0	Am Wochenende haben wir mehrere Gäste.
+316	15	G	geben	0	Kannst du mir bitte deinen Kugelschreiber geben?
+317	15	G	geben	0	Es gibt keine Karten mehr.
+318	15	G	geboren	0	Ich bin in Zagreb geboren.
+319	15	G	das Geburtsjahr	0	Das Geburtsjahr Ihres Sohnes, bitte?
+320	15	G	der Geburtsort	0	Bitte schreiben Sie Ihren Geburtsort auf das Formular.
+321	15	G	der Geburtstag	0	Herzlichen Glückwunsch zum Geburtstag!
+322	15	G	gefallen	0	Das gefällt mir.
+323	15	G	gegen	0	Fahr nicht gegen den Baum!
+324	15	G	gegen	0	Ich bin gegen diese Lösung.
+325	15	G	gegen	0	Wer spielt gegen wen?
+326	15	G	gehen	0	Ich weiß nicht, wie das geht.
+327	15	G	gehen	0	Wie geht‘s?
+328	15	G	gehen	0	Jetzt muss ich (aber) leider gehen.
+329	15	G	gehen	0	Ich muss zum Arzt gehen.
+330	15	G	gehen	0	Das geht nicht!
+331	15	G	gehören	0	Wem gehört das?
+332	15	G	das Geld	0	Hast du noch Geld?
+333	15	G	das Gemüse	0	Gemüse brauchen wir auch noch.
+334	16	G	das Gepäck	0	Wollen Sie Ihr Gepäck mitnehmen?
+335	16	G	gerade	0	Da kommt er ja gerade.
+336	16	G	geradeaus	0	Gehen Sie immer geradeaus!
+337	16	G	gern(e)	0	Ich gehe gerne einkaufen.
+338	16	G	das Geschäft, -e	0	Die Geschäfte schließen um 18.30 Uhr.
+339	16	G	das Geschenk, -e	0	Danke für das schöne Geschenk.
+340	16	G	die Geschwister (pl.)	0	Ich habe leider keine Geschwister.
+341	16	G	das Gespräch, -e	0	Das Gespräch mit Frau Kunz ist um 14 Uhr.
+342	16	G	gestern	0	Gestern war ich krank.
+343	16	G	gestorben	0	Meine Frau ist gestern gestorben.
+344	16	G	das Getränk, -e	0	Mein Lieblingsgetränk ist Tomatensaft.
+345	16	G	das Gewicht	0	Bei „Gewicht“ schreibst du: 62 Kilo.
+346	16	G	gewinnen	0	Wer gewinnt das Spiel?
+347	16	G	das Glas, -ä, er	0	Bitte noch ein Glas Wein!
+348	16	G	das Glas, -ä, er	0	Wir brauchen noch drei Gläser.
+349	16	G	glauben	0	Sie können mir glauben, es ist so.
+350	16	G	glauben	0	Ich glaube, er kommt gleich.
+351	16	G	gleich	0	Das ist mir gleich.
+352	16	G	gleich	0	Das ist der gleiche Preis.
+353	16	G	gleich	0	Ich komme gleich.
+354	16	G	das Gleis, -e	0	Der ICE nach Berlin hält heute an Gleis 12.
+355	16	G	das Glück	0	Viel Glück!
+356	16	G	glücklich	0	Meine Kinder sind glücklich verheiratet.
+357	16	G	der Glückwunsch	0	Herzlichen Glückwunsch zum Geburtstag.
+358	16	G	Grad (Celsius)	0	Heute haben wir dreißig Grad.
+359	16	G	gratulieren	0	Ich gratuliere dir!
+360	16	G	grillen	0	Heute grillen wir im Garten.
+361	16	G	groß	0	Mein Bruder und ich sind gleich groß.
+362	16	G	groß	0	Frankfurt ist eine große Stadt.
+363	16	G	die Größe	1	Haben Sie das auch in Größe 40?
+364	16	G	die Großeltern (pl.)	0	Meine Großeltern leben in Japan.
+365	16	G	die Großmutter	1	Meine Großmutter heißt Eva.
+366	16	G	der Großvater	1	Mein Großvater ist schon 80.
+367	16	G	die Gruppe, -n	0	Die erste Gruppe beginnt um 16 Uhr.
+368	16	G	der Gruß, -ü, e	0	Viele Grüße an Ihre Frau.
+369	16	G	der Gruß, -ü, e	0	Mit freundlichen Grüßen
+370	16	G	gültig	0	Der Pass ist nicht mehr gültig.
+371	16	G	günstig	0	Dort gibt es günstige Angebote.
+372	16	G	gut	0	Das finde ich gut.
+373	16	G	gut	0	Ich komme um 13 Uhr. – Gut!
+374	16	G	gut	0	Guten Morgen!
+375	16	G	gut	0	Ein gutes neues Jahr!
+376	16	G	gut	0	Guten Appetit!
+377	16	H	das Haar, -e	0	Sie hat lange Haare.
+378	16	H	haben	0	Ich habe ein neues Auto.
+379	16	H	das Hähnchen, -	0	Ein Hähnchen mit Pommes bitte!
+380	16	H	die Halbpension	0	Möchten Sie Vollpension oder Halbpension?
+381	16	H	die Halle	0	Wir treffen uns in Halle B
+382	16	H	hallo	0	Hallo Inge! Wie geht’s?
+383	17	H	halten	0	Dieser Zug hält nicht in Rüdesheim.
+384	17	H	die Haltestelle	0	An der nächsten Haltestelle müssen Sie aussteigen.
+385	17	H	die Hand, -ä, e	0	Er gibt mir die Hand.
+386	17	H	das Handy, -s	0	In der Schule bitte die Handys ausmachen!
+387	17	H	das Haus, -ä, er	0	In welchem Haus wohnst du?
+388	17	H	das Haus, -ä, er	0	Ich gehe jetzt nach Hause.
+389	17	H	das Haus, -ä, er	0	Paul ist nicht zu Hause.
+390	17	H	die Hausaufgabe,-n	0	Kannst du mir bei den Hausaufgaben helfen?
+391	17	H	die Hausfrau, -en/der Hausmann	0	Die Hausfrau/der Hausmann wäscht, kocht und kauft ein.
+392	17	H	die Heimat	0	Ich komme aus der Schweiz. Das ist meine Heimat.
+393	17	H	heiraten	0	Meine Schwester heiratet einen Japaner.
+394	17	H	heißen	0	Ich heiße Charlotte Meier.
+395	17	H	heißen	0	Wie heißt das auf Deutsch?
+396	17	H	helfen	0	Können Sie mir helfen, bitte?
+397	17	H	hell	0	Im Sommer ist es bis 21 Uhr hell.
+398	17	H	der Herd	0	In der neuen Küche fehlt noch der Herd.
+399	17	H	der Herr, -en	0	Guten Tag, Herr Sommer!
+400	17	H	herzlich	0	Herzlichen Glückwunsch!
+401	17	H	heute	0	Heute ist ein schöner Tag.
+402	17	H	hier	0	Hier ist 06131-553221, Pamela Linke.
+403	17	H	hier	0	Hier wohne ich.
+404	17	H	die Hilfe	0	Hilfe! Bitte helfen Sie mir!
+405	17	H	die Hilfe	0	Brauchen Sie meine Hilfe?
+406	17	H	hinten	0	Die Tür zum Aussteigen ist hinten.
+407	17	H	das Hobby, -s	0	Meine Hobbys sind Wandern und Schwimmen.
+408	17	H	hoch	0	Der Mount Everest ist 8.880 Meter hoch.
+409	17	H	die Hochzeit	0	Zur dieser Hochzeit kommen mehr als fünfzig Gäste.
+410	17	H	holen	0	Ich hole zwei Flaschen Wasser aus der Küche.
+411	17	H	hören	0	Hör mal! Was ist das?
+412	17	H	hören	0	Ich habe das Lied schon mal gehört.
+413	17	H	das Hotel, -s	0	Im Urlaub sind wir in einem Hotel am Meer.
+414	17	H	der Hund, -e	0	Der Hund ist noch jung.
+415	17	H	der Hunger	0	Ich habe Hunger! Wann ist das Essen fertig?
+416	17	I	ich	0	Ich heiße Veronika.
+417	17	I	ihr/ihm/ihn	0	Gib ihr/ihm bitte das Buch.
+418	17	I	ihr/ihm/ihn	0	Ruf ihn bitte an.
+419	17	I	immer	0	Frau Bast kommt immer zu spät.
+420	17	I	in	0	Ich wohne in Wiesbaden.
+421	17	I	in	0	Der Zug kommt in fünf Minuten.
+422	17	I	in	0	Frau Rausch arbeitet in einem Geschäft.
+423	17	I	in	0	Komm, wir gehen ins Kino.
+424	17	I	die Information, -en	0	Wenn Sie Fragen haben, gehen Sie zur Information.
+425	17	I	die Information, -en	0	Wir haben hier wichtige Informationen für Sie.
+426	17	I	international	0	Unser Deutschkurs ist international: Silvana kommt aus Italien, Conchi aus Spanien, Yin aus China ...
+427	17	I	das Internet	0	Das findest du im Internet.
+428	18	J	ja	0	Sind Sie Herr Watanabe? – Ja.
+429	18	J	die Jacke, -n	0	Zieh dir eine Jacke an. Es ist kalt.
+430	18	J	jed-	0	Blumen kannst du in jedem Bahnhof kaufen.
+431	18	J	jetzt	0	Jetzt machen wir eine Pause.
+432	18	J	der Job, -s	0	Jenny hat einen neuen Job bei der Post.
+433	18	J	der Jugendliche, -n	0	Viele Jugendliche kaufen gern ein.
+434	18	J	jung	0	Claudia ist 21. – Was? Noch so jung?
+435	18	J	der Junge, -n	0	Ich habe zwei Kinder. Einen Jungen und ein Mädchen.
+436	18	K	der Kaffee	0	Zum Frühstück trinke ich immer Kaffee.
+437	18	K	kaputt	0	Das Glas war teuer. Es geht sehr leicht kaputt.
+438	18	K	die Karte, -n	0	Ich schreibe meinen Bekannten eine Karte aus dem Urlaub.
+439	18	K	die Karte, -n	0	Wollen wir Karten spielen?
+440	18	K	die Karte, -n	0	Ich möchte auch etwas essen. Bringen Sie mir die Karte, bitte.
+441	18	K	(Kredit)-Karte, -n	1	Kann ich auch mit Karte (be-) zahlen?
+442	18	K	die Kartoffel, -n	0	Für Pommes frites braucht man Kartoffeln.
+443	18	K	die Kasse	0	Zahlen Sie bitte an der Kasse.
+444	18	K	kaufen	0	Tim kauft sich ein neues Auto.
+445	18	K	kein	0	Es gibt keine Eintrittskarten mehr.
+446	18	K	kennen	0	Kennen Sie diese Frau? – Nein, leider nicht.
+447	18	K	kennenlernen	1	Wir sind neu hier. Wir möchten Sie kennenlernen.
+448	18	K	das Kind, -er	0	Wie viele Kinder haben Sie?
+449	18	K	der Kindergarten	0	Die kleine Laura geht schon in den Kindergarten.
+450	18	K	das Kino, -s	0	Wir sehen heute Abend im Kino einen schönen Film.
+451	18	K	der Kiosk	0	Am Kiosk bekommen Sie Getränke, Zigaretten und Zeitungen.
+452	18	K	klar	0	Kommst du mit? – Klar!
+453	18	K	die Klasse	0	In unserer Klasse sind fünfundzwanzig Schüler.
+454	18	K	die Klasse	0	Im Zug fahre ich immer 2. Klasse.
+455	18	K	die Kleidung	0	Wo finde ich Kleidung? – Jacken im ersten, Jeans im zweiten Stock.
+456	18	K	klein	0	Eltville ist eine kleine Stadt am Rhein.
+457	18	K	kochen	0	Herr Georgi kann gut kochen.
+458	18	K	der Koffer, –	0	Ist das Ihr Koffer?
+459	18	K	der Kollege, -n	0	Wie heißt die neue Kollegin?
+460	18	K	kommen	0	Woher kommen Sie? – Aus Frankreich.
+461	18	K	kommen	0	Kommst du mit ins Schwimmbad?
+462	18	K	können	0	Ich kann Deutsch und Russisch.
+463	18	K	können	0	Können Sie mir helfen?
+464	18	K	das Konto	0	Das Geld überweisen wir am ersten März auf Ihr Konto.
+465	18	K	der Kopf	0	Mein Kopf tut weh!
+466	18	K	kosten	0	Wie viel kostet das? – 10 Euro.
+467	18	K	krank	0	Ich kann heute nicht zur Arbeit kommen, ich bin krank und liege im Bett.
+468	18	K	kriegen	0	Ich kriege 15 Euro in der Stunde für meine Arbeit.
+469	18	K	die Küche	0	Der neue Herd kommt in die Küche.
+470	18	K	der Kuchen	0	Ich nehme ein Stück Kuchen.
+471	19	K	der Kugelschreiber	0	Hast du einen Kugelschreiber für mich?
+472	19	K	der Kühlschrank	0	Haben wir noch Milch? – Ja, im Kühlschrank.
+473	19	K	kulturell	0	Ich bin kulturell interessiert. Ich gehe oft ins Museum.
+474	19	K	sich kümmern	0	Jede Mutter kümmert sich um ihre kleinen Kinder.
+475	19	K	der Kunde, -n	0	Einen Moment, bitte. Ich habe eine Kundin.
+476	19	K	der Kurs, -e	0	Der Deutschkurs geht bis zum Sommer.
+477	19	K	kurz	0	Ricardo hat kurzes Haar.
+478	19	L	lachen	0	Die Kinder lachen viel.
+479	19	L	der Laden, -ä	0	Im Buchladen können Sie Bücher kaufen.
+480	19	L	das Land, -ä, er	0	Italien ist ein schönes Land.
+481	19	L	lang	0	Die Jeans ist zu lang.
+482	19	L	lange	0	Wie lange fährt der Zug von Hamburg nach Berlin?
+483	19	L	langsam	0	Könnten Sie bitte etwas langsamer sprechen?
+484	19	L	laufen	0	Ich möchte nicht Auto fahren, ich möchte laufen.
+485	19	L	laut	0	Nicht so laut! Das Baby schläft.
+486	19	L	leben	0	Sie lebt bei ihrer Schwester.
+487	19	L	leben	0	Ihre Eltern leben nicht mehr.
+488	19	L	das Leben	1	Das Leben in diesem Land ist teuer.
+489	19	L	die Lebensmittel (pl.)	0	Lebensmittel bekommen Sie im Supermarkt.
+490	19	L	ledig	0	Sind Sie verheiratet? – Nein. Ledig.
+491	19	L	legen	0	Legen Sie das Buch auf den Tisch.
+492	19	L	der Lehrer, –	0	Unsere Deutschlehrerin heißt Frau Müller.
+493	19	L	leicht	0	Der Koffer ist leicht.
+494	19	L	leicht	0	Deutsch ist nicht leicht.
+495	19	L	leider	0	Leider kann ich nicht kommen. Ich muss zum Arzt.
+496	19	L	leise	0	Seid leise. Die anderen schlafen schon.
+497	19	L	lernen	0	Wie lange lernen Sie schon Deutsch?
+498	19	L	lesen	0	Ich lese ein Buch von García Márquez.
+499	19	L	letzt-	0	Morgen ist der letzte Kurstag.
+500	19	L	die Leute (pl.)	0	In der Disko sind viele Leute.
+501	19	L	das Licht	0	Wo macht man hier das Licht an?
+502	19	L	lieb-	0	Liebe Susanne, lieber Hans,
+503	19	L	lieben	1	Ich liebe dich!
+504	19	L	lieber	1	Sie fährt lieber mit der Bahn.
+505	19	L	Lieblings-	0	Mein Lieblingsfilm ist „Schwarze Augen“.
+506	19	L	das Lied, -er	0	Welches ist dein Lieblingslied?
+507	19	L	liegen	0	Um neun Uhr liegt Judith noch im Bett.
+508	19	L	liegen	0	Frankfurt liegt am Main.
+509	19	L	links	0	Gehen Sie die nächste Straße links.
+510	19	L	der Lkw, -s	0	Dieser Lastkraftwagen ist sehr groß.
+511	19	L	das Lokal	0	In unserer Straße gibt es ein neues Lokal.
+512	19	L	die Lösung, -en	0	Die Lösung ist ganz einfach.
+513	19	L	lustig	0	Frau Mertens ist lustig. Sie lacht immer.
+514	19	M	machen	0	Was machst du heute Abend?
+515	19	M	machen	0	Ich muss jetzt das Essen machen.
+516	20	M	machen	0	Das macht 5 Euro 95.
+517	20	M	machen	0	Das macht nichts.
+518	20	M	das Mädchen, –	0	Familie Kurz bekommt ein Baby. – Junge oder Mädchen?
+519	20	M	man	0	Hier darf man nicht rauchen.
+520	20	M	der Mann, -ä, er	0	Mein Mann arbeitet bei der Polizei.
+521	20	M	männlich	1	Kreuzen Sie bitte an: „weiblich“ oder „männlich“.
+522	20	M	die Maschine, -n	0	Die Waschmaschine ist günstig.
+523	20	M	das Meer	0	Wir machen Urlaub am Meer.
+524	20	M	mehr	0	Dieses Auto kostet 1.000 Euro mehr als das andere.
+525	20	M	mein	0	Mein Vater ist Arzt.
+526	20	M	meist-	0	Die meisten Norddeutschen sind sehr groß.
+527	20	M	der Mensch, -en	0	Die Menschen sind hier anders als bei uns.
+528	20	M	mieten	0	Ich möchte ein Auto mieten.
+529	20	M	die Miete	1	Die Miete für diese Wohnung ist 600 Euro.
+530	20	M	die Milch	0	Die Milch steht im Kühlschrank.
+531	20	M	mit	0	Trinken Sie den Kaffee mit Milch?
+532	20	M	mitbringen	0	Ich gehe einkaufen. Soll ich dir was mitbringen?
+533	20	M	mitkommen	0	Ich gehe ins Kino. Kommst du mit?
+534	20	M	mitmachen	0	Warum macht ihr nicht mit?
+535	20	M	mitnehmen	0	Nehmen wir meine Schwester ins Kino mit?
+536	20	M	die Mitte	0	Der Lehrer steht in der Mitte des Klassenzimmers.
+537	20	M	die Möbel (pl.)	0	Sind die Möbel neu?
+538	20	M	möchten	0	Was möchten Sie trinken?
+539	20	M	mögen	0	Magst du Kaffee oder Tee?
+540	20	M	möglich	0	Mit dieser Fahrkarte ist die Fahrt ab 9 Uhr möglich.
+541	20	M	der Moment	0	Moment mal bitte!
+542	20	M	der Moment	0	Einen Moment bitte.
+543	20	M	morgen	0	Morgen beginnt die Schule um 10 Uhr.
+544	20	M	müde	0	Ich bin müde. Ich gehe schlafen.
+545	20	M	der Mund	0	Öffnen Sie den Mund.
+546	20	M	müssen	0	Ich muss jeden Tag von 8 Uhr bis 18 Uhr arbeiten.
+547	20	M	die Mutter, -ü	0	Frau Berghäuser ist die Mutter von Michaela.
+548	20	N	nach	0	Ich gehe jetzt nach Hause.
+549	20	N	nach	0	Ich fliege nach München.
+550	20	N	nach	0	Es ist schon 5 nach 12.
+551	20	N	nächst-	0	Sehen wir uns nächste Woche?
+552	20	N	der Name, -n	0	Mein Name ist Thomas Schmidt.
+553	20	N	der Name, -n	0	Mein Vorname ist Thomas; Schmidt ist der Familienname.
+554	20	N	nehmen	0	Heute gibt es Hähnchen. Das nehme ich.
+555	20	N	nehmen	0	Ich nehme den Bus.
+556	20	N	nein	0	Fährst du auch nach München? – Nein, ich habe keine Zeit.
+557	20	N	neu	0	Ich bin der neue Kollege.
+558	20	N	neu	0	Wir haben eine neue Wohnung.
+559	20	N	nicht	0	Das stimmt nicht.
+560	20	N	nicht	0	Das ist doch schön, nicht?
+561	20	N	nichts	0	Das macht nichts.
+562	20	N	nichts	0	Hier kaufe ich nichts. Der Laden gefällt mir nicht.
+563	20	N	nie	0	Er kommt nie pünktlich.
+564	21	N	noch	0	Vielleicht kommt er noch.
+565	21	N	noch	0	Wir warten noch fünf Minuten.
+566	21	N	noch	0	Ich habe noch 20 Euro.
+567	21	N	normal	0	75 kg. Sein Gewicht ist normal.
+568	21	N	die Nummer, -n	0	Sie haben Zimmer Nummer zwölf.
+569	21	N	die Nummer, -n	0	Welche Hausnummer haben Sie?
+570	21	N	die Nummer, -n	0	Können Sie mir Ihre Nummer geben?
+571	21	N	nur	0	Ich möchte nur ein Glas Wasser.
+572	21	O	oben	0	Ich wohne oben.
+573	21	O	das Obst	0	Im Sommer ist das Obst billig.
+574	21	O	oder	0	Wann können Sie kommen – heute oder morgen?
+575	21	O	öffnen	0	Ich öffne die Tür.
+576	21	O	geöffnet	1	Der Laden ist samstags bis 16.00 Uhr geöffnet.
+577	21	O	oft	0	Petra treffe ich oft.
+578	21	O	ohne	0	Ohne Geld kann er nichts kaufen.
+579	21	O	das Öl	0	Den Salat machen wir ohne Öl.
+580	21	O	die Oma, -s	0	Meine Oma ist schon tot.
+581	21	O	der Opa, -s	0	Mein Opa heißt Hans.
+582	21	O	die Ordnung	0	Das ist in Ordnung.
+583	21	O	der Ort, -e	0	Der Ort liegt am Meer.
+584	21	P	das Papier	0	Hier sind Papier und Bleistift.
+585	21	P	die Papiere (pl.)	0	Haben Sie Ihre Papiere dabei?
+586	21	P	der Partner, -/die Partnerin, -nen	0	Sie ist meine Partnerin.
+587	21	P	die Party	0	Heute Abend machen wir eine Party.
+588	21	P	der Pass, -ä, e	0	Im Hotel brauchst du deinen Pass.
+589	21	P	die Pause, -n	0	Von 12.00 bis 12.30 Uhr haben wir Mittagspause.
+590	21	P	der Plan, -ä, e	0	Ich kaufe mir einen Stadtplan.
+591	21	P	der Platz, -ä, e	0	Tut mir leid, der Platz ist besetzt.
+592	21	P	der Platz, -ä, e	0	Bitte nehmen Sie Platz!
+593	21	P	der Platz, -ä, e	0	Ich wohne Messeplatz 5.
+594	21	P	die Polizei	0	Holen Sie die Polizei!
+595	21	P	die Pommes frites (pl.)	0	Die Kinder essen Hähnchen mit Pommes frites.
+596	21	P	die Post	0	Wo ist die Post, bitte?
+597	21	P	die Post	0	Ist Post da?
+598	21	P	die Postleitzahl	0	Wie ist Ihre Postleitzahl?
+599	21	P	das Praktikum	0	Ich mache ein Praktikum bei Siemens.
+600	21	P	die Praxis	0	Die Praxis ist ab acht Uhr geöffnet.
+601	21	P	der Preis, -e	0	Die Preise sind hoch.
+602	21	P	das Problem, -e	0	Mein Problem ist die Sprache.
+603	21	P	der Prospekt, -e	0	Bitte schicken Sie mir einen Prospekt von Ihrem Hotel.
+604	21	P	die Prüfung	0	Die Prüfung ist am Montag um 8.00 Uhr.
+605	21	P	pünktlich	0	Der Bus fährt pünktlich um acht Uhr.
+606	21	P	pünktlich	0	Herr Müller ist immer pünktlich.
+607	22	R	Rad fahren	0	Das Kind kann schon Rad fahren.
+608	22	R	rauchen	0	Ich rauche nicht.
+609	22	R	der Raum, -ä, e	0	Der Unterricht ist in Raum 332.
+610	22	R	die Rechnung, -en	0	Die Rechnung, bitte.
+611	22	R	rechts	0	Die Schillerstraße ist hier rechts.
+612	22	R	regnen	0	Heute regnet es.
+613	22	R	der Regen	1	Bei diesem Regen gehe ich nicht raus.
+614	22	R	der Reis	0	Ich esse gern Reis.
+615	22	R	reisen	0	Ich reise gern.
+616	22	R	die Reise	1	Wir machen eine Reise nach Österreich.
+617	22	R	das Reisebüro, -s	1	Mein Mann arbeitet im Reisebüro.
+618	22	R	der Reiseführer	1	Ich kaufe mir einen Reiseführer von Berlin.
+619	22	R	der Reiseführer	1	Unser Reiseführer heißt Peter.
+620	22	R	reparieren	0	Er hat das Fahrrad repariert.
+621	22	R	die Reparatur	1	Die Reparatur ist sehr teuer.
+622	22	R	das Restaurant, -s	0	Wir essen heute in einem Restaurant.
+623	22	R	die Rezeption	0	Fragen Sie bitte im Hotel an der Rezeption.
+624	22	R	richtig	0	Habe ich das richtig verstanden?
+625	22	R	richtig	0	Das ist richtig.
+626	22	R	riechen	0	Dieser Wein riecht gut.
+627	22	R	ruhig	0	Ich möchte ein ruhiges Zimmer.
+628	22	S	der Saft	0	Möchtest du einen Apfelsaft?
+629	22	S	sagen	0	Sag mal, wie geht es dir denn?
+630	22	S	der Salat	0	Wie schmeckt dir der Salat?
+631	22	S	das Salz	0	Herr Ober, kann ich bitte Salz haben?
+632	22	S	Satz, -ä, e	0	Dieser Satz ist sehr einfach.
+633	22	S	die S-Bahn	0	Ich nehme lieber die S-Bahn.
+634	22	S	der Schalter	0	Gehen Sie bitte zum Schalter drei!
+635	22	S	scheinen	0	Die Sonne scheint.
+636	22	S	schicken	0	Bitte schicken Sie mir eine E-Mail.
+637	22	S	das Schild, -er	0	Haben Sie nicht das Schild gesehen?
+638	22	S	der Schinken, –	0	Ich möchte gern ein Schinkenbrot.
+639	22	S	schlafen	0	Ich schlafe meistens acht Stunden.
+640	22	S	schlecht	0	Mir ist schlecht!
+641	22	S	schlecht	0	Sie sehen schlecht aus.
+642	22	S	schlecht	0	Wir haben schlechtes Wetter.
+643	22	S	schließen	0	Bitte, schließen Sie die Tür.
+644	22	S	geschlossen	1	Die Bank hat am Samstag geschlossen.
+645	22	S	der Schluss	0	Ich muss jetzt Schluss machen.
+646	22	S	der Schluss	0	Zum Schluss gibt er uns allen die Hand.
+647	22	S	der Schlüssel, –	0	Ich gebe Ihnen noch den Zimmerschlüssel.
+648	22	S	schmecken	0	Schmeckt das gut?
+649	22	S	schnell	0	Er fährt schnell.
+650	22	S	schon	0	Ist das Essen schon fertig?
+651	22	S	schön	0	Schönen Urlaub!
+652	22	S	schön	0	Das ist sehr schön.
+653	22	S	der Schrank, -ä, e	0	Die Gläser stehen im Schrank.
+654	22	S	schreiben	0	Er schreibt jeden Tag fünfzig E-Mails.
+655	23	S	der Schuh, -e	0	Zieh die Schuhe aus!
+656	23	S	die Schule	0	Meine Tochter geht schon in die Schule.
+657	23	S	die Schule	0	Die Schule ist gleich hier um die Ecke.
+658	23	S	der Schüler, –	1	In meinem Kurs sind acht Schülerinnen und fünf Schüler.
+659	23	S	schwer	0	Ist Ihr Gepäck sehr schwer?
+660	23	S	schwer	0	Das ist eine schwere Arbeit.
+661	23	S	die Schwester, -n	0	Meine Schwester kommt am Dienstag.
+662	23	S	schwimmen	0	Ich schwimme jeden Tag einen Kilometer.
+663	23	S	das Schwimmbad	1	Kommst du mit ins Schwimmbad?
+664	23	S	der See	0	Komm, wir fahren zum Starnberger See.
+665	23	S	sehen	0	Ich kann dich nicht sehen.
+666	23	S	sehen	0	Ich habe diesen Jungen schon einmal gesehen.
+667	23	S	die Sehenswürdigkeit, -en	0	Welche Sehenswürdigkeiten gibt es in Frankfurt?
+668	23	S	sehr	0	Danke sehr!
+669	23	S	sehr	0	Das ist sehr schwer.
+670	23	S	sein	0	Herr Müller ist in seinem Zimmer.
+671	23	S	sein	0	Mir ist kalt.
+672	23	S	sein	0	Ich bin dreiundzwanzig.
+673	23	S	an sein	1	Das Licht ist noch an.
+674	23	S	auf sein	1	Das Fenster ist noch auf.
+675	23	S	weg sein	1	Herr Meier ist schon weg.
+676	23	S	zu sein	1	Die Tür ist zu.
+677	23	S	seit	0	Ich wohne seit drei Jahren in Köln.
+678	23	S	selbstständig	0	Er ist selbstständig.
+679	23	S	sich	0	Sie müssen sich erst anmelden.
+680	23	S	sie	0	Wie heißt sie?
+681	23	S	Sie	0	Wie heißen Sie, bitte?
+682	23	S	sitzen	0	Wo sitzen Sie?
+683	23	S	so	0	Sie müssen das so machen!
+684	23	S	so	0	Fahren Sie bitte nicht so schnell!
+685	23	S	so	0	Meine Frau ist so groß wie ich.
+686	23	S	so	0	So, das war‘s/wär‘s!
+687	23	S	das Sofa	0	Das Sofa ist neu.
+688	23	S	sofort	0	Bitte antworten Sie sofort.
+689	23	S	der Sohn, -ö, e	0	Das ist Hans, mein Sohn.
+690	23	S	sollen	0	Soll ich kommen?
+691	23	S	sollen	0	Was soll ich mitbringen?
+692	23	S	die Sonne	0	Die Sonne scheint.
+693	23	S	spät	0	Es ist schon spät, ich muss gehen.
+694	23	S	später	0	Das können wir später machen.
+695	23	S	die Speisekarte	0	Bringen Sie mir die Speisekarte, bitte.
+696	23	S	spielen	0	Die Kinder spielen draußen.
+697	23	S	spielen	0	Spielen Sie Karten?
+698	23	S	der Sport	0	Ich mache viel Sport.
+699	23	S	die Sprache, -n	0	Welche Sprachen sprichst du?
+700	23	S	sprechen	0	Kann ich (mit) Herrn Klein sprechen?
+701	23	S	die Stadt, -ä, e	0	Heidelberg ist eine alte Stadt.
+702	23	S	stehen	0	Ich glaube es nicht, aber es steht in der Zeitung.
+703	23	S	stehen	0	Der Bus steht schon an der Haltestelle.
+704	23	S	die Stelle, -n	0	Ich habe eine neue Stelle.
+705	24	S	stellen	0	Stell die Tasche rechts in die Ecke!
+706	24	S	der Stock	0	Unsere Wohnung liegt im ersten Stock.
+707	24	S	die Straße, -n	0	In welcher Straße wohnen Sie?
+708	24	S	die Straßenbahn	0	Wo fährt die Straßenbahn ab?
+709	24	S	studieren	0	Ich studiere in Mainz.
+710	24	S	das Studium	0	Das Studium beginnt im Oktober.
+711	24	S	der Student, -en	1	Ich bin Studentin.
+712	24	S	die Stunde, -n	0	Ich bin in einer Stunde zurück.
+713	24	S	suchen	0	Suchst du etwas?
+714	24	T	tanzen	0	Tanzen Sie gern?
+715	24	T	die Tasche, -n	0	Ich habe die Schlüssel in der Tasche.
+716	24	T	das Taxi, -s	0	Es gibt heute keinen Bus mehr. Er fährt mit dem Taxi.
+717	24	T	der Tee	0	Ich trinke morgens immer Tee.
+718	24	T	der Teil, -e	0	Lies bitte auch den zweiten Teil.
+719	24	T	telefonieren	0	Darf ich mal telefonieren?
+720	24	T	das Telefon	1	Haben Sie Telefon?
+721	24	T	der Termin, -e	0	Am besten machen wir sofort einen Termin.
+722	24	T	der Test	0	Der Test war einfach.
+723	24	T	teuer	0	Das ist mir zu teuer.
+724	24	T	der Text, -e	0	Lesen Sie bitte diesen Text.
+725	24	T	das Thema	0	Wir sprechen heute über das Thema „Essen und Trinken“.
+726	24	T	das Ticket, -s	0	Wie viel kostet das Ticket?
+727	24	T	der Tisch, -e	0	Die Fotos liegen auf dem Tisch.
+728	24	T	die Tochter, -ö	0	Das ist meine Tochter Katharina.
+729	24	T	die Toilette, -en	0	Wo ist die Toilette, bitte?
+730	24	T	die Tomate, -n	0	Die Tomate ist noch grün.
+731	24	T	tot	0	Sein Vater ist schon lange tot.
+732	24	T	(sich) treffen	0	Ich treffe in der Stadt einen Kollegen.
+733	24	T	(sich) treffen	0	Wir treffen uns immer freitags.
+734	24	T	die Treppe, -n	0	Die Toilette? Die Treppe hoch und dann links.
+735	24	T	trinken	0	Möchtest du etwas trinken?
+736	24	T	tschüss	0	Junge Leute sagen meistens „tschüss!“ und nicht „auf Wiedersehen“.
+737	24	T	tun	0	Ich habe noch etwas zu tun.
+738	24	T	tun	0	Was tut Ihr Mann?
+739	24	U	über	0	Gehen Sie hier über die Straße.
+740	24	U	über	0	Er wohnt im zweiten Stock über Familie Meier.
+741	24	U	über	0	Sind Sie über 18?
+742	24	U	übernachten	0	Du kannst bei mir übernachten.
+743	24	U	überweisen	0	Sie können das Geld auch überweisen.
+744	24	U	die Uhr	0	Es ist vier Uhr.
+745	24	U	um	0	Er kommt um sieben Uhr.
+746	24	U	um	0	Da kommt er gerade um die Ecke.
+747	24	U	umziehen	0	Nächsten Monat ziehen wir um.
+748	24	U	und	0	Peter und Helmut sind meine Söhne.
+749	25	U	unser-	0	Das ist unsere Lehrerin.
+750	25	U	unten	0	Er wohnt ganz unten im Haus.
+751	25	U	unter	0	Unter uns wohnt eine Familie mit drei Kindern.
+752	25	U	der Unterricht	0	Wir haben Unterricht von 8.00 bis 12.00 Uhr.
+753	25	U	unterschreiben	0	Wo muss ich unterschreiben?
+754	25	U	die Unterschrift	1	Hier fehlt noch Ihre Unterschrift.
+755	25	U	der Urlaub	0	Ich nehme im September Urlaub.
+756	25	V	der Vater, -ä	0	Mein Vater ist Arbeiter.
+757	25	V	verboten	0	Hier ist Rauchen verboten.
+758	25	V	verdienen	0	Ich verdiene 1.500 Euro im Monat.
+759	25	V	der Verein	0	Es gibt einen neuen Sportverein in der Stadt.
+760	25	V	verheiratet	0	Ich bin verheiratet und habe drei Kinder.
+761	25	V	verkaufen	0	Er verkauft sein altes Auto.
+762	25	V	der Verkäufer, –	1	Meine Mutter ist Verkäuferin im Kaufhaus.
+763	25	V	vermieten	0	Die Wohnung ist schon vermietet.
+764	25	V	der Vermieter	1	Unser Vermieter heißt Huber. Er wohnt auch hier.
+765	25	V	verstehen	0	Können Sie mich verstehen?
+766	25	V	der Verwandte, -n	0	Peter besucht seine Verwandten in Polen.
+767	25	V	viel	0	Hier regnet es viel.
+768	25	V	vielleicht	0	Ich komme vielleicht mit dem Bus.
+769	25	V	von	0	Das Auto von Felix ist kaputt.
+770	25	V	von	0	Er kommt gerade von Köln/von zu Hause.
+771	25	V	vor	0	Der Termin war vor einer Stunde.
+772	25	V	vor	0	Das Auto steht vor der Tür.
+773	25	V	der Vorname, -n	0	Ich heiße Müller, mein Vorname ist Eva.
+774	25	V	die Vorsicht	0	Vorsicht! Da kommt ein Auto.
+775	25	V	(sich) vorstellen	0	Wir wollen uns kennenlernen. Können Sie sich bitte vorstellen?
+776	25	V	die Vorwahl	0	Wie ist die Vorwahl von München?
+777	25	W	wandern	0	Wir wandern um den Chiemsee.
+778	25	W	wann	0	Wann bist du fertig?
+779	25	W	wann	0	Wann kann ich Sie anrufen?
+780	25	W	wann	0	Wann sind Sie geboren?
+781	25	W	warten	0	Können Sie ein paar Minuten warten?
+782	25	W	warten	0	Auf wen warten Sie?
+783	25	W	warum	0	Warum kommt er nicht?
+784	25	W	was	0	Was ist das?
+785	25	W	was	0	Was möchten Sie?
+786	25	W	was für ein	0	Was für eine Farbe möchten Sie?
+787	25	W	(sich) waschen	0	Wo kann ich mir die Hände waschen?
+788	25	W	(sich) waschen	0	Ich muss morgen waschen.
+789	25	W	das Wasser	0	Ein Glas Wasser, bitte.
+790	25	W	weh tun	0	Ich muss zum Arzt. Mein Bein tut weh.
+791	25	W	weiblich	0	Kreuzen Sie bitte an: „weiblich“ oder „männlich“.
+792	25	W	der Wein	0	Nein danke, ich möchte keinen Wein.
+793	25	W	weit	0	Zum Bahnhof ist es nicht weit.
+794	26	W	weiter	0	Der Bus fährt nicht weiter.
+795	26	W	welch-	0	Welches Buch möchtest du?
+796	26	W	die Welt	0	Es gibt viele Probleme auf der Welt.
+797	26	W	wenig	0	Ich habe leider nur wenig verstanden.
+798	26	W	wenig	0	Er verdient wenig.
+799	26	W	wer	0	Wer ist das?
+800	26	W	werden	0	Mein Sohn will Arzt werden.
+801	26	W	das Wetter	0	Wir hatten schlechtes Wetter.
+802	26	W	wichtig	0	Dieses Formular ist sehr wichtig.
+803	26	W	wie	0	Wie heißt du?
+804	26	W	wie	0	Er schreibt wie ein Kind.
+805	26	W	wie	0	Meine Frau ist so groß wie ich.
+806	26	W	wie	0	Wie soll ich das machen?
+807	26	W	wie	0	Wie groß ist die Wohnung?
+808	26	W	wie	0	Wie bitte?
+809	26	W	wie	0	Wie lange bist du schon hier?
+810	26	W	wiederholen	0	Können Sie das bitte wiederholen?
+811	26	W	das Wiederhören	0	Wir müssen jetzt Schluss machen.
+812	26	W	das Wiederhören	0	Also auf Wiederhören!
+813	26	W	das Wiedersehen	0	Auf Wiedersehen!
+814	26	W	wie viel	0	Wie viel Milch nehmen Sie?
+815	26	W	willkommen	0	Herzlich willkommen!
+816	26	W	der Wind	0	Der Wind kommt aus Osten.
+817	26	W	wir	0	Wir lernen Deutsch.
+818	26	W	wissen	0	Weißt du, wie er heißt?
+819	26	W	wo	0	Wo waren Sie im Urlaub?
+820	26	W	wo	0	Wo ist die Post?
+821	26	W	wo	0	Wo sind Sie geboren?
+822	26	W	woher	0	Woher kommen Sie?
+823	26	W	wohin	0	Wohin fährt dieser Bus?
+824	26	W	wohin	0	Wohin wollen Sie am Wochenende?
+825	26	W	wohnen	0	Ich wohne in München.
+826	26	W	die Wohnung, -en	1	Seit wann haben Sie diese Wohnung?
+827	26	W	wollen	0	Wollen Sie einen Kaffee trinken?
+828	26	W	das Wort, -ö, er/-e	0	Ich kenne das Wort nicht.
+829	26	W	wunderbar	0	Das Essen schmeckt wunderbar.
+830	26	Z	zahlen	0	Zahlen, bitte!
+831	26	Z	die Zeit	0	Ich habe heute keine Zeit.
+832	26	Z	zurzeit	1	Zurzeit habe ich sehr viel zu tun.
+833	26	Z	die Zeitung, -en	0	Ich lese gern Zeitung.
+834	26	Z	die Zigarette, -n	0	Wie teuer sind die Zigaretten?
+835	26	Z	das Zimmer, –	0	Das Zimmer ist groß.
+836	26	Z	das Zimmer, –	0	Öffne im Schlafzimmer das Fenster, bitte!
+837	26	Z	das Zimmer, –	0	Die Wohnung hat drei Zimmer.
+838	26	Z	das Zimmer, –	0	Ich habe ein Zimmer bestellt.
+839	26	Z	der Zoll	0	Wir müssen noch durch den Zoll.
+840	26	Z	zu	0	Der Bus fährt zum Bahnhof.
+841	26	Z	zu	0	Ich gehe zu Fuß.
+842	26	Z	zu	0	Ich bin zu Hause.
+843	27	Z	zufrieden	0	Ich bin mit der Wohnung zufrieden.
+844	27	Z	der Zug, -ü, e	0	Ich fahre gern mit dem Zug.
+845	27	Z	zurück	0	Einmal Frankfurt und zurück.
+846	27	Z	zurück	0	Wann kommst du zurück?
+847	27	Z	zusammen	0	Sollen wir zusammen essen gehen?
+848	27	Z	zusammen	0	Das macht zusammen 2 Euro 80.
+849	27	Z	zwischen	0	Heidelberg liegt zwischen Frankfurt und Stuttgart.
+850	27	Z	zwischen	0	Zwischen 8 und 10 Uhr bin ich zu Hause.

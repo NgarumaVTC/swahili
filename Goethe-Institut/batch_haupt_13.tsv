@@ -1,0 +1,49 @@
+id	satz_sw	gloss_morpheme	gloss_labels	satz_en	hinweis
+189	Unaijua posta. Benki iko kando yake.	u-na-i-ju-a posta benki i-ko kando y-ake	2SG-PRÄS-OBJ9-kennen-IND KL9.Post KL9.Bank KL9-sein.da neben KL9-sein	You know the post office. The bank is next to it.	"kando yake heißt wörtlich ""an ihrer Seite"""
+190	Nawashukuru kwa mwaliko.	na-wa-shukuru kwa mw-aliko	1SG.PRÄS.ALLG-OBJ2PL-danken für KL3-Einladung	I thank you for the invitation.	kushukuru ist arabisches Lehnverb auf -u
+191	Shukrani nyingi!	shukrani ny-ingi	KL10.Dank KL10-viele	Many thanks!	nyingi kongruiert mit shukrani Kl.10
+192	Shukrani za moyo!	shukrani z-a moyo	KL10.Dank KL10-GEN KL3.Herz	Heartfelt thanks!	"wörtlich ""Dank des Herzens"""
+193	Nikusaidie? - Hapana, asante!	ni-ku-saidi-e hapana asante	1SG-OBJ2SG-helfen-KONJ nein danke	Shall I help you? - No, thank you!	Konjunktiv allein bietet Hilfe an
+194	Lazima niende posta haraka, kisha nitakuja.	lazima ni-end-e posta haraka kisha ni-ta-kuj-a	muss 1SG-gehen-KONJ KL9.Post schnell dann 1SG-FUT-kommen-IND	I have to pop to the post office, then I will come.	kisha verknüpft zwei Handlungen zeitlich
+195	Tafadhali andikeni pia tarehe kwenye fomu.	tafadhali andik-eni pia tarehe kwenye fomu	bitte schreiben-IMP.PL auch KL9.Datum an KL9.Formular	Please also write the date on the form.	tarehe ist Kl.9 und Kl.10 gleich
+196	Filamu inachukua muda gani?	filamu i-na-chuku-a muda gani	KL9.Film KL9-PRÄS-nehmen-IND KL3.Zeit welche	How long does the film last?	dauern = Zeit nehmen
+197	Hili ni gari lako?	hili ni gari l-ako	KL5.DEM KOP KL5.Auto KL5-dein	Is that your car?	hili und lako kongruieren beide mit Kl.5
+198	Hili ni lako?	hili ni l-ako	KL5.DEM KOP KL5-dein	Is that yours?	Possessiv steht allein, Klasse bleibt erkennbar
+199	Siwezi kuja, kwa sababu mimi ni mgonjwa.	si-wez-i ku-j-a kwa sababu mimi ni m-gonjwa	1SG.NEG-können-NEG KL15-kommen-IND für KL9.Ursache ich KOP KL1-krank	I cannot come, because I am ill.	siwezi: negatives si- plus Endvokal -i
+200	Nachukua hiki hapa.	na-chuku-a hiki hapa	1SG.PRÄS.ALLG-nehmen-IND KL7.DEM hier	I will take that one there.	Swahili hat keinen Artikel, nur Demonstrativa
+201	Hii ni barua unayoitafuta.	hii ni barua u-na-yo-i-tafut-a	KL9.DEM KOP KL9.Brief 2SG-PRÄS-REL9-OBJ9-suchen-IND	Here is the letter you are looking for.	Relativsatz ohne Relativpronomen, nur Infixe
+202	Tiketi utaipata stesheni.	tiketi u-ta-i-pat-a stesheni	KL9.Fahrkarte 2SG-FUT-OBJ9-bekommen-IND KL9.Bahnhof	You can get the ticket at the station.	Vorangestelltes Objekt wird im Verb wiederholt
+203	Maua ni kwa ajili yako.	ma-ua ni kwa ajili y-ako	KL6-Blume KOP für KL9.Zweck KL9-dein	The flowers are for you.	kwa ajili ya für den Zweck
+204	Napenda kuchukua keki hii zaidi.	na-pend-a ku-chuku-a keki hii zaidi	1SG.PRÄS.ALLG-mögen-IND KL15-nehmen-IND KL9.Kuchen KL9.DEM mehr	I would rather have this cake.	lieber = kupenda zaidi
+205	Maua yanakupendeza?	ma-ua ya-na-ku-pendez-a	KL6-Blume KL6-PRÄS-OBJ2SG-gefallen-IND	Do you like the flowers?	Das Gefallende ist Subjekt, der Mensch Objekt
+206	Leo jioni tunaenda disko kucheza.	leo jioni tu-na-end-a disko ku-chez-a	heute KL9.Abend 1PL-PRÄS-gehen-IND KL9.Disco KL15-tanzen-IND	This evening we are going dancing at the disco.	Zweck durch Infinitiv der Kl.15
+207	Binti yangu ni mgonjwa. Tunaenda kwa daktari.	binti y-angu ni m-gonjwa tu-na-end-a kwa daktari	KL5/KL1.Tochter KL9-mein KOP KL1-krank 1PL-PRÄS-gehen-IND zu KL5/KL1.Arzt	My daughter is ill. We are going to the doctor.	binti nimmt yangu Kl.9, kongruiert aber als Person
+208	Mnataka chumba cha watu wawili au cha mtu mmoja?	m-na-tak-a ki-umba ch-a watu w-awili au ch-a mtu m-moja	2PL-PRÄS-wollen-IND KL7-Zimmer KL7-GEN KL2.Leute KL2-zwei oder KL7-GEN KL1.Mensch KL1-eins	Would you like a double room or a single room?	Der Genitiv cha wiederholt sich beim zweiten Glied
+209	Familia yangu inakaa kijijini.	familia y-angu i-na-ka-a ki-jiji-ni	KL9.Familie KL9-mein KL9-PRÄS-wohnen-IND KL7-Dorf-LOK	My family lives in a village.	Ortssuffix -ni tritt an das Nomen der Kl.7
+210	Mfuko wako unaweza kuuweka huko.	m-fuko w-ako u-na-wez-a ku-u-wek-a huko	KL3-Tasche KL3-dein KL3-PRÄS-können-IND KL15-OBJ3-stellen-IND dorthin	You can put your bag over there.	Objektpräfix -u- greift mfuko Kl.3 auf
+211	Nyumba yetu iko huko.	nyumba y-etu i-ko huko	KL9.Haus KL9-unser KL9-sein.da dort	There is our house.	iko für Sachen, yuko für Personen
+212	Tukae nje?	tu-ka-e nje	1PL-sitzen-KONJ draußen	Shall we sit outside?	nje ist unveränderlich
+213	Tafadhali nichapishie fomu.	tafadhali ni-chapish-i-e fomu	bitte OBJ1SG-drucken-APPL-KONJ KL9.Formular	Please print the form for me.	Applikativ nennt den Begünstigten
+214	Printa yangu imeharibika.	printa y-angu i-me-haribik-a	KL9.Drucker KL9-mein KL9-PERF-kaputt.gehen-IND	My printer is broken.	"Stativ -ik- plus Perfekt ergibt ""ist kaputt"""
+215	Bonyeza hapa, kisha kompyuta itawaka.	bonyez-a hapa kisha kompyuta i-ta-wak-a	drücken-IMP hier dann KL9.Computer KL9-FUT-angehen-IND	Press here, then the computer comes on.	kuwaka für Licht und Geräte
+216	Ni bora mpite katika barabara pana.	ni bora m-pit-e katika barabara pana	KOP besser 2PL-gehen-KONJ durch KL9.Straße breit	It is best to go along the Breite Straße.	pana bleibt in Kl.9 ohne Präfix
+217	Sijaelewa tangazo.	si-ja-elew-a tangazo	1SG.NEG-PERF.NEG-verstehen-IND KL5.Durchsage	I did not understand the announcement.	-ja- ist das negative Perfekt: noch nicht
+218	Hamruhusiwi kuvuta sigara hapa.	ham-ruhus-iw-i ku-vut-a sigara hapa	2PL.NEG-erlauben-PASS-NEG KL15-ziehen-IND KL9.Zigarette hier	You are not allowed to smoke here.	"rauchen = kuvuta sigara, ""Zigarette ziehen"""
+219	Naweza kuwakaribisha kahawa?	na-wez-a ku-wa-karibish-a kahawa	1SG.PRÄS.ALLG-können-IND KL15-OBJ2PL-einladen-IND KL9.Kaffee	May I invite you for a coffee?	karibisha ist der Kausativ zu karibu
+220	Haipaswi kugharimu zaidi ya Euro kumi na tano.	hai-pasw-i ku-gharimu zaidi y-a Euro kumi na tano	KL9.NEG-sollen-NEG KL15-kosten mehr KL9-GEN Euro zehn und fünf	It must not cost more than 15 euros.	fünfzehn = kumi na tano
+221	Una kitu cha kunywa? Nina kiu kali.	u-na ki-tu ch-a ku-nyw-a ni-na kiu kali	2SG-haben KL7-Ding KL7-GEN KL15-trinken-IND 1SG-haben KL9.Durst scharf	Do you have something to drink? I am very thirsty.	Durst haben, nicht durstig sein
+222	Sipendi kuoga kwenye bafu, napenda kunyeshewa zaidi.	si-pend-i ku-og-a kwenye bafu na-pend-a ku-nyeshe-w-a zaidi	1SG.NEG-mögen-NEG KL15-baden-IND an KL9.Bad 1SG.PRÄS.ALLG-mögen-IND KL15-duschen-PASS-IND mehr	I do not much like bathing, I prefer showering.	duschen steht im Passiv: man wird berieselt
+223	Nyumba yetu ina bomba la kunyeshea tu.	nyumba y-etu i-na bomba l-a ku-nyeshe-a tu	KL9.Haus KL9-unser KL9-haben KL5.Rohr KL5-GEN KL15-berieseln-IND nur	Our flat only has a shower.	Dusche als bomba la kunyeshea umschrieben
+224	Kwenye kona inayofuata kushoto.	kwenye kona i-na-yo-fuat-a ku-shoto	an KL9.Ecke KL9-PRÄS-REL9-folgen-IND KL17-links	Left at the next corner.	links und rechts sind Ortswörter der Kl.17
+225	Huyu ni mume wangu/mke wangu.	huyu ni mume w-angu mke w-angu	KL1.DEM KOP KL1.Ehemann KL1-mein KL1.Ehefrau KL1-mein	This is my husband/my wife.	mume und mke sind beide Kl.1
+226	Unataka yai kwa kifungua kinywa?	u-na-tak-a yai kwa ki-fungua kinywa	2SG-PRÄS-wollen-IND KL5.Ei für KL7-öffnen KL7.Mund	Would you like an egg for breakfast?	yai Kl.5, Plural mayai Kl.6
+227	Una haraka?	u-na haraka	2SG-haben KL9.Eile	Are you in a hurry?	Eile haben statt eilig sein
+228	Nachukua bia. Unataka moja pia?	na-chuku-a bia u-na-tak-a moja pia	1SG.PRÄS.ALLG-nehmen-IND KL9.Bier 2SG-PRÄS-wollen-IND eins auch	I will have a beer. Do you want one too?	"moja steht allein für ""eines"""
+229	Kuna mtu hapa anayeweza kufanya hivi?	ku-na mtu hapa a-na-ye-wez-a ku-fany-a hivi	KL17-mit KL1.Mensch hier KL1-PRÄS-REL1-können-IND KL15-tun-IND so	Is there someone here who can do that?	Relativinfix -ye- für Personen der Kl.1
+230	Mtihani ni rahisi kabisa.	m-tihani ni rahisi kabisa	KL3-Prüfung KOP einfach ganz	The exam is quite easy.	rahisi heißt einfach und billig
+231	Kwenda na kurudi? - Hapana, kwenda tu tafadhali.	kw-end-a na ku-rudi hapana kw-end-a tu tafadhali	KL15-gehen-IND und KL15-zurückkehren nein KL15-gehen-IND nur bitte	Return? - No, single only, please.	"einfache Fahrt wörtlich ""nur hin"""
+232	Nahitaji chumba cha kawaida tu.	na-hitaji ki-umba ch-a kawaida tu	1SG.PRÄS.ALLG-brauchen KL7-Zimmer KL7-GEN KL9.Gewohnheit nur	I only need a simple room.	"cha kawaida heißt ""gewöhnlich, schlicht"""
+233	Njia ya kuingia iko kwenye kona.	njia y-a ku-ingi-a i-ko kwenye kona	KL9.Weg KL9-GEN KL15-hineingehen-IND KL9-sein.da an KL9.Ecke	The entrance is round the corner.	Eingang als njia ya kuingia umschrieben
+234	Lazima ninunue vitu kwa kesho.	lazima ni-nunu-e vi-tu kwa kesho	muss 1SG-kaufen-KONJ KL8-Ding für morgen	I still have to shop for tomorrow.	"einkaufen = vitu kununua, ""Dinge kaufen"""
+235	Naweza kuwakaribisha kahawa?	na-wez-a ku-wa-karibish-a kahawa	1SG.PRÄS.ALLG-können-IND KL15-OBJ2PL-einladen-IND KL9.Kaffee	May I invite you for a coffee?	Objektpräfix -wa- steht für höfliches Sie
+236	Asante kwa mwaliko!	asante kwa mw-aliko	danke für KL3-Einladung	Thank you for the invitation!	mwaliko Kl.3, Plural mialiko Kl.4

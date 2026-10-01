@@ -1,0 +1,50 @@
+id	satz_sw	gloss_morpheme	gloss_labels	satz_en	hinweis
+334	Mnataka kuchukua mizigo yenu?	m-na-tak-a ku-chuku-a mi-zigo y-enu	2PL-PRÄS-wollen-IND KL15-nehmen-IND KL4-Gepäck KL4-euer	Do you want to take your luggage with you?	mzigo Kl.3, Plural mizigo Kl.4
+335	Tazama, anakuja hivi sasa.	tazam-a a-na-kuj-a hivi sasa	schauen-IMP 3SG-PRÄS-kommen-IND gleich jetzt	There he comes, just now.	"hivi sasa heißt ""eben jetzt"""
+336	Endeleeni moja kwa moja!	endele-eni moja kwa moja	weitergehen-IMP.PL eins für eins	Keep going straight ahead!	"geradeaus wörtlich ""eins für eins"""
+337	Napenda kwenda kununua vitu.	na-pend-a kw-end-a ku-nunu-a vi-tu	1SG.PRÄS.ALLG-mögen-IND KL15-gehen-IND KL15-kaufen-IND KL8-Ding	I like going shopping.	gern wird durch kupenda ausgedrückt
+338	Maduka yanafunga saa kumi na mbili na nusu.	ma-duka ya-na-fung-a saa kumi na mbili na nusu	KL6-Geschäft KL6-PRÄS-schließen-IND KL9.Stunde zehn und zwei und KL9.Hälfte	The shops close at 18.30.	saa kumi na mbili na nusu = 18.30 Uhr
+339	Asante kwa zawadi nzuri.	asante kwa zawadi n-zuri	danke für KL9.Geschenk KL9-gut	Thank you for the lovely present.	nzuri mit Nasalpräfix der Kl.9
+340	Kwa bahati mbaya sina ndugu.	kwa bahati m-baya si-na ndugu	für KL9.Glück KL9-schlecht 1SG.NEG-haben KL9/KL2.Geschwister	Unfortunately I have no brothers or sisters.	ndugu deckt Geschwister und Verwandte ab
+341	Mazungumzo na Bibi Kunz ni saa nane.	ma-zungumzo na bibi Kunz ni saa nane	KL6-Gespräch mit KL5/KL1.Frau Kunz KOP KL9.Stunde acht	The meeting with Mrs Kunz is at 14.00.	saa nane = 14 Uhr, achte Stunde nach Sonnenaufgang
+342	Jana nilikuwa mgonjwa.	jana ni-li-kuw-a m-gonjwa	gestern 1SG-PRÄT-sein-IND KL1-krank	Yesterday I was ill.	Vergangenheit mit -li-, Zustand mit kuwa
+343	Mke wangu alifariki jana.	mke w-angu a-li-fariki jana	KL1.Ehefrau KL1-mein 3SG-PRÄT-sterben gestern	My wife died yesterday.	kufariki ist arabisches Lehnverb auf -i
+344	Kinywaji nikipendacho zaidi ni juisi ya nyanya.	ki-nywaji ni-ki-pend-a-cho zaidi ni juisi y-a nyanya	KL7-Getränk 1SG-OBJ7-mögen-IND-REL7 mehr KOP KL9.Saft KL9-GEN KL9.Tomate	My favourite drink is tomato juice.	Relativsuffix -cho steht am Verbende, Klasse 7
+345	"Kwenye ""uzito"" unaandika: kilo sitini na mbili."	kwenye uzito u-na-andik-a kilo sitini na mbili	an KL14.Gewicht 2SG-PRÄS-schreiben-IND KL9.Kilo sechzig und zwei	"Under ""weight"" you write: 62 kilos."	zweiundsechzig = sitini na mbili
+346	Nani anashinda mchezo?	nani a-na-shind-a m-chezo	wer KL1-PRÄS-gewinnen-IND KL3-Spiel	Who is winning the game?	kushinda heißt gewinnen und besiegen
+347	Tafadhali glasi nyingine ya mvinyo!	tafadhali glasi ny-ingine y-a m-vinyo	bitte KL9.Glas KL9-andere KL9-GEN KL3-Wein	Another glass of wine, please!	"nyingine heißt ""ein weiteres"""
+348	Tunahitaji glasi tatu bado.	tu-na-hitaji glasi tatu bado	1PL-PRÄS-brauchen KL10.Glas drei noch	We still need three glasses.	glasi ist Kl.9 und Kl.10 gleich
+349	Mnaweza kuniamini, ni hivyo.	m-na-wez-a ku-ni-amini ni hivyo	2PL-PRÄS-können-IND KL15-OBJ1SG-glauben KOP so	You can believe me, it is true.	kuamini ist arabisches Lehnverb auf -i
+350	Nadhani anakuja hivi punde.	na-dhani a-na-kuj-a hivi punde	1SG.PRÄS.ALLG-meinen 3SG-PRÄS-kommen-IND gleich sofort	I think he is coming in a moment.	kudhani für Vermutung, kuamini für Vertrauen
+351	Kwangu ni sawa.	kw-angu ni sawa	KL17-mein KOP gleich	It is all the same to me.	sawa heißt gleich, in Ordnung und einverstanden
+352	Hii ni bei ile ile.	hii ni bei ile ile	KL9.DEM KOP KL9.Preis KL9.DEM.fern KL9.DEM.fern	That is the same price.	"Verdoppeltes Demonstrativ heißt ""derselbe"""
+353	Nakuja hivi punde.	na-kuj-a hivi punde	1SG.PRÄS.ALLG-kommen-IND gleich sofort	I am coming right away.	hivi punde für die unmittelbare Zukunft
+354	Treni ya kasi kwenda Berlin leo inasimama jukwaa namba kumi na mbili.	treni y-a kasi kw-end-a Berlin leo i-na-simam-a jukwaa namba kumi na mbili	KL9.Zug KL9-GEN KL9.Geschwindigkeit KL15-gehen-IND Berlin heute KL9-PRÄS-halten-IND KL5.Bahnsteig KL9.Nummer zehn und zwei	The express to Berlin stops at platform 12 today.	zwölf = kumi na mbili
+355	Bahati njema!	bahati n-jema	KL9.Glück KL9-gut	Good luck!	njema mit Nasalpräfix der Kl.9
+356	Watoto wangu wameoa kwa furaha.	watoto w-angu wa-me-o-a kwa furaha	KL2.Kind KL2-mein KL2-PERF-heiraten-IND mit KL9.Freude	My children are happily married.	kuoa heiratet eine Frau, kuolewa einen Mann
+357	Hongera kwa siku yako ya kuzaliwa.	hongera kwa siku y-ako y-a ku-zali-w-a	KL9.Glückwunsch für KL9.Tag KL9-dein KL9-GEN KL15-gebären-PASS-IND	Happy birthday.	Zweifache Kl.9-Kongruenz: yako und ya
+358	Leo tuna nyuzi joto thelathini.	leo tu-na nyuzi joto thelathini	heute 1PL-haben KL10.Grad KL9.Hitze dreißig	Today we have thirty degrees.	Grad Celsius = nyuzi joto
+359	Nakupongeza!	na-ku-pongez-a	1SG.PRÄS.ALLG-OBJ2SG-gratulieren-IND	Congratulations!	Objektpräfix -ku- für dich
+360	Leo tunachoma nyama bustanini.	leo tu-na-chom-a nyama bustani-ni	heute 1PL-PRÄS-grillen-IND KL9.Fleisch KL9.Garten-LOK	Today we are having a barbecue in the garden.	"grillen = kuchoma nyama, ""Fleisch brennen"""
+361	Kaka yangu na mimi tuna urefu sawa.	kaka y-angu na mimi tu-na urefu sawa	KL9/KL1.Bruder KL9-mein und ich 1PL-haben KL14.Größe gleich	My brother and I are the same height.	Größe haben statt groß sein
+362	Frankfurt ni mji mkubwa.	Frankfurt ni m-ji m-kubwa	Frankfurt KOP KL3-Stadt KL3-groß	Frankfurt is a big city.	mkubwa kongruiert mit mji Kl.3
+363	Mnayo hii pia kwa ukubwa arobaini?	m-na-yo hii pia kwa ukubwa arobaini	2PL-haben-REL9 KL9.DEM auch für KL14.Größe vierzig	Do you have this in size 40 as well?	ukubwa ist Kl.14, ein Abstraktum
+364	Babu na bibi wangu wanakaa Japani.	babu na bibi w-angu wa-na-ka-a Japani	KL9/KL1.Großvater und KL9/KL1.Großmutter KL2-mein KL2-PRÄS-wohnen-IND Japan	My grandparents live in Japan.	Großeltern als babu na bibi, Kongruenz Kl.2
+365	Bibi yangu anaitwa Eva.	bibi y-angu a-na-it-w-a Eva	KL9/KL1.Großmutter KL9-mein 3SG-PRÄS-nennen-PASS-IND Eva	My grandmother is called Eva.	yangu Kl.9, Verbkongruenz a- aber Kl.1
+366	Babu yangu ana miaka themanini tayari.	babu y-angu a-na mi-aka themanini tayari	KL9/KL1.Großvater KL9-mein 3SG-haben KL4-Jahr achtzig schon	My grandfather is already 80.	"Alter durch ""Jahre haben"""
+367	Kikundi cha kwanza kinaanza saa kumi.	ki-kundi ch-a kwanza ki-na-anz-a saa kumi	KL7-Gruppe KL7-GEN erste KL7-PRÄS-anfangen-IND KL9.Stunde zehn	The first group begins at 16.00.	saa kumi = 16 Uhr, zehnte Stunde nach Sonnenaufgang
+368	Salamu nyingi kwa mke wako.	salamu ny-ingi kwa mke w-ako	KL10.Gruß KL10-viele für KL1.Ehefrau KL1-dein	Best wishes to your wife.	salamu ist Kl.9 und Kl.10 gleich
+369	Kwa salamu za heri	kwa salamu z-a heri	mit KL10.Gruß KL10-GEN KL9.Segen	With kind regards	Briefschluss ohne Satzzeichen
+370	Pasipoti haifai tena.	pasipoti hai-fa-i tena	KL9.Pass KL9.NEG-taugen-NEG mehr	The passport is no longer valid.	kufaa heißt taugen, gültig sein
+371	Huko kuna ofa nafuu.	huko ku-na ofa nafuu	dort KL17-mit KL10.Angebot günstig	There are good offers there.	nafuu bleibt unverändert
+372	Hii naiona nzuri.	hii na-i-on-a n-zuri	KL9.DEM 1SG.PRÄS.ALLG-OBJ9-sehen-IND KL9-gut	I think that is good.	finden = kuona, wörtlich sehen
+373	Nakuja saa saba. - Vizuri!	na-kuj-a saa saba vi-zuri	1SG.PRÄS.ALLG-kommen-IND KL9.Stunde sieben KL8-gut	I will come at 13.00. - Good!	saa saba = 13 Uhr, siebte Stunde
+374	Habari za asubuhi!	habari z-a asubuhi	KL10.Nachricht KL10-GEN KL9.Morgen	Good morning!	Gruß fragt nach den Nachrichten des Morgens
+375	Mwaka mpya mwema!	mw-aka m-pya mw-ema	KL3-Jahr KL3-neu KL3-gut	Happy New Year!	Dreifache Kl.3-Kongruenz in drei Wörtern
+376	Karibu chakula!	karibu chakula	willkommen KL7.Essen	Enjoy your meal!	karibu lädt ein, es ist kein Wunsch
+377	Ana nywele ndefu.	a-na nywele n-defu	3SG-haben KL10.Haar KL10-lang	She has long hair.	nywele Kl.10, Singular unywele Kl.11
+378	Nina gari jipya.	ni-na gari ji-pya	1SG-haben KL5.Auto KL5-neu	I have a new car.	jipya mit ji-Präfix der Kl.5
+379	Kuku mmoja na chipsi tafadhali!	kuku m-moja na chipsi tafadhali	KL9.Hähnchen KL1-eins und KL10.Pommes bitte	Chicken and chips, please!	Tiere nehmen oft die Personenkongruenz
+380	Mnataka malazi na chakula chote au chakula kimoja?	m-na-tak-a ma-lazi na chakula ch-ote au chakula ki-moja	2PL-PRÄS-wollen-IND KL6-Unterkunft und KL7.Essen KL7-alle oder KL7.Essen KL7-eins	Would you like full board or half board?	chote und kimoja kongruieren mit chakula Kl.7
+381	Tunakutana ukumbi B	tu-na-kut-an-a ukumbi B	1PL-PRÄS-treffen-REZ-IND KL11.Halle B	We are meeting in hall B	ukumbi Kl.11, Plural kumbi Kl.10
+382	Hujambo Inge! Habari?	hu-jambo Inge habari	2SG.NEG-Sache Inge KL10.Nachricht	Hello Inge! How are you?	"hujambo heißt wörtlich ""du hast keine Sache"""
