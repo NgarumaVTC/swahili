@@ -7,6 +7,7 @@ klassen_lexikon.tsv und der Konkordanztabelle erzeugt -- eine Korrektur im
 Lexikon wirkt beim naechsten Lauf auf alle betroffenen Karten.
 """
 import csv
+import re
 import adjektive as A
 import konkordanz as K
 
@@ -42,6 +43,46 @@ def lade_lexikon():
                 and len(r['sw_singular'].split()) == 1]
 
 
+def kurz(de):
+    """'der Fuss, -ue, e' -> 'der Fuss'.
+
+    Die deutsche Pluralangabe der Wortliste ist auf einer Klassenkarte
+    Ballast -- gefragt ist die Swahili-Klasse, nicht der deutsche Plural.
+    """
+    return re.split(r',\s*[-\u2013]', de)[0].strip()
+
+
+# Mehr als drei Bedeutungen sprengen die Kartenbreite, ohne beim Erkennen
+# des Worts noch zu helfen.
+MAX_BEDEUTUNGEN = 3
+
+
+def bedeutung(woerter):
+    return ', '.join(woerter[:MAX_BEDEUTUNGEN])
+
+
+def gruppen(lex):
+    """Ein Swahili-Wort, eine Karte -- mit allen seinen Bedeutungen.
+
+    Das Lexikon ist nach dem deutschen Stichwort gebaut, darum steht kazi
+    viermal darin (Arbeit, Beruf, Job, Aufgabe). Fuer den Drill zaehlt das
+    Swahili-Wort; die deutschen und englischen Bedeutungen wandern
+    zusammen auf dieselbe Karte, statt dass drei davon als Dublette
+    wegfallen. Das Klassenpaar gehoert in den Schluessel: bibi ist als
+    'Dame' Kl. 5/6 (mabibi), als 'Oma' Kl. 9/10 -- zwei echte Karten.
+    """
+    aus = {}
+    for r in lex:
+        g = aus.setdefault(
+            (r['sw_singular'], r['klasse_sg'], r['klasse_pl']),
+            {**r, 'de': [], 'en': []})
+        for feld, liste in (('de_nomen', g['de']), ('en_nomen', g['en'])):
+            w = kurz(r[feld]) if feld == 'de_nomen' else r[feld].strip()
+            if w and w not in liste:
+                liste.append(w)
+    return list(aus.values())
+
+
 HINWEIS_EN = {
     'Nasalpräfix n- vor z-': 'nasal prefix n- before z-',
     'kein Nasalpräfix vor k-': 'no nasal prefix before k-',
@@ -53,7 +94,7 @@ HINWEIS_EN = {
 
 
 def zeilen():
-    lex = lade_lexikon()
+    lex = gruppen(lade_lexikon())
     out = []
 
     def add(typ, klasse, vs, rs, erkl, *tags, vs_en='', erkl_en='', rs_en=''):
@@ -87,9 +128,10 @@ def zeilen():
             erkl_en += (f'  —  careful: form class {kl}, but agreement '
                         f'class {kong} (person)')
         add('Klasse bestimmen', kl,
-            f'{r["sw_singular"]}  —  welche Nominalklasse?', rs, erkl,
-            'klasse', f'kl{kl}',
-            vs_en=f'{r["sw_singular"]}  —  which noun class?',
+            f'{r["sw_singular"]} ({bedeutung(r["de"])})  —  '
+            f'welche Nominalklasse?', rs, erkl, 'klasse', f'kl{kl}',
+            vs_en=f'{r["sw_singular"]} ({bedeutung(r["en"])})  —  '
+                  f'which noun class?',
             erkl_en=erkl_en)
 
     # --- 2. Plural bilden -------------------------------------------------
@@ -97,11 +139,12 @@ def zeilen():
         if not r['sw_plural'] or r['sw_plural'] == r['sw_singular']:
             continue
         add('Plural bilden', r['klasse_sg'],
-            f'{r["sw_singular"]}  —  Plural?', r['sw_plural'],
+            f'{r["sw_singular"]} ({bedeutung(r["de"])})  —  Plural?',
+            r['sw_plural'],
             K.klassen_text(r['klasse_sg'], r['klasse_pl'],
                            r['sw_singular'], r['sw_plural']),
             'plural', f'kl{r["klasse_sg"]}',
-            vs_en=f'{r["sw_singular"]}  —  plural?',
+            vs_en=f'{r["sw_singular"]} ({bedeutung(r["en"])})  —  plural?',
             erkl_en=f'class {r["klasse_sg"]}/{r["klasse_pl"]}: '
                     f'{r["sw_singular"]} → {r["sw_plural"]}')
 
@@ -131,34 +174,43 @@ def zeilen():
             erkl = f'Stamm -{stamm} ({A.DEUTSCH[stamm]}) + Kl. {kl} → {f}'
             if hw:
                 erkl += f'  —  {hw}'
-            erkl_en = f'stem -{stamm} + class {kl} → {f}'
+            erkl_en = (f'stem -{stamm} ({A.ENGLISCH[stamm]}) + '
+                       f'class {kl} → {f}')
             if hw:
                 erkl_en += f'  —  {HINWEIS_EN.get(hw, hw)}'
             add('Adjektiv angleichen', kl,
-                f'-{stamm} + Kl. {kl}  —  welche Form?', f, erkl,
-                'adjektiv', f'kl{kl}',
-                vs_en=f'-{stamm} + class {kl}  —  which form?',
+                f'-{stamm} ({A.DEUTSCH[stamm]}) + Kl. {kl}  —  '
+                f'welche Form?', f, erkl, 'adjektiv', f'kl{kl}',
+                vs_en=f'-{stamm} ({A.ENGLISCH[stamm]}) + class {kl}  —  '
+                      f'which form?',
                 erkl_en=erkl_en)
 
     # --- 5. Lueckensatz: die ganze Kette ----------------------------------
-    ketten = [('kitabu', '7', 'Buch', 'book'), ('vitabu', '8', 'Buch', 'books'),
-              ('mti', '3', 'Baum', 'tree'), ('miti', '4', 'Baum', 'trees'),
-              ('gari', '5', 'Auto', 'car'), ('magari', '6', 'Auto', 'cars'),
-              ('mtoto', '1', 'Kind', 'child'), ('watoto', '2', 'Kind', 'children'),
-              ('barua', '9', 'Brief', 'letter'), ('nyumba', '9', 'Haus', 'house')]
+    # Die deutsche Fassung ausgeschrieben statt aus Artikel und Stichwort
+    # zusammengesetzt: Genus und Plural treffen sonst nicht zu (das gute
+    # Buch, die guten Buecher).
+    ketten = [('kitabu', '7', 'das gute Buch', 'the good book'),
+              ('vitabu', '8', 'die guten Bücher', 'the good books'),
+              ('mti', '3', 'der gute Baum', 'the good tree'),
+              ('miti', '4', 'die guten Bäume', 'the good trees'),
+              ('gari', '5', 'das gute Auto', 'the good car'),
+              ('magari', '6', 'die guten Autos', 'the good cars'),
+              ('mtoto', '1', 'das gute Kind', 'the good child'),
+              ('watoto', '2', 'die guten Kinder', 'the good children'),
+              ('barua', '9', 'der gute Brief', 'the good letter'),
+              ('nyumba', '9', 'das gute Haus', 'the good house')]
     for nomen, kl, de, en in ketten:
         r = K.reihe(kl)
         voll = f'{nomen} {A.form("zuri", kl)} {r["dem_nah"]} {r["gen"]} mwalimu'
-        artikel = 'die guten' if kl in ('2', '4', '6', '8', '10') else 'der gute'
         add('Lückensatz', kl,
             f'Ergänze die Konkordanz:  {nomen}  ___zuri  ___  ___a  mwalimu\n'
-            f'({artikel} … des Lehrers, {de})',
+            f'({de} des Lehrers)',
             voll,
             f'Kl. {kl}: Adjektiv {A.form("zuri", kl)} · Demonstrativ '
             f'{r["dem_nah"]} · Genitiv {r["gen"]} — alle drei aus derselben '
             f'Konkordanzreihe', 'luecke', f'kl{kl}',
             vs_en=f'fill in the agreement:  {nomen}  ___zuri  ___  ___a  '
-                  f'mwalimu  (the good {en} of the teacher)',
+                  f'mwalimu  ({en} of the teacher)',
             erkl_en=f'class {kl}: adjective {A.form("zuri", kl)} · '
                     f'demonstrative {r["dem_nah"]} · genitive {r["gen"]} — '
                     f'all three from the same agreement series')

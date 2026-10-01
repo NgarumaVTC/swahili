@@ -24,14 +24,14 @@ Zwei `V` oder zwei `R` auf einem Blatt heißt: falsch gewendet.
 
 ```sh
 python3 make_druckkarten.py haupt kontrast   # 978 Karten, 82 Blätter
-python3 make_druckkarten.py drill            # 543 Karten, 46 Blätter
+python3 make_druckkarten.py drill            # 544 Karten, 46 Blätter
 python3 make_druckkarten.py --referenz       # 1 Blatt Konkordanztabelle
 ```
 
 | Datei | Karten | Blätter | Druckseiten |
 |---|---:|---:|---:|
 | `druck_satzkarten.pdf` | 978 | 82 | 164 |
-| `druck_drill.pdf` | 543 | 46 | 92 |
+| `druck_drill.pdf` | 544 | 46 | 92 |
 | `druck_konkordanz.pdf` | — | 1 | 1 |
 
 Die Konkordanzreihe steht **nicht** auf den Karten. Sie ist je Klasse immer

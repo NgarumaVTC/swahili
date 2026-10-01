@@ -7,7 +7,7 @@ Wer das Deck nur *benutzen* will, braucht keinen davon, sondern den Abschnitt
 
 ## Weg 0 — `install_anki.py` (Deutsch–Swahili, ein Aufruf)
 
-Legt Notiztypen, Decks und alle 1.521 Notizen per AnkiConnect direkt in die
+Legt Notiztypen, Decks und alle 1.522 Notizen per AnkiConnect direkt in die
 laufende Sammlung. Anki muss offen sein und das Add-on **AnkiConnect**
 haben (AnkiWeb-Code `2055492159`) — das ist ein Server *im* Anki-Prozess, kein
 Dienst: ohne offenes Anki antwortet nichts.
@@ -25,8 +25,8 @@ Ergebnis: Notiztyp `Swahili A1 SD1` (16 Felder, Kartenvorlagen `SW → DE` und
 |---|---:|---:|
 | `…::Hauptkarten` | 850 | 1.700 |
 | `…::Kontrast` | 128 | 256 |
-| `…::Drill` | 543 | 543 |
-| **Summe** | **1.521** | **2.499** |
+| `…::Drill` | 544 | 544 |
+| **Summe** | **1.522** | **2.500** |
 
 Nur die beiden deutschen Richtungen. Die englischen Felder stehen trotzdem im
 Notiztyp — `SW → EN` und `EN → SW` sind später zwei zusätzliche Kartenvorlagen,
@@ -125,7 +125,7 @@ Spaltennamen.
 
 Wenn hier etwas verrutscht, merkt man es nicht am Fehler, sondern am Ergebnis:
 landet `anki_master.tsv` versehentlich auf einem Zwei-Feld-Notiztyp wie
-*Einfach*, entstehen 1.521 Karten, bei denen alles ab Spalte 3 wortweise in den
+*Einfach*, entstehen 1.522 Karten, bei denen alles ab Spalte 3 wortweise in den
 Tags steht — und ist „Erste Zeile ist Kopfzeile" dabei **aus**, wird die
 Kopfzeile selbst zur Lernkarte (*Vorderseite* „Stichwort", *Rückseite*
 „Deutsch"). Das ist das Erkennungszeichen. Weg 0 kann das nicht passieren.
@@ -262,11 +262,11 @@ Karten selbst sind davon nicht betroffen, nur die Trennschärfe der fünf Tags.
 |---|---:|---:|
 | Hauptkarten (Goethe-Sätze) | 850 | 3.400 |
 | Kontrastdeck (Minimalpaare) | 128 | 512 |
-| Drilldeck | 543 | 543 |
-| **Summe** | **1.521** | **4.455** |
+| Drilldeck | 544 | 544 |
+| **Summe** | **1.522** | **4.456** |
 
 Das sind alle vier Richtungen. Das deutsche Paket aus Weg 0 hat dieselben
-1.521 Notizen, aber 2.499 Karten (zwei Richtungen plus Drill).
+1.522 Notizen, aber 2.500 Karten (zwei Richtungen plus Drill).
 
 Bei 20 neuen Karten am Tag sind das gut sieben Monate Einführung. Fang mit
 dem Drilldeck und den Kontrastkarten an — ohne die Klassenlogik bleiben die

@@ -21,6 +21,9 @@ KLASSEN = ('1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '14')
 DEUTSCH = {'zuri': 'gut', 'dogo': 'klein', 'kubwa': 'groß',
            'pya': 'neu', 'refu': 'lang'}
 
+ENGLISCH = {'zuri': 'good', 'dogo': 'small', 'kubwa': 'big',
+            'pya': 'new', 'refu': 'long, tall'}
+
 UNREGELMAESSIG = {
     ('zuri', '9'): 'Nasalpräfix n- vor z-',
     ('kubwa', '9'): 'kein Nasalpräfix vor k-',

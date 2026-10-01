@@ -104,7 +104,7 @@ def aus_drill(r):
     return {
         'Stichwort': sauber(r['typ']),
         'Deutsch': sauber(r['vorderseite']),
-        'Englisch': sauber(r['vorderseite']),
+        'Englisch': sauber(r['vorderseite_en'] or r['vorderseite']),
         'Swahili': sauber(r['rueckseite']),
         'Morpheme': '', 'Labels': '', 'LabelsEN': '',
         'Gloss': '', 'GlossEN': '',

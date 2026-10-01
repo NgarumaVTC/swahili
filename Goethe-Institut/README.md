@@ -23,8 +23,8 @@ ausgenommenen Dateien: [`../LICENSE.md`](../LICENSE.md).
 |---|---:|---:|
 | Hauptkarten aus den 850 Goethe-Beispielsätzen | 850 | 3.400 |
 | Kontrastdeck: Minimalpaare | 128 | 512 |
-| Drilldeck: Klassen und Konkordanzen | 543 | 543 |
-| **Summe** | **1.521** | **4.455** |
+| Drilldeck: Klassen und Konkordanzen | 544 | 544 |
+| **Summe** | **1.522** | **4.456** |
 
 Einstieg → `ANKI_SETUP.md`.
 
@@ -51,6 +51,13 @@ hängt.
 Ebenso kennzeichnet das Lexikon 20 Personenwörter, deren **Form** und
 **Kongruenz** auseinanderfallen. *rafiki* ist formal Kl. 9/10, verhält sich
 aber wie Kl. 1/2: *rafiki yangu* (Kl. 9), aber *rafiki anakuja* (Kl. 1).
+
+Das **Drilldeck** fragt die Klassen Swahili-intern ab, nennt aber immer die
+Bedeutung mit: *mguu (das Bein, der Fuß) — welche Nominalklasse?* Eine Klasse
+zu einem Wort zu lernen, das man nicht kennt, ist Unsinn. Da das Lexikon nach
+dem deutschen Stichwort gebaut ist, stehen Synonyme dabei auf **einer** Karte
+— *kazi (der Beruf, der Job, die Arbeit)* — statt dass drei von ihnen als
+Dublette wegfallen.
 
 ## Dateien
 
@@ -85,7 +92,7 @@ aber wie Kl. 1/2: *rafiki yangu* (Kl. 9), aber *rafiki anakuja* (Kl. 1).
 ### Ergebnis
 
 `Swahili-A1-SD1-Deutsch.apkg` — fertiges Deck zum Importieren, deutsche
-Richtungen, 1.521 Notizen / 2.499 Karten. Sonst:
+Richtungen, 1.522 Notizen / 2.500 Karten. Sonst:
 
 `anki_master.tsv` (ein Notiztyp, vier Richtungen) · `anki_sw_de.tsv` ·
 `anki_sw_en.tsv` · `anki_de_sw.tsv` · `anki_en_sw.tsv` · `anki_drill.tsv`
