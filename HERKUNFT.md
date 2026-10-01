@@ -20,8 +20,20 @@ Das PDF selbst liegt in diesem Repository mit, unter
 Weder für die Übernahme der Sätze noch für die Aufnahme des PDF in ein
 öffentliches Repository liegt eine Genehmigung des Rechteinhabers vor.
 
-Eine Anfrage ist formuliert — siehe [`goethe-anfrage.md`](goethe-anfrage.md).
-Eine Antwort liegt zum Zeitpunkt dieser Veröffentlichung nicht vor.
+### Stand der Anfrage
+
+| Adressat | Stand |
+|---|---|
+| Goethe-Institut e. V., `info@goethe.de` | **am 1. Oktober 2026 versandt** |
+| telc GmbH (Mitherausgeberin) | noch nicht versandt |
+| Antwort | liegt nicht vor |
+
+Der Wortlaut steht in [`goethe-anfrage.md`](goethe-anfrage.md). Gebeten wird
+um eine kurze Bestätigung, dass der nicht-kommerziellen Nutzung einschließlich
+dieses öffentlichen Repositorys nicht widersprochen wird — andernfalls um
+einen Hinweis, was zu ändern ist.
+
+Sechs Wochen ohne Antwort werden **nicht** als Zustimmung verstanden.
 
 ## Wozu
 

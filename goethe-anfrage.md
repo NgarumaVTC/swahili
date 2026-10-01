@@ -1,9 +1,10 @@
-# Anfrage an das Goethe-Institut — Entwurf
+# Anfrage an das Goethe-Institut
 
-> **Entwurf.** Nicht versendet. Lies ihn durch, passe an, was nicht stimmt,
-> und schicke ihn selbst ab. Prüfe insbesondere die Adresse: `info@goethe.de`
-> ist ein allgemeiner Eingang. Erreichst du eine Lizenz- oder Rechtsabteilung,
-> ist die vorzuziehen.
+> **Versandt am 1. Oktober 2026** an `info@goethe.de`, von `axel@ramge.de`.
+> Der folgende Text ging im Wortlaut hinaus. Eine Antwort liegt nicht vor.
+>
+> `info@goethe.de` ist ein allgemeiner Eingang. Falls sich eine Lizenz- oder
+> Rechtsabteilung ermitteln lässt, ist eine Nachfassung dorthin sinnvoll.
 
 ---
 
@@ -62,11 +63,11 @@ axel@ramge.de
 
 ---
 
-# Zweite Fassung — telc GmbH
+# Zweite Fassung — telc GmbH · ENTWURF, noch nicht versandt
 
 > Laut Vorwort der Wortliste ist die telc GmbH (früher
 > Weiterbildungs-Testsysteme GmbH) **Mitherausgeberin**. Eine gleichlautende
-> Anfrage dorthin ist sinnvoll. Adresse bitte selbst prüfen; telc sitzt in
+> Anfrage dorthin ist sinnvoll. Es fehlt noch die Zieladresse; telc sitzt in
 > Frankfurt am Main.
 
 **An:** telc GmbH
